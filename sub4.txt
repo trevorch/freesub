@@ -24,28 +24,28 @@ dns:
 proxies:
 
   - name: Free Hysteria Proxy Server00
-    password: 8891:e260680b
+    password: 8891:b2b5f9db
     port: 443
     server: 139.180.190.156
     type: hysteria2
     skip-cert-verify: true
 
   - name: Free Hysteria Proxy Server01
-    password: 8892:96849a17
+    password: 8892:327b353e
     port: 443
     server: 167.179.90.70
     type: hysteria2
     skip-cert-verify: true
 
   - name: Free Hysteria Proxy Server02
-    password: 8893:f70bf853
+    password: 8893:c4a3bda9
     port: 443
     server: 139.180.190.156
     type: hysteria2
     skip-cert-verify: true
 
   - name: Free Hysteria Proxy Server03
-    password: 8894:9ca04c41
+    password: 8894:d46d6c48
     port: 443
     server: 167.179.90.70
     type: hysteria2
