@@ -31,21 +31,21 @@ proxies:
     skip-cert-verify: true
 
   - name: Free Hysteria Proxy Server01
-    password: 8892:d491f7ec
+    password: 8892:754b2e4f
     port: 443
     server: 167.179.90.70
     type: hysteria2
     skip-cert-verify: true
 
   - name: Free Hysteria Proxy Server02
-    password: 8893:26560b17
+    password: 8893:b05a384e
     port: 443
     server: 139.180.190.156
     type: hysteria2
     skip-cert-verify: true
 
   - name: Free Hysteria Proxy Server03
-    password: 8894:8de268f0
+    password: 8894:5385f0aa
     port: 443
     server: 167.179.90.70
     type: hysteria2
