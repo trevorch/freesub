@@ -1,0 +1,71 @@
+name: Classify Subscription Links
+
+on:
+  # 触发条件：当推送到主分支，或者手动触发时
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  classify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Run Classification Script
+        run: |
+          python3 <<EOF
+          import glob
+          import os
+
+          # 1. 获取当前目录下所有 sub*.txt 文件
+          files = glob.glob('sub*.txt')
+          if not files:
+              print("未找到任何 sub*.txt 文件。")
+          else:
+              print(f"找到 {len(files)} 个订阅文件: {files}")
+
+          # 2. 使用字典按协议分类
+          protocol_dict = {}
+
+          for file_path in files:
+              with open(file_path, 'r', encoding='utf-8') as f:
+                  for line in f:
+                      line = line.strip()
+                      # 跳过空行
+                      if not line:
+                          continue
+                      
+                      # 3. 提取协议名 (例如 vless://xxx 提取 vless)
+                      if '://' in line:
+                          protocol = line.split('://')[0].lower()
+                          if protocol not in protocol_dict:
+                              protocol_dict[protocol] = []
+                          protocol_dict[protocol].append(line)
+
+          # 4. 将分类后的链接写入对应的协议文件中
+          for protocol, links in protocol_dict.items():
+              output_file = f"{protocol}.txt"
+              with open(output_file, 'w', encoding='utf-8') as f:
+                  f.write('\n'.join(links))
+              print(f"成功生成 {output_file}，包含 {len(links)} 条链接。")
+              
+          if not protocol_dict:
+              print("未在文件中解析到任何有效的协议链接。")
+          EOF
+
+      - name: Commit and Push Results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.txt
+          # 只有当有文件变更时才提交
+          git diff --staged --quiet || git commit -m "Auto: classify subscription links by protocol"
+          git push
