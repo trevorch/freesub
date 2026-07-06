@@ -1,3 +1,5 @@
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.2.87:443?security=tls&type=ws&path=%2Fsg-amz&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.2MB%2Fs
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.87:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C3.9MB%2Fs
 vless://5c1d3877-9232-4832-a0d5-276db348ff3b@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#【芬兰(bot.sobhanpor.ir:443)】7月6日
 vless://728b59e5-2d43-4dc0-bf8f-ad8bcf0760af@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#【芬兰(bot.sobhanpor.ir:443)】7月6日
 vless://b2c879ed-08a2-4a79-9c57-37c7db614e96@log.bpminecraft.com:8880?&security=none&type=ws&headerType=&host=sweet-cake-1340.474-288.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#【加拿大(log.bpminecraft.com:8880)】7月6日
