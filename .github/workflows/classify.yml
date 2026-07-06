@@ -5,6 +5,8 @@ on:
   push:
     branches: [ "main" ]
   workflow_dispatch:
+
+# 赋予工作流写入仓库的权限
 permissions:
   contents: write
   
@@ -20,6 +22,9 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: '3.12'
+
+      - name: Create classify directory
+        run: mkdir -p classify
 
       - name: Run Classification Script
         run: |
@@ -52,9 +57,10 @@ jobs:
                               protocol_dict[protocol] = []
                           protocol_dict[protocol].append(line)
 
-          # 4. 将分类后的链接写入对应的协议文件中
+          # 4. 将分类后的链接写入 classify 目录下的对应协议文件中
           for protocol, links in protocol_dict.items():
-              output_file = f"{protocol}.txt"
+              # 修改输出路径到 classify 目录
+              output_file = f"classify/{protocol}.txt"
               with open(output_file, 'w', encoding='utf-8') as f:
                   f.write('\n'.join(links))
               print(f"成功生成 {output_file}，包含 {len(links)} 条链接。")
@@ -67,7 +73,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.txt
+          # 只添加 classify 目录下的文件
+          git add classify/*.txt
           # 只有当有文件变更时才提交
           git diff --staged --quiet || git commit -m "Auto: classify subscription links by protocol"
           git push
