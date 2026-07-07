@@ -1,3 +1,6 @@
+trojan://MiTiVPN@141.193.213.21:443?sni=fffffl-lls.MaQror.ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.9MB/s
+trojan://MITIVPN@www.speedtest.net:443?sni=De-Ge-N.MaQror.ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde#%F0%9F%87%BA%F0%9F%87%B8US_2%7C2.2MB/s
+trojan://humanity@172.64.146.211:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.6MB/s
 trojan://699c3488-ee9d-42e9-91fb-0072c376cd7b@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://699c3488-ee9d-42e9-91fb-0072c376cd7b@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://699c3488-ee9d-42e9-91fb-0072c376cd7b@v1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
