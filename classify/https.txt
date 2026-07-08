@@ -1,3 +1,4 @@
+https://38.28.193.1:443#%F0%9F%87%BA%F0%9F%87%B8US_9%7C2.1MB/s
 https://fbf91120-50ba-11ef-a203-f23c91cfbbc9:fbf91120-50ba-11ef-a203-f23c91cfbbc9@30c04c2c-t9zts0-tcmifz-1s3lb.sjc.oshuawei.com:443?sni=30c04c2c-t9zts0-tcmifz-1s3lb.sjc.oshuawei.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS048%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 https://c12f73f6-e8c7-11ed-9246-f23c9164ca5d:c12f73f6-e8c7-11ed-9246-f23c9164ca5d@845b9b23-t9zts0-tjsm26-6gn6.sjc.oshuawei.com:443?sni=845b9b23-t9zts0-tjsm26-6gn6.sjc.oshuawei.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS080%201.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 https://138.199.35.209:9002?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20044%206.8MB/s%20TG%40jcnode
