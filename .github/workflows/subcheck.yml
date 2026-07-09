@@ -1,0 +1,52 @@
+name: Run Subs-Check and Commit
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  run-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 授予工作流提交代码的权限
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v4
+
+      - name: Create directories
+        run: |
+          mkdir -p ./classify
+          mkdir -p ./checked
+
+      - name: Run subs-check container
+        run: |
+          docker run -d \
+            --name subs-check \
+            -p 8299:8299 \
+            -p 8199:8199 \
+            -v $(pwd)/classify:/app/config \
+            -v $(pwd)/checked:/app/output \
+            ghcr.io/beck-8/subs-check:latest
+
+      # 1. 等待容器运行完成（根据你的实际耗时调整时间）
+      - name: Wait for container to finish
+        run: sleep 60 
+
+      # 2. 检查生成的文件（可选，用于调试）
+      - name: Check generated files
+        run: ls -R ./checked
+
+      # 3. 将 checked 目录提交回仓库
+      - name: Commit checked directory
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ./checked
+          # 如果没有文件变更，git commit 会报错，所以加上 --allow-empty 或判断
+          git commit -m "Update checked output from subs-check" || echo "No changes to commit"
+          git push
