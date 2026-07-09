@@ -1,4 +1,5 @@
-https://38.28.193.1:443#%F0%9F%87%BA%F0%9F%87%B8US_3%7C2.6MB/s
+https://test:test.%2B@testkr3.ssv.vc:30446#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.7MB/s
+https://38.28.193.1:443#%F0%9F%87%BA%F0%9F%87%B8US_4%7C1.8MB/s
 https://9bfd0dde-957e-11ec-a8bf-f23c91cfbbc9:%3Cpassword%3E@474de16c-ta1og0-tb224g-1h0r9.hkt.cdnhuawei.com:8443?sni=474de16c-ta1og0-tb224g-1h0r9.hkt.cdnhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK002%202.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 https://6e3ee1de-381f-11ee-87f9-f23c91cfbbc9:6e3ee1de-381f-11ee-87f9-f23c91cfbbc9@dd7a5eb1-ta1og0-tnqudu-1mim2.sj.oshuawei.com:443?sni=dd7a5eb1-ta1og0-tnqudu-1mim2.sj.oshuawei.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS027%201.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 https://61c4be90-6235-11ec-a8bf-f23c91cfbbc9:61c4be90-6235-11ec-a8bf-f23c91cfbbc9@887e72ad-t9zts0-tr9h64-1f1f1.sj.oshuawei.com:443?sni=887e72ad-t9zts0-tr9h64-1f1f1.sj.oshuawei.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20028%201.4MB/s%20TG%40jcnode
