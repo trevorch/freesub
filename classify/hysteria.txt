@@ -1,3 +1,2 @@
-hysteria://dongtaiwang.com@2a14:7584:d097::a:54177?sni=apple.com&upmbps=500&downmbps=1000&insecure=1&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%203.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-hysteria://dongtaiwang.com@5.83.129.90:54177?sni=apple.com&upmbps=500&downmbps=1000&insecure=1&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%202.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-hysteria://dongtaiwang.com@5.83.129.153:20088?sni=apple.com&upmbps=500&downmbps=1000&insecure=1&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE007%203.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+hysteria://5.83.129.90:54177?peer=apple.com&insecure=1&upmbps=500&downmbps=1000&alpn=h3#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.1MB/s
+hysteria://5.83.129.153:20088?auth=dongtaiwang.com&peer=apple.com&insecure=1&upmbps=500&downmbps=1000&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.0MB/s
