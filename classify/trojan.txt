@@ -1,3 +1,5 @@
+trojan://1df3ece1218bedba28c6c6ac726a07bb@114.80.8.128:39001?sni=114.80.8.128&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C3.6MB/s
+trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C1.8MB/s
 trojan://a35b783c-2fc1-4bd4-8dfd-6b19dbc79aea@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://a35b783c-2fc1-4bd4-8dfd-6b19dbc79aea@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://a35b783c-2fc1-4bd4-8dfd-6b19dbc79aea@v1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
