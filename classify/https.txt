@@ -1,4 +1,3 @@
-https://test:test.%2B@testkr3.ssv.vc:30446#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.6MB/s
 https://test:test.%2B@testkr3.ssv.vc:30446?allowInsecure=1&udp=1#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20001%200.7MB/s%20TG%40jcnode
 https://88f6e3c4-1d01-11ef-812c-f23c91cfbbc9:88f6e3c4-1d01-11ef-812c-f23c91cfbbc9@e6b34ec2-t9zts0-thmjbt-1rk9y.sjc.oshuawei.com:443?sni=e6b34ec2-t9zts0-thmjbt-1rk9y.sjc.oshuawei.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS082%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 https://138.199.35.203:9002?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20051%206.8MB/s%20TG%40jcnode

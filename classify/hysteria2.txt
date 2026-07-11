@@ -1,3 +1,6 @@
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@ma-ybu7mswk.9966690.xyz:10000?sni=ma-ybu7mswk.9966690.xyz&insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D#%F0%9F%87%B2%F0%9F%87%A6MA_1%7C2.1MB/s
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?sni=argg2.auragg.org&insecure=0#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.8MB/s
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg3.auragg.org:443?sni=argg3.auragg.org&insecure=0#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.2MB/s
 hysteria2://83290c86-d4b0-4bba-906e-27f1a92619fd@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://83290c86-d4b0-4bba-906e-27f1a92619fd@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://83290c86-d4b0-4bba-906e-27f1a92619fd@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
