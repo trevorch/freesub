@@ -1,4 +1,6 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.236.225:443?sni=vpn-sg-001.fastervpn.world&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.0MB/s
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_4%7C2.5MB/s
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?sni=argg2.auragg.org&insecure=0#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.7MB/s
+hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg3.auragg.org:443?sni=argg3.auragg.org&insecure=0#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.5MB/s
 hysteria2://7b492134-2102-4b2a-9834-fa98cb8f4587@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://7b492134-2102-4b2a-9834-fa98cb8f4587@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://7b492134-2102-4b2a-9834-fa98cb8f4587@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
