@@ -83,6 +83,9 @@ trojan://c3873591-78a2-4cbc-8ce1-764bcd570b2a@v1in2.stableq.top:24408?allowInsec
 trojan://c3873591-78a2-4cbc-8ce1-764bcd570b2a@v1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
 trojan://c3873591-78a2-4cbc-8ce1-764bcd570b2a@v1us9.stableq.top:24422?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90902%20%7C%201%E5%80%8D%E7%8E%87
 trojan://c3873591-78a2-4cbc-8ce1-764bcd570b2a@v1us9.stableq.top:24413?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90903%20%7C%201%E5%80%8D%E7%8E%87
+trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&fp=chrome&ech=ip.gs%2Budp://8.8.8.8&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR003%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://CFvS99VcEv82u3XFr36EPbumLPadKXT6@trojan-tcp-tls-test.hysteria.ltd:9443#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9AEE001%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com&alpn=http/1.1&fp=chrome&ech=ip.gs%2Budp://8.8.8.8&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR004%203.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#TR 🇹🇷 | @Raydikalx | 314
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#NL 🇳🇱 | @Raydikalx | 315
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian&type=tcp&headerType=none&path=/&allow_insecure=1#HK 🇭🇰 | @Raydikalx | 316
