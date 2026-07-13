@@ -43,7 +43,7 @@ jobs:
           protocol_dict = {}
 
           for file_path in files:
-              with open(file_path, 'r', encoding='utf-8') as f:
+              with open(file_path, 'r', encoding='utf-8-sig') as f:
                   for line in f:
                       line = line.strip()
                       # 跳过空行
