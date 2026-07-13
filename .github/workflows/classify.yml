@@ -53,6 +53,7 @@ jobs:
                       # 3. 提取协议名 (例如 vless://xxx 提取 vless)
                       if '://' in line:
                           protocol = line.split('://')[0].lower()
+                          protocol = protocol.replace('\ufeff', '') 
                           if protocol not in protocol_dict:
                               protocol_dict[protocol] = []
                           protocol_dict[protocol].append(line)
