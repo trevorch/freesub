@@ -1,11 +1,5 @@
-trojan://BxceQaOe@18.162.60.7:27826?sni=t.me%25252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.7MB/s
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.110.193:17005?sni=www.nintendogames.net&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_3%7C2.4MB/s
-trojan://BxceQaOe@54.46.67.204:34638?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_4%7C2.7MB/s
-trojan://BxceQaOe@18.162.60.7:27826?sni=t.me%25252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C3.4MB/s
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.110.193:17005?sni=www.nintendogames.net&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_5%7C1.9MB/s
-trojan://BxceQaOe@54.46.67.204:34638?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_6%7C2.6MB/s
-trojan://1df3ece1218bedba28c6c6ac726a07bb@114.80.8.128:39001?sni=114.80.8.128&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C5.0MB/s
-trojan://MiTiVPN@172.64.154.211:443?sni=fl-o--7-fllav.App-CloUd.IR&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DF--l#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C3.0MB/s
+trojan://1df3ece1218bedba28c6c6ac726a07bb@114.80.8.128:39001?sni=www.yrtok.com&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C4.1MB/s
+trojan://1df3ece1218bedba28c6c6ac726a07bb@114.80.8.128:39001?sni=www.yrtok.com&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C5.2MB/s
 trojan://1b6d1285-9dbe-47c5-b12b-7f57637e032a@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://1b6d1285-9dbe-47c5-b12b-7f57637e032a@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://1b6d1285-9dbe-47c5-b12b-7f57637e032a@v1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
