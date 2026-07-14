@@ -1,6 +1,6 @@
+anytls://89281585-8bde-4ef2-8807-96c603281ef8@tw.lshan.eu.org:43669?security=tls&sni=free.us1.laodavip.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#CA加拿大(ProxyGo免费节点分享)
 anytls://89281585-8bde-4ef2-8807-96c603281ef8@tw.lshan.eu.org:33373?security=tls&sni=free.nl1.laodavip.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#NL荷兰(ProxyGo免费节点分享)
-anytls://89281585-8bde-4ef2-8807-96c603281ef8@tw.lshan.eu.org:43669?security=tls&sni=free.us1.laodavip.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)
-anytls://89b51cea-4379-4882-a8d8-878b5b4770e1@30it.networklinkpro.net:4430?security=tls&sni=img11.360buyimg.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#GB英国(ProxyGo免费节点分享)
+anytls://89281585-8bde-4ef2-8807-96c603281ef8@tw.lshan.eu.org:33373?security=tls&sni=free.nl1.laodavip.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#NL荷兰(ProxyGo免费节点分享)
 anytls://89281585-8bde-4ef2-8807-96c603281ef8@tw.lshan.eu.org:33373?security=tls&sni=free.nl1.laodavip.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 anytls://89281585-8bde-4ef2-8807-96c603281ef8@tw.lshan.eu.org:43669?security=tls&sni=free.us1.laodavip.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 anytls://89b51cea-4379-4882-a8d8-878b5b4770e1@30it.networklinkpro.net:4430?security=tls&sni=img11.360buyimg.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#GB%E8%8B%B1%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
