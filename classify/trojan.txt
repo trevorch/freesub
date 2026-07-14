@@ -1,9 +1,4 @@
-trojan://CF68213490@aware-lionfish.rooster465.autos:443?sni=aware-lionfish.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C4.4MB/s
-trojan://CF68213490@diverse-thrush.rooster465.autos:443?sni=diverse-thrush.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C3.8MB/s
-trojan://CF68213490@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C5.0MB/s
-trojan://CF68213490@star-dodo.rooster465.autos:443?sni=star-dodo.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.4MB/s
-trojan://CF68213490@together-impala.rooster465.autos:443?sni=together-impala.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_4%7C3.8MB/s
-trojan://CF68213490@smooth-lark.rooster465.autos:443?sni=smooth-lark.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_5%7C4.0MB/s
+trojan://0cb2739d-98b8-45ce-b52c-4305c40975a6@h2.bnm.uw.to:443?sni=h2.bnm.uw.to&allowInsecure=0&type=ws&path=%2F0cb2739d-98b8-45ce-b52c-4305c40975a6-tr#%F0%9F%87%BA%F0%9F%87%B8US_8%7C2.4MB/s
 trojan://bd7a1a7f-097f-4698-abb3-ab2a3bb687e5@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://bd7a1a7f-097f-4698-abb3-ab2a3bb687e5@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://bd7a1a7f-097f-4698-abb3-ab2a3bb687e5@v3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
