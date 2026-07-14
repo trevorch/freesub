@@ -1,3 +1,2 @@
-hysteria://dongtaiwang.com@2a14:7584:d097::a:54177?sni=apple.com&upmbps=500&downmbps=1000&insecure=1&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE012%203.0MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 hysteria://5.83.129.153:20088?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=1000&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=500#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.0MB%2Fs%2001
 hysteria://5.83.129.90:54177?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=1000&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=500#%F0%9F%87%A9%F0%9F%87%AADE_51%7C1.5MB%2Fs%2001

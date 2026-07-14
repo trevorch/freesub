@@ -168,7 +168,6 @@ trojan://c3873591-78a2-4cbc-8ce1-764bcd570b2a@v1in2.stableq.top:24408?allowInsec
 trojan://c3873591-78a2-4cbc-8ce1-764bcd570b2a@v1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
 trojan://c3873591-78a2-4cbc-8ce1-764bcd570b2a@v1us9.stableq.top:24422?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90902%20%7C%201%E5%80%8D%E7%8E%87
 trojan://c3873591-78a2-4cbc-8ce1-764bcd570b2a@v1us9.stableq.top:24413?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90903%20%7C%201%E5%80%8D%E7%8E%87
-trojan://c68526b9-f9e1-49a3-9711-e57d5c717563@dev.aoliuqu.press:16335?sni=dev.aoliuqu.press&fp=chrome&allowInsecure=1&type=grpc&serviceName=zhs&mode=gun#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR006%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.creationlong.org&path=/assignment#US美国(ProxyGo免费节点分享)
