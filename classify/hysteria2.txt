@@ -1,11 +1,5 @@
-hysteria2://Hy2%40SiLiCon2026%21@43.130.7.3:8443?sni=bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.5MB/s
-hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?sni=209.74.81.28&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.1MB/s
-hysteria2://hy2_zxlA_gZ5N1KzZlsyBKW-3sfR@147.224.251.52:55020?sni=129.146.243.146.sslip.io&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_2%7C3.5MB/s
-hysteria2://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:8443?sni=russiapower.accesscam.org&insecure=0#%F0%9F%87%AA%F0%9F%87%AAEE_1%7C2.1MB/s
-hysteria2://0c62d145-d288-4b2c-9df3-8a76e6489d25@172.245.189.138:14656?sni=www.bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_4%7C3.4MB/s
-hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@138.2.116.23:55020?sni=140.245.74.46.sslip.io&insecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C4.1MB/s
-hysteria2://4aeedead-1354-45a4-935d-8bba5e7f82b5@159.223.12.0:443?sni=addons.mozilla.org&insecure=0#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.1MB/s
-hysteria2://7466549e-812f-4b33-b09b-c3e132e6e51b@159.65.79.184:443?sni=addons.mozilla.org&insecure=0#%F0%9F%87%BA%F0%9F%87%B8US_5%7C3.7MB/s
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@ma-ybu7mswk.9966690.xyz:10000?sni=ma-ybu7mswk.9966690.xyz&insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D#%F0%9F%87%B2%F0%9F%87%A6MA_1%7C2.1MB/s
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@ma-ybu7mswk.9966690.xyz:20000?sni=ma-ybu7mswk.9966690.xyz&insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D#%F0%9F%87%B2%F0%9F%87%A6MA_2%7C1.6MB/s
 hysteria2://bd7a1a7f-097f-4698-abb3-ab2a3bb687e5@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://bd7a1a7f-097f-4698-abb3-ab2a3bb687e5@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://bd7a1a7f-097f-4698-abb3-ab2a3bb687e5@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87

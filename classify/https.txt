@@ -1,4 +1,3 @@
-https://test:test.%2B@testkr3.ssv.vc:30446#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.0MB/s
 https://138.199.35.215:9002?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20045%206.8MB/s%20TG%40jcnode
 https://138.199.35.202:9002?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20061%208.0MB/s%20TG%40jcnode
 https://138.199.35.196:9002?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20035%206.8MB/s%20TG%40jcnode
