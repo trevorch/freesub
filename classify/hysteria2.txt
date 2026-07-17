@@ -426,9 +426,10 @@ hysteria2://e310695d-1db6-46f9-81a1-df741e7e2114@v10hk30.stableq.top:45902?sni=v
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443?sni=fl02.auragg.org&insecure=1#%F0%9F%87%B7%F0%9F%87%BARU_1%7C3.4MB/s
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@pl02.auragg.org:443?sni=pl02.auragg.org&insecure=1#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.6MB/s
 hysteria2://V2RayyNGvpn@91.107.174.32:25810?sni=www.amd.com&insecure=1&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AADE_11%7C2.8MB/s
-hysteria2://e3a5bb40be52de65@q.baoge.me:2328?sni=q.baoge.me&insecure=1&allowInsecure=1#KR韩国(ProxyGo免费节点分享)
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@pl02.auragg.org:443?sni=pl02.auragg.org&insecure=0&allowInsecure=0#PL波兰(ProxyGo免费节点分享)
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443?sni=fl02.auragg.org&insecure=0&allowInsecure=0#(ProxyGo免费节点分享)
 hysteria2://c0aa0cee-e855-4bcc-9afc-46241cb17990@fast88.screw.page:443?sni=fast88.screw.page&insecure=0&allowInsecure=0#DE德国(ProxyGo免费节点分享)
-hysteria2://Unleg1t_@38.244.10.239:443?sni=1-hy-sharpbai.yuudiy.life&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Unleg1t_#US美国(ProxyGo免费节点分享)
+hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?sni=ru3.kinotorg.net&insecure=0&allowInsecure=0#PL波兰(ProxyGo免费节点分享)
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&sni=de1.xiaoliyu.cyou#DE 🇩🇪 | @Raydikalx | 808
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#US 🇺🇸 | @Raydikalx | 809
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#US 🇺🇸 | @Raydikalx | 810
