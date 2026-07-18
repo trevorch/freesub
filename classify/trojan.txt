@@ -98,18 +98,12 @@ trojan://NQ26071394@15.237.250.154:443?sni=chief-cricket.rooster465.autos&allowI
 trojan://NQ26071394@18.183.220.94:443?sni=legible-ram.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_13%7C2.0MB/s
 trojan://NQ26071394@52.26.202.76:443?sni=learning-fawn.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_7%7C3.3MB/s
 trojan://NQ26071394@learning-fawn.rooster465.autos:443?sni=learning-fawn.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_8%7C3.3MB/s
-trojan://NQ26071394@kind-unicorn.rooster465.autos:443?security=tls&sni=kind-unicorn.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#PL波兰(ProxyGo免费节点分享)
-trojan://humanity@104.16.174.34:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.creationlong.org&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#(ProxyGo免费节点分享)
-trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#HK中国香港(ProxyGo免费节点分享)
-trojan://NQ26071394@sensible-mongrel.rooster465.autos:443?security=tls&sni=sensible-mongrel.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#KR韩国(ProxyGo免费节点分享)
-trojan://NQ26071394@sensible-mongrel.rooster465.autos:443?security=tls&sni=sensible-mongrel.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#KR韩国(ProxyGo免费节点分享)
-trojan://NQ26071394@adapting-spider.rooster465.autos:443?security=tls&sni=adapting-spider.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
-trojan://NQ26071394@optimal-penguin.rooster465.autos:443?security=tls&sni=optimal-penguin.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
+trojan://humanity@104.19.230.21:443?security=tls&sni=www.multiplydose.com&insecure=1&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#(ProxyGo免费节点分享)
+trojan://rYuChHcwQZskq9E0zdoR@ip4.vpean2.qzz.io:443?security=tls&sni=vpn5.rnmcnm.com&insecure=0&allowInsecure=0&type=ws&host=vpn5.rnmcnm.com&path=/ws-79dffb8106db#FR法国(ProxyGo免费节点分享)
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.creationlong.org&path=/assignment#US美国(ProxyGo免费节点分享)
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none#Global 🌐 | @Raydikalx | 1
 trojan://3632736327@kr04212337.tmdsb.org:1738?security=tls&sni=kr04212337.tmdsb.org&type=tcp&headerType=none#KR 🇰🇷 | @Raydikalx | 2
 trojan://3632736327@kr04212339.tmdsb.org:2648?security=tls&sni=kr04212339.tmdsb.org&type=tcp&headerType=none#KR 🇰🇷 | @Raydikalx | 3
