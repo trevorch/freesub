@@ -103,12 +103,21 @@ trojan://HW85960347@deep-ringtail.rooster465.autos:443?sni=deep-ringtail.rooster
 trojan://HW85960347@normal-cow.rooster465.autos:443?sni=normal-cow.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_9%7C3.8MB/s
 trojan://SX95078263@profound-wolf.rooster465.autos:443?sni=profound-wolf.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_9%7C3.2MB/s
 trojan://JA96378052@tolerant-fowl.rooster465.autos:443?sni=tolerant-fowl.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_10%7C3.8MB/s
+trojan://HW85960347@star-shrew.rooster465.autos:443?security=tls&sni=star-shrew.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
+trojan://HW85960347@touching-turtle.rooster465.autos:443?security=tls&sni=touching-turtle.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
+trojan://HW85960347@daring-cobra.rooster465.autos:443?security=tls&sni=daring-cobra.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
+trojan://JA96378052@apparent-wasp.rooster465.autos:443?security=tls&sni=apparent-wasp.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
+trojan://HW85960347@normal-pika.rooster465.autos:443?security=tls&sni=normal-pika.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
+trojan://JA96378052@probable-weasel.rooster465.autos:443?security=tls&sni=probable-weasel.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)
-trojan://humanity@104.19.230.21:443?security=tls&sni=www.multiplydose.com&insecure=1&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#(ProxyGo免费节点分享)
-trojan://rYuChHcwQZskq9E0zdoR@ip4.vpean2.qzz.io:443?security=tls&sni=vpn5.rnmcnm.com&insecure=0&allowInsecure=0&type=ws&host=vpn5.rnmcnm.com&path=/ws-79dffb8106db#FR法国(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.creationlong.org&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)
+trojan://HW85960347@social-cod.rooster465.autos:443?security=tls&sni=social-cod.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)
+trojan://HW85960347@master-possum.rooster465.autos:443?security=tls&sni=master-possum.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)
+trojan://HW85960347@exciting-cattle.rooster465.autos:443?security=tls&sni=exciting-cattle.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)
+trojan://HW85960347@lucky-urchin.rooster465.autos:443?security=tls&sni=lucky-urchin.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)
+trojan://JA96378052@precious-stag.rooster465.autos:443?security=tls&sni=precious-stag.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)
+trojan://HW85960347@renewed-porpoise.rooster465.autos:443?security=tls&sni=renewed-porpoise.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&sni=grape-power-sg.roxa.org&alpn=http/1.1&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 1
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?sni=grape-power-sg.roxa.org&path=/#SG 🇸🇬 | @Raydikalx | 2
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=auto&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#US 🇺🇸 | @Raydikalx | 3
