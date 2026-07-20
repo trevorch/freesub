@@ -1,1 +1,2 @@
 mierus://dongtaiwang.com:dongtaiwang.com@157.254.223.44?multiplexing=MULTIPLEXING_LOW&port=34567&profile=%F0%9F%87%BA%F0%9F%87%B8US_2%7C3.1MB%2Fs&protocol=TCP
+mierus://dongtaiwang.com:dongtaiwang.com@157.254.223.44?profile=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS067%201.52MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode&port=34567&protocol=TCP&multiplexing=MULTIPLEXING_LOW
