@@ -83,9 +83,7 @@ trojan://bd085587-ae2d-4b86-89e4-e50ec2b09667@v1in2.stableq.top:24408?allowInsec
 trojan://bd085587-ae2d-4b86-89e4-e50ec2b09667@v3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
 trojan://bd085587-ae2d-4b86-89e4-e50ec2b09667@v3us9.stableq.top:24422?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90902%20%7C%201%E5%80%8D%E7%8E%87
 trojan://bd085587-ae2d-4b86-89e4-e50ec2b09667@v3us9.stableq.top:24413?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90903%20%7C%201%E5%80%8D%E7%8E%87
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc&allowInsecure=0&type=ws&path=%2Fin-pdr#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.0MB/s
-trojan://BxceQaOe@43.198.13.164:41421?sni=t.me%25252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C3.4MB/s
-trojan://BxceQaOe@43.198.13.164:41421?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C3.6MB/s
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc&allowInsecure=0&type=ws&path=%2Fin-pdr#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.0MB/s
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.creationlong.org&path=/assignment#US美国(ProxyGo免费节点分享)
