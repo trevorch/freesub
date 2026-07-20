@@ -423,7 +423,8 @@ hysteria2://964dfdd3-459b-439e-8b25-6e0a49b4b4b8@v10hk30.stableq.top:45607?sni=v
 hysteria2://964dfdd3-459b-439e-8b25-6e0a49b4b4b8@v10hk30.stableq.top:45703?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=Jp47s2DVexsPg1Lt#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93007%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://964dfdd3-459b-439e-8b25-6e0a49b4b4b8@v10hk30.stableq.top:45802?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=T3n2MIpDvdZn16TQ#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93008%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://964dfdd3-459b-439e-8b25-6e0a49b4b4b8@v10hk30.stableq.top:45902?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=hvhFznkNqHceM7ct#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93009%20%7C%201%E5%80%8D%E7%8E%87
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.128.145.209:443?sni=vpn-sg-001.fastervpn.world&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.0MB/s
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=www.microsoft.com&insecure=1#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.5MB/s
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.6MB/s
 hysteria2://000081e1-c607-495c-b072-195323fa1113@pipe-4854.internet-booster.com:443?sni=pipe-4854.internet-booster.com&insecure=0&allowInsecure=0#PL波兰(ProxyGo免费节点分享)
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de1-hy2.veilvpn.life:8433?sni=de1-hy2.veilvpn.life&insecure=0&allowInsecure=0#DE德国(ProxyGo免费节点分享)
 hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@ff2.yuntong.click:443?sni=ff2.yuntong.click&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#DE德国(ProxyGo免费节点分享)
