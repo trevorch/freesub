@@ -1,3 +1,4 @@
+hysteria://5.83.129.90:54177?peer=apple.com&insecure=1&upmbps=500&downmbps=1000&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AADE_3%7C1.9MB/s
 hysteria://5.83.129.90:54177?upmbps=11&downmbps=55&peer=bing.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%203.44MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
 hysteria://5.83.129.143:26691?upmbps=11%20Mbps&downmbps=55%20Mbps&peer=apple.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE002%203.27MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
 hysteria://5.83.129.90:54177?upmbps=11&downmbps=55&peer=bing.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE003%203.2MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
