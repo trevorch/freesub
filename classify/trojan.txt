@@ -83,14 +83,9 @@ trojan://964dfdd3-459b-439e-8b25-6e0a49b4b4b8@v1in2.stableq.top:24408?allowInsec
 trojan://964dfdd3-459b-439e-8b25-6e0a49b4b4b8@v3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
 trojan://964dfdd3-459b-439e-8b25-6e0a49b4b4b8@v3us9.stableq.top:24422?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90902%20%7C%201%E5%80%8D%E7%8E%87
 trojan://964dfdd3-459b-439e-8b25-6e0a49b4b4b8@v3us9.stableq.top:24413?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90903%20%7C%201%E5%80%8D%E7%8E%87
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc&allowInsecure=1&type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fin-pdr#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.2MB/s
-trojan://IQ68037294@apt-midge.rooster465.autos:443?sni=apt-midge.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.0MB/s
-trojan://IQ68037294@optimal-dane.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.5MB/s
-trojan://IQ68037294@major-duckling.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.1MB/s
-trojan://IQ68037294@giving-bird.rooster465.autos:443?sni=giving-bird.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_6%7C2.4MB/s
-trojan://IQ68037294@new-antelope.rooster465.autos:443?sni=new-antelope.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C2.7MB/s
-trojan://IQ68037294@integral-elf.rooster465.autos:443?sni=integral-elf.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_5%7C2.6MB/s
-trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_7%7C1.7MB/s
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc&allowInsecure=1&type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fin-pdr#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.4MB/s
+trojan://IQ68037294@pet-albacore.rooster465.autos:443?sni=pet-albacore.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C1.8MB/s
+trojan://IQ68037294@square-anchovy.rooster465.autos:443?sni=square-anchovy.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.2MB/s
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.creationlong.org&path=/assignment#US美国(ProxyGo免费节点分享)
