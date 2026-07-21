@@ -1,3 +1,4 @@
+anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.934618.xyz:22880?security=tls&sni=anytls2.934618.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)
 anytls://dongtaiwang.com@45.221.98.14:59901?security=none&type=tcp&alpn=h2&allowInsecure=1&insecure=1&udp=1#%E5%B9%BF%E6%92%AD%E6%9C%BA%E6%88%BF%2001
 anytls://1ae7c1a7-53a4-49d3-87ef-597634834c6c@t6b787.yytls.top:27003?security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%200.09MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 anytls://1ae7c1a7-53a4-49d3-87ef-597634834c6c@v6iz2w.yytls.top:27001?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS161%200.08MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
