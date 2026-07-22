@@ -83,11 +83,11 @@ trojan://e33f3a94-e73a-4811-8ba2-83e21dcb7157@v1in2.stableq.top:24408?allowInsec
 trojan://e33f3a94-e73a-4811-8ba2-83e21dcb7157@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
 trojan://e33f3a94-e73a-4811-8ba2-83e21dcb7157@vf3us9.stableq.top:24422?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90902%20%7C%201%E5%80%8D%E7%8E%87
 trojan://e33f3a94-e73a-4811-8ba2-83e21dcb7157@vf3us9.stableq.top:24413?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90903%20%7C%201%E5%80%8D%E7%8E%87
-trojan://WG39087154@caring-ghoul.rooster465.autos:443?sni=caring-ghoul.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.5MB/s
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc&allowInsecure=0&type=ws&path=%2Fin-pdr#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.2MB/s
-trojan://humanity@104.17.111.8:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.1MB/s
-trojan://MITIVPN@104.16.72.50:443?sni=win-mitivpn-----mitivpn.Maqror.ir&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Dwinde#%F0%9F%87%BA%F0%9F%87%B8US_11%7C2.7MB/s
-trojan://WG39087154@nearby-cod.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR_4%7C2.6MB/s
+trojan://WG39087154@grateful-unicorn.rooster465.autos:443?sni=grateful-unicorn.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C2.5MB/s
+trojan://WG39087154@nearby-cod.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C3.7MB/s
+trojan://WG39087154@caring-ghoul.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_13%7C2.3MB/s
+trojan://WG39087154@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.1MB/s
+trojan://WG39087154@grateful-unicorn.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%AE%F0%9F%87%AAIE_2%7C1.6MB/s
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&path=/in-pdr#NL荷兰(ProxyGo免费节点分享)
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/in-pdr#KR韩国(ProxyGo免费节点分享)
 trojan://-YZ7Suz3ZpIJjXIJobWrqw@172.67.163.61:80?security=none&type=ws&path=/shop&host=shop.fa-behsazan.ir#US 🇺🇸 | @Raydikalx | 1
