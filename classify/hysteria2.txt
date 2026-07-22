@@ -423,9 +423,8 @@ hysteria2://ab71f252-a59e-4650-a9e9-f409759ec5b6@v10hk30.stableq.top:45607?sni=v
 hysteria2://ab71f252-a59e-4650-a9e9-f409759ec5b6@v10hk30.stableq.top:45703?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=Jp47s2DVexsPg1Lt#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93007%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://ab71f252-a59e-4650-a9e9-f409759ec5b6@v10hk30.stableq.top:45802?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=T3n2MIpDvdZn16TQ#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93008%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://ab71f252-a59e-4650-a9e9-f409759ec5b6@v10hk30.stableq.top:45902?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=hvhFznkNqHceM7ct#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93009%20%7C%201%E5%80%8D%E7%8E%87
-hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni=devideo.h2corp.org&insecure=1#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.9MB/s
-hysteria2://hy2pass123@hy2.zzrvic.com:8443?sni=hy2.zzrvic.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.8MB/s
-hysteria2://349eec65-9150-44f4-89b2-7f40cff03f63@c4.bestai.beauty:3488?sni=admin.blob.core.windows.net&insecure=1#%E2%9D%93Other_1%7C2.9MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?sni=vpn-us-003.fastervpn.world&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.2MB/s
+hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?sni=209.74.81.28&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.5MB/s
 hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@ff2.yuntong.click:443?sni=ff2.yuntong.click&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#DE德国(ProxyGo免费节点分享)
 hysteria2://7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr@151.247.219.191:8443?sni=hopp-queen.roxa.org#GB 🇬🇧 | @Raydikalx | 974
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443?sni=fl02.auragg.org#Global 🌐 | @Raydikalx | 975
