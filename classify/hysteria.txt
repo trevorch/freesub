@@ -1,1 +1,2 @@
+hysteria://5.83.129.143:26691?auth=dongtaiwang.com&peer=apple.com&insecure=1&upmbps=11%20Mbps&downmbps=55%20Mbps&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.7MB/s
 hysteria://5.83.129.143:26691?alpn=h3&auth_str=dongtaiwang.com&downmbps=55 Mbps&obfsParam=&protocol=udp&insecure=1&peer=apple.com&sub_tag=K001-260618&upmbps=11 Mbps#%F0%9F%87%A9%F0%9F%87%AADE_30%7C2.6MB%2Fs%7CK001-260618%2001
