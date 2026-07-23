@@ -83,12 +83,9 @@ trojan://1ac0325b-c15e-4324-bf6b-89b87291b755@v1in2.stableq.top:24408?allowInsec
 trojan://1ac0325b-c15e-4324-bf6b-89b87291b755@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
 trojan://1ac0325b-c15e-4324-bf6b-89b87291b755@vf3us9.stableq.top:24422?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90902%20%7C%201%E5%80%8D%E7%8E%87
 trojan://1ac0325b-c15e-4324-bf6b-89b87291b755@vf3us9.stableq.top:24413?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90903%20%7C%201%E5%80%8D%E7%8E%87
-trojan://FC60532879@powerful-opossum.rooster465.autos:443?allowInsecure=1&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.5MB/s
-trojan://FC60532879@resolved-gelding.rooster465.autos:443?sni=resolved-gelding.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.5MB/s
-trojan://FC60532879@neat-quail.rooster465.autos:443?allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.1MB/s
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc&allowInsecure=0&type=ws&path=%2Fin-pdr#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C3.4MB/s
-trojan://MITIVPN@104.18.39.172:443?sni=7u-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Duss#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C4.0MB/s
-trojan://FC60532879@resolved-gelding.rooster465.autos:443?sni=resolved-gelding.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_8%7C1.7MB/s
+trojan://JA96378052@evident-gnat.rooster465.autos:443?allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C1.5MB/s
+trojan://FC60532879@resolved-gelding.rooster465.autos:443?sni=resolved-gelding.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.8MB/s
+trojan://MITIVPN@104.18.39.172:443?sni=7u-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Duss#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.9MB/s
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/in-pdr#US美国(ProxyGo免费节点分享)
 trojan://humanity@104.16.174.71:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&path=/in-pdr#NL荷兰(ProxyGo免费节点分享)
