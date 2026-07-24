@@ -1004,7 +1004,6 @@ trojan://humanity@www.multiplydose.com:443?type=ws&path=/assignment&security=tls
 trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=/trojan#DE 🇩🇪 | @Raydikalx | 1004
 trojan://xITFB2PCsp@179.237.75.217:2095?security=reality&pbk=QBLMKuBYOXkWxaZbDDx_5SG_1UA88RMoyiX7wBavLy8&host=yahoo.com&headerType=http&fp=firefox&spx=/------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network&type=tcp&sni=yahoo.com#Global 🌐 | @Raydikalx | 1005
 trojan://zfneB18KGBkbi9IXDaRd4q0Wx1HIZ4pDR8eneJALYkU%3D@91.107.159.216:20691?security=none&type=tcp#Global 🌐 | @Raydikalx | 1006
-trojan://humanity@104.26.6.159:443?security=tls&sni=www.creationlong.org&type=ws&fp=chrome&path=/assignment&udp=1&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS141%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc&allowInsecure=0&type=ws&path=%2Fin-pdr#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.2MB/s
 trojan://4e932b67-2a22-4f07-a812-befc93769841@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://4e932b67-2a22-4f07-a812-befc93769841@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
