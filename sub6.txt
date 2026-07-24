@@ -116,7 +116,7 @@ wireguard://wMGOCee0Kx2P7tu%2FQpCMFQRNT1cFsT9rsC1PVrBgMGA%3D@188.114.97.90:878?a
 wireguard://wN1cP4YdzpwcblExZZpW1XNTRfcLPwTVLRbe0BK4Y2o%3D@8.6.112.156:1070?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A81cf%3Aafd6%3A7564%3Ae1f3%3A2827%2F128&reserved=190%2C221%2C145&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=25#REvil78
 wireguard://yB9pOnuPZXaYTmwXwFPW3mkQ%2Ft12bfHxiaNdAK1qzV0%3D@188.114.97.66:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A81cf%3Aafd6%3A7564%3Ae1f3%3A2827%2F128&reserved=187%2C5%2C232&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=25#REvil79
 wireguard://yNyRSGV2yPsyUjLf8hP%2FatC7aWDb6GkPRlV9ShD9yX8%3D@8.6.112.111:864?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A81cf%3Aafd6%3A7564%3Ae1f3%3A2827%2F128&reserved=53%2C109%2C201&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=25#REvil80
-# @Raydikalx — LIGHT — 1390 unique configs
+# @Raydikalx — LIGHT — 1389 unique configs
 trojan://------------BanV2ray-----------@37.156.45.60:2426?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=db&spx=/4de517c4e954d88&type=grpc&path=/#CH 🇨🇭 | @Raydikalx | 1
 trojan://------------BanV2ray-----------@37.156.45.60:2973?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=4a76cd52&spx=/4de517c4e954d88&type=grpc&path=/#CH 🇨🇭 | @Raydikalx | 2
 trojan://------------BanV2ray-----------@37.156.45.60:3889?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=39c79ee34fdbb2&spx=/4de517c4e954d88&type=grpc&path=/#CH 🇨🇭 | @Raydikalx | 3
@@ -1502,8 +1502,7 @@ hysteria2://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@45.154.206.72:8443?sni=ru
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443?insecure=1&sni=vpn-sg-001.fastervpn.world#SG 🇸🇬 | @Raydikalx | 1383
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | 1384
 vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDEzODUiLCJzY3kiOiJhdXRvIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#Global 🌐 | @Raydikalx | 1386
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Global 🌐 | @Raydikalx | 1387
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#Global 🌐 | @Raydikalx | 1388
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#Global 🌐 | @Raydikalx | 1389
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#Global 🌐 | @Raydikalx | 1390
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Global 🌐 | @Raydikalx | 1386
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#Global 🌐 | @Raydikalx | 1387
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#Global 🌐 | @Raydikalx | 1388
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#Global 🌐 | @Raydikalx | 1389
