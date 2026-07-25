@@ -957,6 +957,7 @@ trojan://JT80563429@champion-alien.rooster465.autos:443?security=tls&type=tcp&fp
 trojan://JT80563429@champion-alien.rooster465.autos:443?security=tls&type=tcp&fp=chrome&udp=1&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%201MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 trojan://JT80563429@smart-pup.rooster465.autos:443?security=tls&type=tcp&fp=chrome&udp=1&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG004%200.99MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 trojan://humanity@104.18.152.159:443?security=tls&sni=www.calmloud.com&type=ws&fp=chrome&alpn=http/1.1&path=/assignment&udp=1&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR014%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc&allowInsecure=0&type=ws&path=%2Fin-pdr#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.1MB/s
 trojan://98bdd598-589f-4a39-bad5-a20f0a7d707f@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://98bdd598-589f-4a39-bad5-a20f0a7d707f@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://98bdd598-589f-4a39-bad5-a20f0a7d707f@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
