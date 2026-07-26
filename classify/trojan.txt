@@ -990,6 +990,8 @@ trojan://AQ71834695@fit-heron.rooster465.autos:443?security=tls&type=tcp&allowIn
 trojan://AQ71834695@concise-lacewing.rooster465.autos:443?security=tls&type=tcp&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP018%200.97MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 trojan://HK78346019@fit-heron.rooster465.autos:443?security=tls&type=tcp&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP019%200.92MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 trojan://AQ71834695@tops-marlin.rooster465.autos:443?security=tls&type=tcp&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP020%200.87MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://AQ71834695@integral-elf.rooster465.autos:443?allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.0MB/s
+trojan://AQ71834695@tops-marlin.rooster465.autos:443?sni=tops-marlin.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.8MB/s
 trojan://579af488-2aaa-4bed-bf5b-33470c595ed3@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://579af488-2aaa-4bed-bf5b-33470c595ed3@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://579af488-2aaa-4bed-bf5b-33470c595ed3@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
