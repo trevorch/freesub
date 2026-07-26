@@ -1,3 +1,4 @@
+anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.934618.xyz:22880?security=tls&type=tcp&packetEncoding=none&sni=anytls2.934618.xyz&udp=1&username=github.com%2FAlvin9999-newpac%2Ffanqiang#FR 🇫🇷 | @Raydikalx | 1090
 anytls://c90afede-81f8-439d-9a20-f45579f623ec@yazhou05.netvigor.cc:443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW001%207.11MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
 anytls://c90afede-81f8-439d-9a20-f45579f623ec@de004.asgg2026.vip:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%203.4MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 anytls://c90afede-81f8-439d-9a20-f45579f623ec@jp39.asgg2026.vip:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP003%202.6MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
