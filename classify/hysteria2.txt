@@ -31,7 +31,8 @@ hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?s
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#Global 🌐 | @Raydikalx | 1465
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=130.61.50.75#Global 🌐 | @Raydikalx | 1466
 hysteria2://b78b3b0c-8b89-4a95-94f4-42a3edf9f1b3@95.181.189.42:8992?sni=95.181.189.42&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.3MB/s
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru&insecure=0#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.9MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.178.201.79:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.6MB/s
+hysteria2://3f3da036-ab8f-405e-a5fd-e7223cb39866@72.56.22.209:443?sni=h1.fogplay-mts.ru&insecure=0#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.6MB/s
 hysteria2://9ffebf98-deef-4249-836a-a70189ec5ef8@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://9ffebf98-deef-4249-836a-a70189ec5ef8@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://9ffebf98-deef-4249-836a-a70189ec5ef8@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
