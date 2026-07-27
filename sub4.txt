@@ -1,4 +1,4 @@
-vless://9a15843f-c194-4625-b058-29833674acc0@dsm7.473221.xyz:34761?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=edge&pbk=vpyTFpAW_aDyAozpeWyB4Q5orhkbdxZ82V0ZPt7A9U8&sid=ad568d7e89114c24&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.9MB/s
 hysteria2://b78b3b0c-8b89-4a95-94f4-42a3edf9f1b3@95.181.189.42:8992?sni=95.181.189.42&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.3MB/s
-trojan://d1960ba9f0f6353353994fa844cf817b@16.163.57.145:40138?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C2.1MB/s
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru&insecure=0#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.9MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.178.201.79:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.6MB/s
+vless://9a15843f-c194-4625-b058-29833674acc0@dsm7.473221.xyz:34761?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=edge&pbk=vpyTFpAW_aDyAozpeWyB4Q5orhkbdxZ82V0ZPt7A9U8&sid=ad568d7e89114c24&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.4MB/s
+hysteria2://3f3da036-ab8f-405e-a5fd-e7223cb39866@72.56.22.209:443?sni=h1.fogplay-mts.ru&insecure=0#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.6MB/s
