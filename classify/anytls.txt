@@ -1,9 +1,3 @@
-anytls://c90afede-81f8-439d-9a20-f45579f623ec@yazhou05.netvigor.cc:443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW001%207.11MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
-anytls://c90afede-81f8-439d-9a20-f45579f623ec@de004.asgg2026.vip:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%203.4MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
-anytls://c90afede-81f8-439d-9a20-f45579f623ec@jp39.asgg2026.vip:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP003%202.6MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
-anytls://c90afede-81f8-439d-9a20-f45579f623ec@jnd02.asgg2026.vip:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA001%202.44MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
-anytls://cc247516-d2cd-4ad4-a984-c4ae8ad9074a@192.220.32.219:40972?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS011%202.18MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
-anytls://f48311de-6fdb-4ac6-beec-10b8b55c444f@192.220.32.219:59033?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS065%201.4MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
 anytls://c90afede-81f8-439d-9a20-f45579f623ec@jnd02.asgg2026.vip:443?security=tls&sni=jnd02.asgg2026.vip&insecure=0&allowInsecure=0&type=tcp&headerType=none#CA加拿大(ProxyGo免费节点分享)
 anytls://6eca3cb7-eab5-4a96-b95d-444eb566309b@jpaws.ccwink.photos:44084?security=tls&sni=thebofh.org&insecure=1&allowInsecure=1&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
 anytls://c90afede-81f8-439d-9a20-f45579f623ec@tw78.jdvipkuai.cc:56726?security=tls&sni=hk11.nynet2026.shop&insecure=0&allowInsecure=0&type=tcp&headerType=none#TW中国台湾(ProxyGo免费节点分享)
