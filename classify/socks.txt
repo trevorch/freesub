@@ -1,8 +1,6 @@
-socks://Og@112.28.149.156:8443#HK中国香港(ProxyGo免费节点分享)
-socks://Og@112.28.149.152:8443#JP日本(ProxyGo免费节点分享)
 socks://Og@43.164.136.189:1080#KR韩国(ProxyGo免费节点分享)
-socks://Og@212.58.132.5:1080#US美国(ProxyGo免费节点分享)
-socks://Og@193.25.215.182:22222#US美国(ProxyGo免费节点分享)
+socks://Og@112.28.149.152:8443#JP日本(ProxyGo免费节点分享)
+socks://Og@112.28.149.156:8443#HK中国香港(ProxyGo免费节点分享)
 socks://Og@112.28.149.156:8443#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 socks://Og@112.28.149.152:8443#JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 socks://Og@43.164.136.189:1080#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
