@@ -30,7 +30,7 @@ hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE �
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1#DE 🇩🇪 | @Raydikalx | 667
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=130.61.50.75#DE 🇩🇪 | @Raydikalx | 668
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https%3A%2F%2Fwww.calmloud.com#DE 🇩🇪 | @Raydikalx | 669
-hysteria2://92e82460-9a6f-4a1d-b455-d96e036eee4a@s1.monitoring-msk.online:8443?sni=s1.monitoring-msk.online&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_1%7C3.8MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?sni=vpn-ca-002.fastervpn.world&insecure=1#%F0%9F%87%A8%F0%9F%87%A6CA_1%7C2.2MB/s
 hysteria2://59c3d390-c3da-498e-a249-f139c17c296b@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://59c3d390-c3da-498e-a249-f139c17c296b@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://59c3d390-c3da-498e-a249-f139c17c296b@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
