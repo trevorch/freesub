@@ -6,12 +6,15 @@ hysteria2://28d38ce6-7c79-4e9d-9175-2186da5be395@159.65.79.184:20000?insecure=1&
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=iknjsvsjagi449mm#FI 🇫🇮 | @Raydikalx | AAFF7B
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#FI 🇫🇮 | @Raydikalx | A03EEE
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fd3olglr2bmimgje#FI 🇫🇮 | @Raydikalx | 044E4F
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443?insecure=1&sni=wopa3.api3-max.ru#GB 🇬🇧 | @Raydikalx | 16C0FE
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?insecure=1&sni=taga2.api3-max.ru#TR 🇹🇷 | @Raydikalx | 23CE4C
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443?insecure=1&sni=taga9.api3-max.ru#TR 🇹🇷 | @Raydikalx | 381686
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443?insecure=1&sni=wopa7.api3-max.ru#GB 🇬🇧 | @Raydikalx | 7AB7A7
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443?sni=ger.leontunel.ru#DE 🇩🇪 | @Raydikalx | AA0961
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?sni=nederland.gamestocke.ru#NL 🇳🇱 | @Raydikalx | 2BB898
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@soskeynets.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#FR 🇫🇷 | @Raydikalx | 9A112F
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#US 🇺🇸 | @Raydikalx | 9A112F
 hysteria2://76dff95d-a720-4909-8ca6-3d848e786a9c@159.65.178.189:443?insecure=1&sni=www.bing.com#US 🇺🇸 | @Raydikalx | 4EFA67
 hysteria2://7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr@151.247.219.191:8443?sni=hopp-queen.roxa.org#GB 🇬🇧 | @Raydikalx | 9DD05C
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=&obfs=salamander&obfs-password=l960g2kn19nphlra#FI 🇫🇮 | @Raydikalx | 556EBF
 hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#FI 🇫🇮 | @Raydikalx | 2AA1BB
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443?sni=mercedes-grape.yyuyy.com#FR 🇫🇷 | @Raydikalx | 89FFD0
 hysteria2://a8f793a5-1876-408c-9375-aa4f1e15724a@2.26.52.128:443?sni=fin1.apexvpn.space#FI 🇫🇮 | @Raydikalx | 2AE88B
@@ -32,6 +35,7 @@ hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?sni=azer-te
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443?insecure=1#US 🇺🇸 | @Raydikalx | E8E406
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443?insecure=1#US 🇺🇸 | @Raydikalx | 33D214
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#TW 🇹🇼 | @Raydikalx | 9A9E2E
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=vpn-ca-001.fastervpn.world#CA 🇨🇦 | @Raydikalx | C79916
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#CA 🇨🇦 | @Raydikalx | FD381E
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&sni=vpn-fr-002.fastervpn.world#FR 🇫🇷 | @Raydikalx | E16416
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#TW 🇹🇼 | @Raydikalx | 695A4D
@@ -56,7 +60,7 @@ hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#Glo
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#US 🇺🇸 | @Raydikalx | B4E674
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#US 🇺🇸 | @Raydikalx | 3A808B
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#RO 🇷🇴 | @Raydikalx | 529153
-hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni=devideo.h2corp.org#RU 🇷🇺 | @Raydikalx | 9A4B2F
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?insecure=1&alpn=h3&sni=devideo.h2corp.org#RU 🇷🇺 | @Raydikalx | 9A4B2F
 hysteria2://velluto_8325804083@31.76.30.79:443?sni=gretacoin.shop#FI 🇫🇮 | @Raydikalx | C7F1F3
 hysteria2://voQTxwGh4I@91.107.178.22:443?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#DE 🇩🇪 | @Raydikalx | 51622A
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#NL 🇳🇱 | @Raydikalx | 9D6AC6
