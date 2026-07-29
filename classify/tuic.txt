@@ -1,3 +1,1 @@
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&congestion_control=bbr&sni=sg2-8sb.6121999.dpdns.org&udp=true&udp_relay_mode=quic#%F0%9F%87%B8%F0%9F%87%ACSG_7%7C224KB%2Fs%2001
-tuic://083f9234-76f8-47f4-915e-726a767b7ad5:083f9234-76f8-47f4-915e-726a767b7ad5@gc4.22556666.com:28193?alpn=h3&congestion_control=bbr&sni=gc4.22556666.com&udp=true&udp_relay_mode=native#%F0%9F%87%BA%F0%9F%87%B8US_363%7C267KB%2Fs%2001
-tuic://98584e41-e68f-413a-b46a-141984528599:98584e41-e68f-413a-b46a-141984528599@gc6.22556666.com:46530?alpn=h3&congestion_control=bbr&sni=gc6.22556666.com&udp=true&udp_relay_mode=native#%F0%9F%87%AF%F0%9F%87%B5JP_192%7C152KB%2Fs%2001
+tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&congestion_control=bbr&sni=sg2-8sb.6121999.dpdns.org&udp=true&udp_relay_mode=quic#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C126KB%2Fs%2001
