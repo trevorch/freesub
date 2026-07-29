@@ -1,6 +1,11 @@
-hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@ceo67.ceoiii.com:56787?sni=ajax.microsoft.com&insecure=1#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.0MB/s
-vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443?encryption=none&security=reality&sni=morphbinerkkw.ru&fp=chrome&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&type=grpc&path=nexusGrpc#%F0%9F%87%A6%F0%9F%87%B1AL_1%7C1.7MB/s
-vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443?encryption=none&security=tls&sni=uk-akile.nanniang.top&fp=chrome&type=ws&host=uk-akile.nanniang.top&path=%2F#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.2MB/s
-vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443?encryption=none&security=tls&sni=aq.nanniang.top&fp=chrome&type=ws&host=aq.nanniang.top&path=%2F#%F0%9F%87%A6%F0%9F%87%B6AQ_1%7C2.0MB/s
-vless://ab044a84-8263-42ab-a1f1-2fd5ebace70d@152.53.47.153:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&path=neurex#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C1.8MB/s
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?sni=grape-turbo-fr.roxa.org&insecure=0#%F0%9F%87%B7%F0%9F%87%B4RO_1%7C1.6MB/s
+vless://c7e9c591-2764-423a-afca-efbd010fd396@46.8.229.218:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=chrome&type=ws&host=forfreeuse.sub-flow.online&path=%2F#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.0MB/s
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni=devideo.h2corp.org&insecure=1#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C3.2MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?sni=vpn-fr-002.fastervpn.world&insecure=1#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.9MB/s
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443?sni=wopa3.api3-max.ru&insecure=1#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.3MB/s
+mierus://dongtaiwang.com:dongtaiwang.com@157.254.223.44?multiplexing=MULTIPLEXING_LOW&port=34567&profile=%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.6MB%2Fs&protocol=TCP
+trojan://5xjmr1dz66pgsew0@hyperon.site:8443?sni=com.digitalposts.dpdns.org&allowInsecure=0&type=ws&path=%2Fbkdicj#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.5MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20066?sni=hkdcrtc-e.catcat321.com&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.2MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C2.4MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20066?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_3%7C2.0MB/s
+vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443?encryption=none&security=tls&sni=us-akile.nanniang.top&fp=chrome&type=ws&host=us-akile.nanniang.top&path=%2F#%F0%9F%87%BA%F0%9F%87%B8US_2%7C2.6MB/s
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.3MB/s
