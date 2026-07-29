@@ -219,6 +219,10 @@ trojan://XG59623478@82.117.225.56:443?security=tls&sni=stirring-dane.rooster465.
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?security=tls&sni=upward-hedgehog.rooster465.autos#NL 🇳🇱 | @Raydikalx | 687724
 trojan://xxoo@us.blazeppn.info:443?security=tls#US 🇺🇸 | @Raydikalx | DB4DBD
 trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info#US 🇺🇸 | @Raydikalx | 64334A
+trojan://5xjmr1dz66pgsew0@hyperon.site:8443?sni=com.digitalposts.dpdns.org&allowInsecure=0&type=ws&path=%2Fbkdicj#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.5MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20066?sni=hkdcrtc-e.catcat321.com&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.2MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C2.4MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20066?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_3%7C2.0MB/s
 trojan://d0a4d4ec-4096-4ccb-a6d0-39f61b225372@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://d0a4d4ec-4096-4ccb-a6d0-39f61b225372@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://d0a4d4ec-4096-4ccb-a6d0-39f61b225372@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
