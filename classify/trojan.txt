@@ -25,6 +25,7 @@ trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?type=grpc&sni=ch
 trojan://521314@104.248.161.136:443?host=tjplay.lxdxo.kdns.fr&path=/&sni=tjplay.lxdxo.kdns.fr&type=ws#GB 🇬🇧 | @Raydikalx | FC109F
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#CA 🇨🇦 | @Raydikalx | 308E01
 trojan://521314@104.16.97.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram🇨🇳&sni=tjplay.lxdxo.kdns.fr&type=ws#Global 🌐 | @Raydikalx | 6135CB
+trojan://5xjmr1dz66pgsew0@hyperon.site:8443?allowInsecure=0&sni=com.digitalposts.dpdns.org&alpn=http/1.1&type=ws&path=/bkdicj#DE 🇩🇪 | @Raydikalx | EDA8F7
 trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443?type=tcp&allowInsecure=1#DE 🇩🇪 | @Raydikalx | 8A1270
 trojan://6685b4eb-aa84-454a-8049-5f5d39f0d9a0@dx.xxmd.online:7004?type=tcp&allowInsecure=1#Global 🌐 | @Raydikalx | 950211
 trojan://7b0ed263-ed4d-375f-9002-a932b1da098a@19249tj.matrixxx888.com:19249?security=tls&sni=eplcgame.com#Global 🌐 | @Raydikalx | 9009A1
@@ -51,7 +52,7 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?all
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?sni=hk.catxstar.com&path=/#US 🇺🇸 | @Raydikalx | 21AADF
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?security=tls&sni=hk.catxstar.com&path=/#US 🇺🇸 | @Raydikalx | 20883A
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?sni=hk.catxstar.com&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | FB26CF
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | 46C102
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | 46C102
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20066?sni=hk.catxstar.com&path=/#US 🇺🇸 | @Raydikalx | 2F2815
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?security=tls&sni=hk.catxstar.com&path=/#US 🇺🇸 | @Raydikalx | 7F6EFD
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?security=tls&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | D6577B
