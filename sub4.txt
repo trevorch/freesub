@@ -1,4 +1,6 @@
-mierus://dongtaiwang.com:dongtaiwang.com@157.254.223.44?multiplexing=MULTIPLEXING_LOW&port=34567&profile=%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.8MB%2Fs&protocol=TCP
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.0MB/s
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&security=reality&sni=swcdn.apple.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.8MB/s
-vless://caa0f615-2598-4b78-b339-2824658a602b@104.21.88.129:8880?encryption=none&security=none&type=ws&host=soft-dream-429a.319.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.8MB/s
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wwopa2.api3-max.ru:443?sni=wwopa2.api3-max.ru&insecure=1#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.4MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?sni=vpn-us-003.fastervpn.world&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.8MB/s
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=chrome&type=ws&host=forfreeuse.sub-flow.online&path=%2F#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.4MB/s
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=grpc&path=TunService#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.9MB/s
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@finlandi.blokinet3.ru:443?sni=finlandi.blokinet3.ru&insecure=0#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.0MB/s
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa6.api3-max.ru:443?sni=wopa6.api3-max.ru&insecure=0#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.7MB/s
