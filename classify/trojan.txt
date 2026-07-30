@@ -201,13 +201,19 @@ trojan://XG59623478@82.117.225.56:443?security=tls&sni=stirring-dane.rooster465.
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?security=tls&sni=upward-hedgehog.rooster465.autos#NL 🇳🇱 | @Raydikalx | 687724
 trojan://xxoo@us.blazeppn.info:443?security=tls#US 🇺🇸 | @Raydikalx | DB4DBD
 trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info#US 🇺🇸 | @Raydikalx | 64334A
-trojan://5xjmr1dz66pgsew0@undef.network:8443?sni=com.digitalposts.dpdns.org&allowInsecure=1&type=ws&host=com.digitalposts.dpdns.org&path=%2Fbkdicj#%F0%9F%87%A9%F0%9F%87%AADE_3%7C2.1MB/s
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C1.6MB/s
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_5%7C2.5MB/s
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_6%7C2.0MB/s
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.2MB/s
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr1.tube-cat.com:9450?allowInsecure=1&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C2.7MB/s
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20066?sni=hk.catxstar.com&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C1.5MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_3%7C2.6MB/s
+trojan://BxceQaOe@18.163.122.92:11035?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.8MB/s
+trojan://BxceQaOe@54.46.46.228:41421?sni=t.me%25252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.4MB/s
+trojan://d1960ba9f0f6353353994fa844cf817b@43.199.32.78:40138?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.6MB/s
+trojan://d1960ba9f0f6353353994fa844cf817b@43.199.32.78:6357?sni=www.nintendogames.net&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C3.9MB/s
+trojan://d1960ba9f0f6353353994fa844cf817b@18.181.205.36:49277?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_5%7C2.0MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_8%7C2.1MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?sni=de.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_9%7C2.6MB/s
+trojan://BxceQaOe@16.163.138.98:27161?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1.5MB/s
+trojan://d1960ba9f0f6353353994fa844cf817b@18.181.205.36:38937?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C5.0MB/s
+trojan://BxceQaOe@43.198.12.180:32434?sni=t.me%25252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C3.1MB/s
+trojan://d1960ba9f0f6353353994fa844cf817b@18.181.205.36:49277?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_7%7C3.6MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?sni=hkdcrtc-e.catcat321.com&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_11%7C3.3MB/s
 trojan://077212ea-ca79-478a-b4cf-e05214cf05d7@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://077212ea-ca79-478a-b4cf-e05214cf05d7@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://077212ea-ca79-478a-b4cf-e05214cf05d7@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
