@@ -1,5 +1,5 @@
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443?sni=germany1.noesissite.ru#DE 🇩🇪 | @Raydikalx | B77FAA
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru#US 🇺🇸 | @Raydikalx | 064E4F
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru#Global 🌐 | @Raydikalx | 064E4F
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?insecure=1&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#FI 🇫🇮 | @Raydikalx | C859D1
 hysteria2://1ecqm05bcdfcckq5@apic.dnso.ccwu.cc:59265?insecure=1&sni=apic.dnso.ccwu.cc&obfs=salamander&obfs-password=bjmye80g9o99qohl#Global 🌐 | @Raydikalx | C52532
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?sni=prodfr.h2corp.org#DE 🇩🇪 | @Raydikalx | 7B4110
