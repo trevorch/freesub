@@ -1,7 +1,3 @@
-anytls://c90afede-81f8-439d-9a20-f45579f623ec@tw76.jdvipkuai.cc:28680?security=tls&sni=hk15.nynet2026.shop&insecure=0&allowInsecure=0&type=tcp&headerType=none#TW中国台湾(ProxyGo免费节点分享)
-anytls://c90afede-81f8-439d-9a20-f45579f623ec@tw78.jdvipkuai.cc:56726?security=tls&sni=hk11.nynet2026.shop&insecure=0&allowInsecure=0&type=tcp&headerType=none#TW中国台湾(ProxyGo免费节点分享)
-anytls://c90afede-81f8-439d-9a20-f45579f623ec@tw76.jdvipkuai.cc:28680?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#HK中国香港(ProxyGo免费节点分享)
-anytls://c90afede-81f8-439d-9a20-f45579f623ec@de003.asgg2026.vip:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#DE德国(ProxyGo免费节点分享)
 anytls://c90afede-81f8-439d-9a20-f45579f623ec@tw76.jdvipkuai.cc:28680?security=tls&sni=hk15.nynet2026.shop&insecure=0&allowInsecure=0&type=tcp&headerType=none#TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 anytls://c90afede-81f8-439d-9a20-f45579f623ec@tw78.jdvipkuai.cc:56726?security=tls&sni=hk11.nynet2026.shop&insecure=0&allowInsecure=0&type=tcp&headerType=none#TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 anytls://c90afede-81f8-439d-9a20-f45579f623ec@tw76.jdvipkuai.cc:28680?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
