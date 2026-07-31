@@ -1,3 +1,7 @@
-trojan://i99Cef@209.248.32.116:28101?sni=download.windowsupdate.com&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.7MB/s
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@201.51.2.248:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&sid=496ee75c2f91f51d&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C1.8MB/s
-vless://d41fc81c-8679-494e-a687-60b15af4b14d@212.237.217.130:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&path=neurex#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C1.9MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?sni=vpn-kr-003.fastervpn.world&insecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C5.7MB/s
+trojan://i99Cef@209.248.32.115:28101?sni=download.windowsupdate.com&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1010KB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1#%F0%9F%87%B9%F0%9F%87%BCTW_2%7C1.1MB/s
+ss://YWVzLTEyOC1nY206UUhQeTJ1@260323.1.0.l3.unclemanco.com:8001?plugin=obfs%3Bhost%3D2fce243671.download.windowsupdate.com%3Bmode%3Dhttp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.6MB/s
+ss://YWVzLTEyOC1nY206YXl1Y2xvdWQx@260323.1.0.l3.unclemanco.com:835?plugin=obfs%3Bhost%3D2fce243671.download.windowsupdate.com%3Bmode%3Dhttp#%F0%9F%87%B8%F0%9F%87%A8SC_1%7C1.9MB/s
+ss://YWVzLTEyOC1nY206UUhQeTJ1@260323.1.0.l3.unclemanco.com:914?plugin=obfs%3Bhost%3D2fce243671.download.windowsupdate.com%3Bmode%3Dhttp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.2MB/s
+https://test:test.%2B@testkr3.ssv.vc:30446#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C1.4MB/s
