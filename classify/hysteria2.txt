@@ -1,7 +1,8 @@
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443?sni=germany1.noesissite.ru#DE 🇩🇪 | @Raydikalx | 9F9C35
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?insecure=0&sni=germany1.noesissite.ru#DE 🇩🇪 | @Raydikalx | 7E09BE
+hysteria2://0puq3lmwv7qtp76t@95.217.96.131:52034?insecure=1&obfs=salamander&obfs-password=w0tx1ju9iix6913p&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | D5BE69
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?insecure=1&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#FI 🇫🇮 | @Raydikalx | 77CE76
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52070?insecure=1&obfs=salamander&obfs-password=f7jlf6m0hwvcl593&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 32C29B
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52070?insecure=1&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=f7jlf6m0hwvcl593#FI 🇫🇮 | @Raydikalx | CB527D
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?sni=prodfr.h2corp.org#DE 🇩🇪 | @Raydikalx | CBC8AF
 hysteria2://1Tm8undefinedEG5fl@91.107.178.22:443?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#DE 🇩🇪 | @Raydikalx | 293739
 hysteria2://28d38ce6-7c79-4e9d-9175-2186da5be395@159.65.79.184:20000?insecure=1&sni=addons.mozilla.org#US 🇺🇸 | @Raydikalx | 5574BB
@@ -9,11 +10,9 @@ hysteria2://4IGOAN2QIY@91.107.178.22:443?insecure=1&sni=www.refersion.com&obfs=s
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=iknjsvsjagi449mm#FI 🇫🇮 | @Raydikalx | 4E0F7F
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#FI 🇫🇮 | @Raydikalx | ED7803
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fd3olglr2bmimgje#FI 🇫🇮 | @Raydikalx | 0AAC3E
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?insecure=1&sni=taga3.api3-max.ru#TR 🇹🇷 | @Raydikalx | 315E29
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443?sni=taga5.api3-max.ru#TR 🇹🇷 | @Raydikalx | 229D50
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443?sni=taga9.api3-max.ru#TR 🇹🇷 | @Raydikalx | 1A897D
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443?sni=wopa7.api3-max.ru#GB 🇬🇧 | @Raydikalx | 70C7EC
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa8.api3-max.ru:443?insecure=1&sni=wopa8.api3-max.ru#GB 🇬🇧 | @Raydikalx | 789384
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443?sni=wopa9.api3-max.ru#GB 🇬🇧 | @Raydikalx | 08F6BB
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443?sni=ger.leontunel.ru#DE 🇩🇪 | @Raydikalx | CBC1A0
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?sni=nederland.gamestocke.ru#NL 🇳🇱 | @Raydikalx | D6AE21
@@ -24,6 +23,7 @@ hysteria2://7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr@151.247.219.191:8443?sni=
 hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#FI 🇫🇮 | @Raydikalx | DA7CB0
 hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443?insecure=1&sni=iosapps.itunes.apple.com#GB 🇬🇧 | @Raydikalx | 02D0BB
 hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443?insecure=1&sni=iosapps.itunes.apple.com#HK 🇭🇰 | @Raydikalx | C32D10
+hysteria2://9dada88d-f8f8-459d-8a4f-4df2c973fe43@h2.ecliptic-it.ru:8443?sni=h2.ecliptic-it.ru#NL 🇳🇱 | @Raydikalx | 1DF21F
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?sni=mercedes-grape.yyuyy.com#FR 🇫🇷 | @Raydikalx | 32AEA8
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443?sni=mercedes-grape.yyuyy.com#FR 🇫🇷 | @Raydikalx | DD9A12
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@jp.555199.xyz:20000/?insecure=0&sni=sg.555199.xyz&mport=20000-30000#JP 🇯🇵 | @Raydikalx | D44E67
@@ -34,10 +34,11 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=0
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&alpn=h3&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#DE 🇩🇪 | @Raydikalx | FBA740
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org@freenettir&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#DE 🇩🇪 | @Raydikalx | 7DCF7A
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#DE 🇩🇪 | @Raydikalx | BFE513
-hysteria2://c8L7Asi4ur@91.107.178.22:43913?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=V2RayyNGvpn#DE 🇩🇪 | @Raydikalx | 8ABE75
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#US 🇺🇸 | @Raydikalx | 78C7C0
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#US 🇺🇸 | @Raydikalx | 9B9BDC
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | 048446
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#FR 🇫🇷 | @Raydikalx | 7BA67C
-hysteria2://EaDTeupk9I@91.107.178.22:43913?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=V2RayyNGvpn#DE 🇩🇪 | @Raydikalx | D4C418
+hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | 37A5D2
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#FI 🇫🇮 | @Raydikalx | 6F8C79
 hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?sni=azer-tea-grape.bumbleshrimp.com#AZ 🇦🇿 | @Raydikalx | 3654CE
 hysteria2://grape_288923@194.247.182.201:8080?insecure=1&sni=grape-coffee-fi.gleeze.com#IS 🇮🇸 | @Raydikalx | 538A4D
