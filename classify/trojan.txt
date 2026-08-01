@@ -1,7 +1,4 @@
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?type=ws&sni=sourceforge.net&allowInsecure=1&path=/websocket&host=se1.trojanvpn.de#US 🇺🇸 | @Raydikalx | F69DCD
-trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@104.21.43.90:443?sni=app-538961.user-y0o4gm.workers.dev&type=ws&path=/cmh&fp=chrome#CA 🇨🇦 | @Raydikalx | 11E671
-trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@172.67.177.105:443?sni=app-538961.user-y0o4gm.workers.dev&allowInsecure=1&type=ws&path=/cmh#CA 🇨🇦 | @Raydikalx | D927F7
-trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@app-538961.user-y0o4gm.workers.dev:443?sni=app-538961.user-y0o4gm.workers.dev&type=ws&path=/&fp=chrome#CA 🇨🇦 | @Raydikalx | DD3FDF
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io&path=/#US 🇺🇸 | @Raydikalx | C051A5
 trojan://1f709fdb-2176-4de7-8398-56a75b745eee@127.0.0.1:443?allowInsecure=0#US 🇺🇸 | @Raydikalx | 423314
 trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@falungong.19890604.day:10826?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#Global 🌐 | @Raydikalx | 3C89CF
@@ -30,13 +27,10 @@ trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tc
 trojan://acacbab-baac-abac-dcab-aacabcbcabcb@127.0.0.1:8080?security=tls&type=tcp#US 🇺🇸 | @Raydikalx | 1F08D0
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1&path=/argox-tr#CA 🇨🇦 | @Raydikalx | 8DFAE8
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?sni=hk.catxstar.com&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | F3336E
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?sni=hk.catxstar.com&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | E5A5B1
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | 0DEB06
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20041?security=tls&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#US 🇺🇸 | @Raydikalx | 0AB686
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#US 🇺🇸 | @Raydikalx | 24254B
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?sni=rr2.tube-cat.com&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 38162B
-trojan://bpb-trojan@172.67.135.88:443?sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&fp=chrome#CA 🇨🇦 | @Raydikalx | 16C171
-trojan://BxceQaOe@119.246.1.143:443?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#HK 🇭🇰 | @Raydikalx | 1A14FE
-trojan://BxceQaOe@119.246.1.143:443?sni=119.246.1.143&allowInsecure=1&type=tcp#HK 🇭🇰 | @Raydikalx | AF8891
 trojan://BxceQaOe@35.76.126.253:29443?allowInsecure=1&sni=t.me%2Fripaojiedian#JP 🇯🇵 | @Raydikalx | E98FD2
 trojan://BxceQaOe@35.76.126.253:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#JP 🇯🇵 | @Raydikalx | 718A6E
 trojan://BxceQaOe@43.198.98.22:35966?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | F7A5F0
@@ -55,9 +49,6 @@ trojan://d1960ba9f0f6353353994fa844cf817b@188.163.100.58:45744?allowInsecure=1&s
 trojan://dT6h9HBwQO@139.59.108.29:31313?security=tls&sni=m.linkedin.us&type=tcp#SG 🇸🇬 | @Raydikalx | DD17F3
 trojan://e2486b91-71a6-421b-9d53-3c080fb0edb8@es-full.privateip.net:443?type=tcp&allowInsecure=1#DE 🇩🇪 | @Raydikalx | F62BCD
 trojan://ecd5e68e-92a5-4f85-afe1-1775ec84bf54@5.239.245.250:443?security=tls&sni=empty.node&type=tcp#IR 🇮🇷 | @Raydikalx | 283DFA
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@188.114.97.6:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=/sync&fp=chrome#CA 🇨🇦 | @Raydikalx | 58AE91
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=/sync&fp=chrome#IR 🇮🇷 | @Raydikalx | 51B2BD
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@89.116.180.49:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=/sync&fp=chrome#UA 🇺🇦 | @Raydikalx | 2BFCF2
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 5DE7ED
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 37A12E
 trojan://humanity@104.16.174.36:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 736B50
