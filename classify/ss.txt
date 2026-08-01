@@ -13,7 +13,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.154.132:443#JP 🇯🇵 | @Raydikal
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.250.104.109:443#SG 🇸🇬 | @Raydikalx | 86B5C8
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.51.233.2:443#SE 🇸🇪 | @Raydikalx | 5640D0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.61.5.244:443#SE 🇸🇪 | @Raydikalx | A7A4D0
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.62.231.217:443#SE 🇸🇪 | @Raydikalx | F23710
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.62.20.75:443#SE 🇸🇪 | @Raydikalx | 33599C
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.143.132.154:443#SG 🇸🇬 | @Raydikalx | 36661C
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.174.138:443#JP 🇯🇵 | @Raydikalx | F5F163
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.56.52:443#KR 🇰🇷 | @Raydikalx | CFA58C
@@ -75,10 +75,6 @@ ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#ES 🇪🇸 | @
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#TR 🇹🇷 | @Raydikalx | 81A9C7
 ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@103.172.116.79:9032#SG 🇸🇬 | @Raydikalx | 194E59
 ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA@193.243.147.128:40368#FR 🇫🇷 | @Raydikalx | CB4A65
-ss://YWVzLTI1Ni1nY206OTQ1NzFkNjItYTIzZi0zNjRlLTgwNjUtMmE3NDBiMzQyMjE2@1.t.k.w.d.a.q.3.b.jp01-ae5.entry.v51124-1.qpon:473#CN 🇨🇳 | @Raydikalx | 5AAEF8
-ss://YWVzLTI1Ni1nY206OTQ1NzFkNjItYTIzZi0zNjRlLTgwNjUtMmE3NDBiMzQyMjE2@7.8.k.w.d.a.4.3.b.ru01-ae5.entry.v51124-1.qpon:20030#CN 🇨🇳 | @Raydikalx | 579873
-ss://YWVzLTI1Ni1nY206OTQ1NzFkNjItYTIzZi0zNjRlLTgwNjUtMmE3NDBiMzQyMjE2@7.t.p.z.r.a.q.3.b.jp02-ae5.entry.v51124-1.qpon:483#CN 🇨🇳 | @Raydikalx | 1EAF15
-ss://YWVzLTI1Ni1nY206OTQ1NzFkNjItYTIzZi0zNjRlLTgwNjUtMmE3NDBiMzQyMjE2@s.8.m.z.r.a.q.3.b.sg03-ae5.entry.v51124-1.qpon:20080#CN 🇨🇳 | @Raydikalx | 98BB33
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.9:8119#US 🇺🇸 | @Raydikalx | 2E8741
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.135:8119#US 🇺🇸 | @Raydikalx | 571A8B
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.21:8118#US 🇺🇸 | @Raydikalx | 4A350C

@@ -8,8 +8,6 @@ hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=asse
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443?sni=wopa7.api3-max.ru#GB 🇬🇧 | @Raydikalx | 5AEBE9
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@soskeynets.api3-max.ru:443?sni=wopa3.api3-max.ru#GB 🇬🇧 | @Raydikalx | 300F6E
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@soskeynets.api3-max.ru:443?sni=wopa5.api3-max.ru#GB 🇬🇧 | @Raydikalx | 6782C4
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?insecure=1&sni=taga3.api3-max.ru&obfs=&obfs-password=#TR 🇹🇷 | @Raydikalx | E7A951
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga4.api3-max.ru:443?insecure=0&sni=taga4.api3-max.ru&obfs=&obfs-password=#TR 🇹🇷 | @Raydikalx | 03549F
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443?sni=taga5.api3-max.ru#TR 🇹🇷 | @Raydikalx | 62E45C
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443?sni=taga9.api3-max.ru#TR 🇹🇷 | @Raydikalx | 1DCA45
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443?sni=wopa3.api3-max.ru#GB 🇬🇧 | @Raydikalx | 941341
@@ -39,7 +37,6 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.1
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#US 🇺🇸 | @Raydikalx | 7CFC83
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#US 🇺🇸 | @Raydikalx | D31C11
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#US 🇺🇸 | @Raydikalx | 515331
-hysteria2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443?insecure=1&alpn=h3&sni=quic.tyr-agentstvo.tech&obfs=&obfs-password=#UA 🇺🇦 | @Raydikalx | 7AC6EF
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | B50285
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#FR 🇫🇷 | @Raydikalx | A8689B
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | 82CA57
