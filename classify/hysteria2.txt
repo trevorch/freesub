@@ -82,9 +82,6 @@ hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni
 hysteria2://voQTxwGh4I@91.107.178.22:443?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#DE 🇩🇪 | @Raydikalx | B8890A
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#NL 🇳🇱 | @Raydikalx | 8A6A97
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | C4F82A
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga4.api3-max.ru:443?sni=taga4.api3-max.ru&insecure=0#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C1.9MB/s
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?sni=taga3.api3-max.ru&insecure=1#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C3.1MB/s
-hysteria2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443?sni=quic.tyr-agentstvo.tech&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_6%7C1.3MB/s
 hysteria2://59a52714-07de-4001-ac1c-7d29ff9c49da@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://59a52714-07de-4001-ac1c-7d29ff9c49da@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://59a52714-07de-4001-ac1c-7d29ff9c49da@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87

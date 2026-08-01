@@ -156,9 +156,7 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?secu
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20120?security=tls&sni=hk.catxstar.com&type=tcp&fp=chrome&udp=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%A9%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9AID001%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20035?security=tls&sni=hk.catxstar.com&type=tcp&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6IN002%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20035?security=tls&sni=oplosgru-c.catcat321.com&type=tcp&fp=chrome&udp=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6IN003%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://BxceQaOe@43.198.98.22:35966?sni=t.me%25252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.3MB/s
-trojan://BxceQaOe@43.198.98.22:35966?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_3%7C2.5MB/s
-trojan://BxceQaOe@43.198.98.22:35966?sni=t.me%2Fripaojiedian&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_4%7C2.7MB/s
+trojan://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@jumao91.shop:2096?sni=jumao91.shop&allowInsecure=0&type=ws&path=%2Fproxyip%3D45.207.156.255#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.2MB/s
 trojan://59a52714-07de-4001-ac1c-7d29ff9c49da@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://59a52714-07de-4001-ac1c-7d29ff9c49da@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://59a52714-07de-4001-ac1c-7d29ff9c49da@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
