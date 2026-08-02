@@ -1,7 +1,7 @@
-hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#IT 🇮🇹 | @Raydikalx | 937006
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?insecure=1&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#FI 🇫🇮 | @Raydikalx | F46AF6
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?sni=prodfr.h2corp.org#DE 🇩🇪 | @Raydikalx | 0EE261
 hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=&obfs=&obfs-password=#KR 🇰🇷 | @Raydikalx | DDB9BE
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=127.0.0.1#KR 🇰🇷 | @Raydikalx | B51E92
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#FI 🇫🇮 | @Raydikalx | 73A025
 hysteria2://5e1a0806-8be7-44e9-966d-517541307fbd@212.119.42.98:55000?insecure=1&sni=ok.ru&obfs=salamander&obfs-password=6fb01f11e04c0e33c9b62e64bfeb4c10#RU 🇷🇺 | @Raydikalx | 434D71
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443?sni=wopa7.api3-max.ru#GB 🇬🇧 | @Raydikalx | 5AEBE9
@@ -49,6 +49,7 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.1
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#US 🇺🇸 | @Raydikalx | 7CFC83
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#US 🇺🇸 | @Raydikalx | D31C11
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#US 🇺🇸 | @Raydikalx | 515331
+hysteria2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443?insecure=1&sni=quic.tyr-agentstvo.tech#UA 🇺🇦 | @Raydikalx | 5AA006
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | B50285
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#FR 🇫🇷 | @Raydikalx | A8689B
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | 82CA57
