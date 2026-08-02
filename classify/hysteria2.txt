@@ -13,7 +13,6 @@ hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443?sni=taga5
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443?sni=taga9.api3-max.ru#TR 🇹🇷 | @Raydikalx | 1DCA45
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?#GB 🇬🇧 | @Raydikalx | 2EEA0B
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443?sni=wopa3.api3-max.ru#GB 🇬🇧 | @Raydikalx | 941341
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?sni=wopa5.api3-max.ru#GB 🇬🇧 | @Raydikalx | E31B9B
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa6.api3-max.ru:443?sni=wopa6.api3-max.ru#GB 🇬🇧 | @Raydikalx | 70E925
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443?sni=wopa7.api3-max.ru#GB 🇬🇧 | @Raydikalx | 3165E0
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa8.api3-max.ru:443?insecure=1&sni=wopa8.api3-max.ru#GB 🇬🇧 | @Raydikalx | 6E8D75
@@ -23,13 +22,11 @@ hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?sni=nederland.g
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?sni=fi-one.quiet-rogue.site#FI 🇫🇮 | @Raydikalx | 9387E9
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site#SE 🇸🇪 | @Raydikalx | 3EB7A8
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#US 🇺🇸 | @Raydikalx | 6487D2
-hysteria2://76kyzc055ahiyfzy@95.217.96.131:52008?obfs=salamander&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 0FE2D1
+hysteria2://76kyzc055ahiyfzy@95.217.96.131:52024?obfs=salamander&obfs-password=t72hzzenktxmrvgu&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | C73C95
+hysteria2://76kyzc055ahiyfzy@95.217.96.131:52060?obfs=salamander&obfs-password=l960g2kn19nphlra&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 60BF48
 hysteria2://76kyzc055ahiyfzy@95.217.96.131:52064?obfs=salamander&obfs-password=bs5yf8xwmyqafwy4&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 148BB1
 hysteria2://76kyzc055ahiyfzy@95.217.96.131:52064?insecure=1&obfs=salamander&obfs-password=bs5yf8xwmyqafwy4#FI 🇫🇮 | @Raydikalx | 98217F
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#FI 🇫🇮 | @Raydikalx | 481C4B
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?obfs=salamander&obfs-password=t72hzzenktxmrvgu&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 3EDCCB
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52060?obfs=salamander&obfs-password=l960g2kn19nphlra&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 32E6A9
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52064?obfs=salamander&obfs-password=bs5yf8xwmyqafwy4&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 091942
 hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#FI 🇫🇮 | @Raydikalx | 8406C8
 hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443?insecure=1&sni=iosapps.itunes.apple.com#GB 🇬🇧 | @Raydikalx | 6B46E2
 hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443?insecure=1&sni=iosapps.itunes.apple.com#HK 🇭🇰 | @Raydikalx | BC6AC5
@@ -49,6 +46,7 @@ hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@mc1.ktmhyld.com:18385?insecure=
 hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@my1.ktmhyld.com:18385?insecure=1&sni=my1.ktmhyld.com#MY 🇲🇾 | @Raydikalx | 149A7B
 hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@sg1.ktmhyld.com:18383?insecure=1&sni=sg1.ktmhyld.com#SG 🇸🇬 | @Raydikalx | F56310
 hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@us1.ktmhyld.com:18387?insecure=1#US 🇺🇸 | @Raydikalx | 8EA7A6
+hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@us1.ktmhyld.com:18387?insecure=1&sni=us1.ktmhyld.com#US 🇺🇸 | @Raydikalx | 022799
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#DE 🇩🇪 | @Raydikalx | 7CDEEA
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&alpn=h3&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#DE 🇩🇪 | @Raydikalx | D3D771
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org@freenettir&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#DE 🇩🇪 | @Raydikalx | 2CE86F
@@ -92,7 +90,6 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&sni=vpn-sg-001
 hysteria2://reSpH6aX5g@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn#BH 🇧🇭 | @Raydikalx | 6EA9BD
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#LV 🇱🇻 | @Raydikalx | 734DD9
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?sni=grape-turbo-fr.roxa.org#GB 🇬🇧 | @Raydikalx | 7E9FB6
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?insecure=1&sni=grape-turbo-fr.roxa.org&obfs=&obfs-password=#GB 🇬🇧 | @Raydikalx | 4630E7
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?sni=grape-turbo-fr.roxa.org#GB 🇬🇧 | @Raydikalx | F737E1
 hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&obfs=none#JP 🇯🇵 | @Raydikalx | DF9D4D
 hysteria2://sharecentrepro@twgcp.sharecentre.online:4433?peer=twgcp.sharecentre.online&obfs=none#US 🇺🇸 | @Raydikalx | AB5E3C
