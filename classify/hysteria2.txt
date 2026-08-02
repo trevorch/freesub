@@ -105,13 +105,8 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1#DE 🇩🇪 | @Raydikalx | A3ECD1
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=130.61.50.75#DE 🇩🇪 | @Raydikalx | 429F7D
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | C4F82A
-hysteria2://reSpH6aX5g@185.253.117.217:443?sni=www.intel.com&insecure=1&obfs=salamander&obfs-password=TelEgRam%3DV2RayyNGvpn#%F0%9F%87%A7%F0%9F%87%ADBH_1%7C2.3MB/s
-hysteria2://0ansucp5k6aop125@185.47.172.226:32950?sni=185.47.172.226&insecure=1&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C2.5MB/s
-hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@kr1.ktmhyld.com:18385?sni=kr1.ktmhyld.com&insecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C5.6MB/s
-hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@sg1.ktmhyld.com:18383?sni=sg1.ktmhyld.com&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C5.3MB/s
-hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@hk1.ktmhyld.com:18385?insecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C4.6MB/s
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?sni=127.0.0.1&insecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C1.7MB/s
-hysteria2://bd37d63b-c75d-3e48-acbf-1d5954fe9cdc@jpaw8.awo-link.com:14101?sni=jpaw8.awo-link.com&insecure=0&obfs=salamander&obfs-password=XBvVbvzQCq6Ovbnh#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C5.9MB/s
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@222.238.227.54:20801?insecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C5.3MB/s
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@222.238.227.54:20801?sni=127.0.0.1&insecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C4.8MB/s
 hysteria2://98cdc3e9-92f6-4513-b184-7bcb7c93d7df@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://98cdc3e9-92f6-4513-b184-7bcb7c93d7df@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://98cdc3e9-92f6-4513-b184-7bcb7c93d7df@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
