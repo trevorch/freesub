@@ -280,7 +280,7 @@ vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@199.232.78.159:443?security=tls&enc
 vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#PL 🇵🇱 | @Raydikalx | FD311A
 vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@82.40.62.209:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#PL 🇵🇱 | @Raydikalx | 30C135
 vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@VIP.mexokj.iR:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#US 🇺🇸 | @Raydikalx | 37D9B0
-vless://2d6d2242-95d0-490d-8791-f74ffe33533a@uk.roomode.ir:8443?encryption=none&type=tcp&headerType=http&host=play.google.com#GB 🇬🇧 | @Raydikalx | 49E972
+vless://2d6d2242-95d0-490d-8791-f74ffe33533a@uk.roomode.ir:8443?encryption=none&type=tcp&headerType=http&host=play.google.com#Global 🌐 | @Raydikalx | 49E972
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.limaklhc6.info:8443?encryption=none&fp=chrome&host=ad-005.limaklhc6.info&path=/&security=tls&sni=ad-005.limaklhc6.info&type=ws#CA 🇨🇦 | @Raydikalx | 762581
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.novayjr9g.info:8443?encryption=none&fp=chrome&security=tls&sni=ad-005.novayjr9g.info&type=ws#CA 🇨🇦 | @Raydikalx | 3B3DBB
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.vector9nmb3.info:8443?encryption=none&fp=chrome&host=ad-005.vector9nmb3.info&path=/&security=tls&sni=ad-005.vector9nmb3.info&type=ws#CA 🇨🇦 | @Raydikalx | A42087
