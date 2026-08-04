@@ -1,9 +1,8 @@
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#IT 🇮🇹 | @Raydikalx | 937006
 hysteria2://0GgzZA6vundefinedj@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn#BH 🇧🇭 | @Raydikalx | FE4A88
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?insecure=1&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#FI 🇫🇮 | @Raydikalx | F46AF6
-hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@83.243.86.80:443?sni=prodfr.h2corp.org#DE 🇩🇪 | @Raydikalx | B6B621
+hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@83.243.86.80:443?insecure=0&sni=prodfr.h2corp.org#DE 🇩🇪 | @Raydikalx | B6B621
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?sni=prodfr.h2corp.org#DE 🇩🇪 | @Raydikalx | 0EE261
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1#KR 🇰🇷 | @Raydikalx | DDB9BE
 hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=127.0.0.1#KR 🇰🇷 | @Raydikalx | B51E92
 hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=hg1.yuanbaojc.site#KR 🇰🇷 | @Raydikalx | 2FC1C4
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#FI 🇫🇮 | @Raydikalx | 73A025
@@ -59,6 +58,7 @@ hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=5.
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#NL 🇳🇱 | @Raydikalx | 5C998C
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=germany3.h2corp.local#DE 🇩🇪 | @Raydikalx | 8EB60A
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn#DE 🇩🇪 | @Raydikalx | 8D8B96
+hysteria2://pjyFpMEKFH@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn#BH 🇧🇭 | @Raydikalx | 32310A
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?#FR 🇫🇷 | @Raydikalx | 83380F
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443?insecure=1&sni=vpn-sg-001.fastervpn.world#SG 🇸🇬 | @Raydikalx | 591F42
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443?insecure=1&sni=vpn-sg-001.fastervpn.world#SG 🇸🇬 | @Raydikalx | 9F39DE
@@ -74,6 +74,7 @@ hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#Glo
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#US 🇺🇸 | @Raydikalx | 6BCE08
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=159.223.157.129#US 🇺🇸 | @Raydikalx | 045CA2
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#US 🇺🇸 | @Raydikalx | EDC48F
+hysteria2://TelegramVPNjey@179.61.251.253:37003?insecure=0&sni=de.jey.cc.cd&obfs=salamander&obfs-password=83v9muumcyikh5ch#DE 🇩🇪 | @Raydikalx | F90213
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?insecure=0&sni=ro.h2corp.org#RO 🇷🇴 | @Raydikalx | F4700E
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org#RO 🇷🇴 | @Raydikalx | 4D1885
 hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni=devideo.h2corp.org#RU 🇷🇺 | @Raydikalx | E54DCA
