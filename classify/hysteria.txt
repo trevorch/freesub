@@ -8,7 +8,6 @@ hysteria://dongtaiwang.com@5.83.129.90:54177?upmbps=500&downmbps=1000&peer=apple
 hysteria://dongtaiwang.com@5.83.129.153:20088?upmbps=500&downmbps=1000&peer=apple.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%203.6MB%2Fs%E5%8D%B1%E9%99%A9%20TG%40jcnode
 hysteria://5.83.129.90:54177?upmbps=11&downmbps=55&peer=bing.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE010%202.94MB%2Fs%E5%8D%B1%E9%99%A9%20TG%40jcnode
 hysteria://dongtaiwang.com@5.83.129.90:54177?upmbps=500&downmbps=1000&peer=apple.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE012%202.65MB%2Fs%E5%8D%B1%E9%99%A9%20TG%40jcnode
-hysteria://5.83.129.153:20088?auth=dongtaiwang.com&peer=apple.com&insecure=1&upmbps=500&downmbps=1000&alpn=h3&protocol=udp#%F0%9F%87%A9%F0%9F%87%AADE_4%7C1.5MB/s
 hysteria://5.83.129.143:26691?alpn=h3&auth_str=dongtaiwang.com&downmbps=55 Mbps&obfsParam=&protocol=udp&insecure=1&peer=apple.com&sub_tag=K001-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%A9%F0%9F%87%AADE_41%7C324KB%2Fs%7CK001-260618%2001
 hysteria://5.83.129.90:54177?alpn=h3&auth_str=dongtaiwang.com&downmbps=55&obfsParam=&insecure=1&peer=bing.com&sub_tag=K001-260618&upmbps=11&udp=true#%F0%9F%87%A9%F0%9F%87%AADE_50%7C256KB%2Fs%7CK001-260618%2001
 hysteria://5.83.129.90:54177?alpn=h3&auth_str=dongtaiwang.com&downmbps=1000&obfsParam=&protocol=udp&insecure=1&peer=apple.com&sub_tag=C002-260622&upmbps=500&udp=true#%F0%9F%87%A9%F0%9F%87%AADE_60%7C310KB%2Fs%7CC002-260622%2001
