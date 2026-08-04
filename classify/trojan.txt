@@ -21,6 +21,7 @@ trojan://36842b47-fbd4-4e07-8ee5-1fd454523d2c@104.17.186.186:2096?security=tls&s
 trojan://36842b47-fbd4-4e07-8ee5-1fd454523d2c@104.17.52.198:443?security=tls&sni=nova-proxy.faramail.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=nova-proxy.faramail.workers.dev&path=/?u=Fara1#CA 🇨🇦 | @Raydikalx | 041E5D
 trojan://36842b47-fbd4-4e07-8ee5-1fd454523d2c@104.17.53.163:443?security=tls&sni=nova-proxy.faramail.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=nova-proxy.faramail.workers.dev&path=/?u=Fara1#CA 🇨🇦 | @Raydikalx | B540FB
 trojan://36842b47-fbd4-4e07-8ee5-1fd454523d2c@172.66.1.35:443?security=tls&sni=nova-proxy.faramail.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=nova-proxy.faramail.workers.dev&path=/?u=Fara1#CA 🇨🇦 | @Raydikalx | AB55EA
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | F3C9F7
 trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?type=grpc&sni=channel.v2bamdad.tech&allowInsecure=1&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX#CA 🇨🇦 | @Raydikalx | 41D694
 trojan://521314@162.159.38.119:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=/Leviko_v2ray#US 🇺🇸 | @Raydikalx | D9328E
 trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=/#US 🇺🇸 | @Raydikalx | 6C1897
@@ -28,7 +29,6 @@ trojan://581e14a5fcc14107b9326cc54f047891@titandarkness.mooo.com:443?sni=titanda
 trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443?type=tcp&allowInsecure=1#DE 🇩🇪 | @Raydikalx | 025BE6
 trojan://6685b4eb-aa84-454a-8049-5f5d39f0d9a0@dx.xxmd.online:7004?type=tcp&allowInsecure=1#Global 🌐 | @Raydikalx | 564B13
 trojan://7b0ed263-ed4d-375f-9002-a932b1da098a@19249tj.matrixxx888.com:19249?security=tls&sni=eplcgame.com#Global 🌐 | @Raydikalx | 1B763D
-trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@172.67.78.22:443?allowInsecure=1&sni=kamonka.eu.org&type=ws&host=kamonka.eu.org&path=/#CA 🇨🇦 | @Raydikalx | 7BC0E2
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#NL 🇳🇱 | @Raydikalx | 8EAFB5
 trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#US 🇺🇸 | @Raydikalx | 0B5013
 trojan://acacbab-baac-abac-dcab-aacabcbcabcb@127.0.0.1:8080?security=tls&type=tcp#US 🇺🇸 | @Raydikalx | 1F08D0
@@ -185,7 +185,6 @@ trojan://ND91608427@picked-guinea.rooster465.autos:443?sni=picked-guinea.rooster
 trojan://ND91608427@prompt-duckling.rooster465.autos:443?sni=prompt-duckling.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | D3AFE7
 trojan://ND91608427@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 6FF340
 trojan://ND91608427@real-werewolf.rooster465.autos:443?sni=real-werewolf.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 0824E5
-trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&sni=relaxed-gull.rooster465.autos#PL 🇵🇱 | @Raydikalx | 57E0E6
 trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?sni=relaxing-bluebird.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 6D60A2
 trojan://ND91608427@right-seahorse.rooster465.autos:443?sni=right-seahorse.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 519FD2
 trojan://ND91608427@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 09E626
