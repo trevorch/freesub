@@ -846,8 +846,8 @@ vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=none&e
 vless://d43b45a6-9f69-44d9-8872-862c885e27c9@168.119.169.184:8443?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#DE 🇩🇪 | @Raydikalx | 9F8C5C
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?encryption=none&path=/v1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 8398C0
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#RU 🇷🇺 | @Raydikalx | B78D9D
-vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.4.kfc-520.com:10005?allowInsecure=0&sni=www.asus.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#HK 🇭🇰 | @Raydikalx | F5CDB0
-vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10053?allowInsecure=0&sni=www.amd.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#HK 🇭🇰 | @Raydikalx | EDD9B5
+vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.4.kfc-520.com:10005?allowInsecure=0&sni=www.asus.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#US 🇺🇸 | @Raydikalx | F5CDB0
+vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10053?allowInsecure=0&sni=www.amd.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#US 🇺🇸 | @Raydikalx | EDD9B5
 vless://d682c8f4-e719-577e-cbe9-2e5b00000002@172.67.185.65:80?encryption=none&security=none&type=ws&host=0406.infinityconfig7.workers.dev&path=/sync#CA 🇨🇦 | @Raydikalx | 98B6CB
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@30078f12035fb0b9.mechanicir.ir:56625?encryption=none&type=grpc&security=reality&mode=gun&sni=icloud.com&fp=firefox&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=abbb6e5e07cdf34b#FR 🇫🇷 | @Raydikalx | EEA7A1
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@am1.foot8all.ir:56625?encryption=none&type=grpc&security=reality&mode=gun&sni=icloud.com&fp=qq&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d22c6bf354720287#Global 🌐 | @Raydikalx | AD820C
