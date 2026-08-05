@@ -989,10 +989,7 @@ https://84.239.49.196:9002#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E
 https://84.239.49.213:9002#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9ARO694%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E5%8D%B1%E9%99%A9%20TG%40jcnode
 https://84.239.49.239:9002#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9ARO695%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E5%8D%B1%E9%99%A9%20TG%40jcnode
 https://84.239.49.241:9002#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9ARO697%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E5%8D%B1%E9%99%A9%20TG%40jcnode
+https://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d:d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@704f20b2-tcxds0-td95qh-1isea.sj.oshuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.1MB/s
+https://a305ac08-d136-11ee-b6db-f23c91cfbbc9:a305ac08-d136-11ee-b6db-f23c91cfbbc9@1ca4fab3-tcxds0-tujecz-1qkeg.sj.oshuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.1MB/s
+https://test:test.%2B@testkr3.ssv.vc:30446#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.3MB/s
 https://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d:d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@704f20b2-tcxds0-td95qh-1isea.sj.oshuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.1MB/s
-https://f609abb4-ed17-11ee-9fa2-f23c9164ca5d:f609abb4-ed17-11ee-9fa2-f23c9164ca5d@28f9916a-tcxds0-tei4of-1qxa1.sj.oshuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8US_4%7C1.1MB/s
-https://a305ac08-d136-11ee-b6db-f23c91cfbbc9:a305ac08-d136-11ee-b6db-f23c91cfbbc9@1ca4fab3-tcxds0-tujecz-1qkeg.sj.oshuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8US_5%7C1.1MB/s
-https://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d:d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@704f20b2-tcxds0-td95qh-1isea.sj.oshuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8US_11%7C1.1MB/s
-https://a305ac08-d136-11ee-b6db-f23c91cfbbc9:a305ac08-d136-11ee-b6db-f23c91cfbbc9@1ca4fab3-tcxds0-tujecz-1qkeg.sj.oshuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8US_12%7C1003KB/s
-https://f7d95364-607b-11ee-93af-f23c91369f2d:f7d95364-607b-11ee-93af-f23c91369f2d@257fc07f-tcxds0-tv7zgh-1ijh5.fr.oshuawei.com:443#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.2MB/s
-https://96c798f6-4645-11ee-b8a1-f23c9164ca5d:96c798f6-4645-11ee-b8a1-f23c9164ca5d@7382cbd7-tcxds0-th9kx9-1os43.fr.oshuawei.com:443#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.1MB/s
