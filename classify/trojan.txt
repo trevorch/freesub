@@ -433,8 +433,11 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?secu
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com&type=tcp&fp=chrome&udp=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE076%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&type=tcp&fp=safari&udp=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE077%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&type=tcp&fp=firefox&headerType=none&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE079%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20068?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B2%F0%9F%87%B4MO_1%7C1.2MB/s
-trojan://55354c2b8ee339571bd657a9bb9858cc@106.75.132.91:29072?allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C5.0MB/s
+trojan://MiTiVPN@104.26.2.173:443?sni=S-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&allowInsecure=1&type=ws&host=S-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FSG---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%A9%F0%9F%87%AADE_5%7C3.4MB/s
+trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:53199?sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_17%7C2.8MB/s
+trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221?sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BCTW_2%7C1.2MB/s
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_7%7C1.6MB/s
+trojan://55354c2b8ee339571bd657a9bb9858cc@106.75.132.91:29072?allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_6%7C1.4MB/s
 trojan://58b9dbd9-7a5e-437c-a9bd-c5cfd5de3380@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://58b9dbd9-7a5e-437c-a9bd-c5cfd5de3380@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://58b9dbd9-7a5e-437c-a9bd-c5cfd5de3380@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
