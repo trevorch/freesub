@@ -16,9 +16,10 @@ trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xibaozi.19890604.day:10850?type=tc
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xijinping.19890604.day:10813?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#Global 🌐 | @Raydikalx | 42A7C5
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xijinping.19890604.day:10817?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#Global 🌐 | @Raydikalx | B2FEAC
 trojan://32b2m2w7hsdd93z7@83.143.112.140:443?sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU&mode=gun&fp=chrome#FI 🇫🇮 | @Raydikalx | 854F5D
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20068?allowInsecure=1&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | 008FA1
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&sni=hk.catxstar.com&path=/#US 🇺🇸 | @Raydikalx | FE4BCB
 trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?type=grpc&sni=channel.v2bamdad.tech&allowInsecure=1&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX#CA 🇨🇦 | @Raydikalx | 41D694
-trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:53199?allowInsecure=1&sni=speed-01.aliyun-web-tracker.cn#JP 🇯🇵 | @Raydikalx | F11635
+trojan://55354c2b8ee339571bd657a9bb9858cc@106.75.132.91:29072?allowInsecure=1#CN 🇨🇳 | @Raydikalx | 7F3E04
 trojan://581e14a5fcc14107b9326cc54f047891@83.143.112.140.cdn-one.org:443?sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU&mode=gun&fp=chrome#FI 🇫🇮 | @Raydikalx | 013C1F
 trojan://581e14a5fcc14107b9326cc54f047891@83.143.112.140:443?sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU&mode=gun&fp=chrome#FI 🇫🇮 | @Raydikalx | 103E8E
 trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443?type=tcp&allowInsecure=1#DE 🇩🇪 | @Raydikalx | 025BE6
