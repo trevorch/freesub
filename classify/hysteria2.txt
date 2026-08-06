@@ -137,13 +137,10 @@ hysteria2://XhVX5cnBmJ@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=sal
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#NL 🇳🇱 | @Raydikalx | 8A6A97
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1#DE 🇩🇪 | @Raydikalx | A3ECD1
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | C4F82A
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.215:8443?sni=mercedes-grape.yyuyy.com&insecure=1#%F0%9F%87%B7%F0%9F%87%B4RO_1%7C2.0MB/s
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?sni=www.linux.com&insecure=1#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C4.0MB/s
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xby.mangshe.xyz:2056?sni=mg2.mangshe.xyz&insecure=1#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C1.2MB/s
-hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@172.245.233.237:8443?sni=hopp-us.yyuyy.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.5MB/s
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?sni=de-two.quiet-rogue.site&insecure=0#%F0%9F%87%A9%F0%9F%87%AADE_4%7C3.5MB/s
-hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl6.unlockvpn.online:10808?sni=nl6.unlockvpn.online&insecure=1#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.7MB/s
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.216:8443?sni=mercedes-grape.yyuyy.com&insecure=1#%F0%9F%87%B7%F0%9F%87%B4RO_2%7C2.5MB/s
+hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&insecure=1&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C1.4MB/s
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.215:8443?sni=mercedes-grape.yyuyy.com&insecure=1#%F0%9F%87%B7%F0%9F%87%B4RO_1%7C1.2MB/s
+hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl6.unlockvpn.online:10808?sni=nl6.unlockvpn.online&insecure=1#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.0MB/s
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?sni=www.linux.com&insecure=1#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C1.6MB/s
 hysteria2://380b72d3-f440-49af-9680-a7368912214c@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://380b72d3-f440-49af-9680-a7368912214c@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://380b72d3-f440-49af-9680-a7368912214c@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
