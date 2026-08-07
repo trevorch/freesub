@@ -1,5 +1,6 @@
 socks://Og%3D%3D@159.195.49.27:1080#DE 🇩🇪 | @Raydikalx | 956CFB
-socks://YWRtaW46YWRtaW4%3D@143.198.85.89:1080#SG 🇸🇬 | @Raydikalx | A9C17E
+socks://Og%3D%3D@5.255.117.127:1080#NL 🇳🇱 | @Raydikalx | 43EDA0
+socks://Og%3D%3D@51.178.49.241:1088#FR 🇫🇷 | @Raydikalx | C4409F
 socks://Og@144.91.111.48:1088#FR法国(ProxyGo免费节点分享)
 socks://Og@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)
 socks://Og@31.76.80.215:1080#US美国(ProxyGo免费节点分享)
