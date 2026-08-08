@@ -12,6 +12,7 @@ trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@xibaozi.19890604.day:10845?type=tc
 trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@xibaozi.19890604.day:10847?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#Global 🌐 | @Raydikalx | 4C6225
 trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@xijinping.19890604.day:10818?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#Global 🌐 | @Raydikalx | 90F946
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#ES 🇪🇸 | @Raydikalx | 62F5BA
+trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213#ES 🇪🇸 | @Raydikalx | A510D4
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@falungong.19890604.day:10823?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#Global 🌐 | @Raydikalx | 76DAA6
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xibaozi.19890604.day:10850?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#Global 🌐 | @Raydikalx | 4A53FA
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xijinping.19890604.day:10813?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#Global 🌐 | @Raydikalx | 42A7C5
@@ -55,6 +56,7 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?sni=r.kr1.cat.
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?sni=rr1.tube-cat.com&allowInsecure=1&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | 1C6586
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&sni=hk.catxstar.com&type=tcp&path=/&allow_insecure=0#US 🇺🇸 | @Raydikalx | CAB882
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | 0DEB06
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?allowInsecure=1#US 🇺🇸 | @Raydikalx | 829EDE
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 6A2A1C
 trojan://BxceQaOe@18.166.178.40:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#HK 🇭🇰 | @Raydikalx | 8AFF7D
 trojan://BxceQaOe@43.198.109.39:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | D3CCF5
@@ -401,6 +403,7 @@ trojan://Telegram_healer_config@172.67.132.19:443?path=/tr/bDodLFtTQwCZ6EX3ffMYJ
 trojan://Telegram_healer_config@188.114.96.3:443?path=/tr/N61UxT346epoPVmA9xFM6H00?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#CA 🇨🇦 | @Raydikalx | C2C565
 trojan://Telegram_healer_config@188.114.97.3:443?path=/tr/ox5zBiRQjs2Rscy0XwxXY2ZzE?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGyIeClMRx9hef1.z6-0HlnubjIbWZpa85.wOrKerS.DEv#CA 🇨🇦 | @Raydikalx | E5C603
 trojan://Telegram_healer_config@6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev:443?path=/tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#CA 🇨🇦 | @Raydikalx | AA51F5
+trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@43.249.172.27:443?allowInsecure=1&sni=hongkong.kingonestar.com#HK 🇭🇰 | @Raydikalx | 1F82D1
 trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&path=/#IE 🇮🇪 | @Raydikalx | DA615D
 trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#IE 🇮🇪 | @Raydikalx | ED7BB4
 trojan://UO36402987@54.216.124.178:443?sni=warm-bass.rooster465.autos&fp=chrome&path=/#IE 🇮🇪 | @Raydikalx | B0E59C
