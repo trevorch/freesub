@@ -121,7 +121,7 @@ wireguard://yNyRSGV2yPsyUjLf8hP%2FatC7aWDb6GkPRlV9ShD9yX8%3D@8.6.112.111:864?add
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — LIGHT — 2789 unique configs
+# @Raydikalx — LIGHT — 2790 unique configs
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?sni=nl1.noesissite.ru#US 🇺🇸 | @Raydikalx | 685063
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#IT 🇮🇹 | @Raydikalx | 937006
 hysteria2://0c3bd8c8-53db-4126-a98f-d12d908d5301@jpa.nnpy.org:11000?insecure=1&sni=www.bing.com#JP 🇯🇵 | @Raydikalx | 57E9FD
@@ -1708,6 +1708,7 @@ vless://d59ef10f-6f02-4821-8dd0-cd33897dd889@217.16.27.113:443?encryption=none&f
 vless://d59ef10f-6f02-4821-8dd0-cd33897dd889@217.16.27.113:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=eh.vk.com&type=raw#RU 🇷🇺 | @Raydikalx | 01E2D7
 vless://d5b98191-5feb-54c3-ce05-ef8c00000002@104.19.229.21:443?security=tls&type=ws&path=/sync&host=ez-b2635d.hosienzade45.workers.dev&sni=ez-b2635d.hosienzade45.workers.dev&fp=chrome&encryption=none#CA 🇨🇦 | @Raydikalx | 139FF9
 vless://d63fb2c0-5645-43d5-9ea2-efb4fcbe4cef@37.252.17.192:8451?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ob0P4YslMWVnPxNFehia13AWqHTQNuRUYTXhuiNZCTk&security=reality&sid=f5614cd78e939cd3&sni=www.rumedia-cdn.com&type=raw#RU 🇷🇺 | @Raydikalx | 82094A
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#US 🇺🇸 | @Raydikalx | 3C4DEB
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#US 🇺🇸 | @Raydikalx | 6762DA
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#US 🇺🇸 | @Raydikalx | 51CE84
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#US 🇺🇸 | @Raydikalx | 4C03F4
