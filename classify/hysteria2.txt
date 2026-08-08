@@ -20,7 +20,6 @@ hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga6.api3-max.ru:443?insecure=
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443?insecure=1&sni=wopa4.api3-max.ru#GB 🇬🇧 | @Raydikalx | 26D3BF
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?sni=wopa5.api3-max.ru#GB 🇬🇧 | @Raydikalx | E31B9B
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa8.api3-max.ru:443?insecure=1&sni=wopa8.api3-max.ru#GB 🇬🇧 | @Raydikalx | 6E8D75
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443?sni=ger.leontunel.ru#DE 🇩🇪 | @Raydikalx | 04B27B
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443?sni=ang.leontunel.ru#GB 🇬🇧 | @Raydikalx | 58AF1A
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@finlandi.blokinet3.ru:443?insecure=1&sni=finlandi.blokinet3.ru#NL 🇳🇱 | @Raydikalx | 0B84AA
 hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001?insecure=1#US 🇺🇸 | @Raydikalx | AAB441
@@ -149,7 +148,6 @@ hysteria2://TelegramVPNjey@179.61.251.253:37003?insecure=0&sni=de.jey.cc.cd&obfs
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#RO 🇷🇴 | @Raydikalx | F4700E
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org#RO 🇷🇴 | @Raydikalx | 4D1885
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?insecure=1#RO 🇷🇴 | @Raydikalx | 8DF735
-hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni=devideo.h2corp.org#RU 🇷🇺 | @Raydikalx | E54DCA
 hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8443?sni=hopp-us.yyuyy.com#US 🇺🇸 | @Raydikalx | C11EE8
 hysteria2://XhVX5cnBmJ@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn#BH 🇧🇭 | @Raydikalx | 979D51
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#NL 🇳🇱 | @Raydikalx | 8A6A97
