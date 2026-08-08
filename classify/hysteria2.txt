@@ -104,6 +104,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&s
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#TW 🇹🇼 | @Raydikalx | 3DECAF
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#TW 🇹🇼 | @Raydikalx | 8809A0
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#FI 🇫🇮 | @Raydikalx | 98E98B
+hysteria2://https@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#US 🇺🇸 | @Raydikalx | 9C8B9A
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52046?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=7h5we82pkgh4qwid#FI 🇫🇮 | @Raydikalx | 7500D3
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52062?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hg7rfvz151ftjh0w#FI 🇫🇮 | @Raydikalx | 3A48CF
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.117:8443?insecure=0&sni=grape-zet-ro-turbo.bumbleshrimp.com#DE 🇩🇪 | @Raydikalx | 6EB55D
