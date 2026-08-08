@@ -37,6 +37,7 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?sni=r.kr1.cat.
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none&path=/#US 🇺🇸 | @Raydikalx | CAB882
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | 0DEB06
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20004?sni=hk.catxstar.com&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 1B66BD
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=de.catxstar.com#US 🇺🇸 | @Raydikalx | B0D6B9
 trojan://BxceQaOe@119.246.1.143:443?sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&fp=chrome#HK 🇭🇰 | @Raydikalx | 1A14FE
 trojan://BxceQaOe@119.246.1.143:443?sni=119.246.1.143&allowInsecure=1&type=tcp&fp=chrome#HK 🇭🇰 | @Raydikalx | AF8891
 trojan://BxceQaOe@18.166.178.40:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#HK 🇭🇰 | @Raydikalx | 8AFF7D
