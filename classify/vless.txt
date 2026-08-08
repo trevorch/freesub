@@ -641,7 +641,7 @@ vless://7e1501d5-36e5-4753-8740-3e38a75b1052@139.59.165.24:41556?security=none&e
 vless://7e1501d5-36e5-4753-8740-3e38a75b1052@157.230.24.102:41556?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | C24229
 vless://7e1501d5-36e5-4753-8740-3e38a75b1052@159.89.108.78:41556?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | 8F1EA7
 vless://7e1501d5-36e5-4753-8740-3e38a75b1052@165.232.65.64:41556?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | C92B5A
-vless://7e8431b3-e0cf-44c1-ac78-687336ea3da2@fna.montago-shop.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Global 🌐 | @Raydikalx | D14C2A
+vless://7e8431b3-e0cf-44c1-ac78-687336ea3da2@fna.montago-shop.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#FI 🇫🇮 | @Raydikalx | D14C2A
 vless://7e8431b3-e0cf-44c1-ac78-687336ea3da2@opg.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#DE 🇩🇪 | @Raydikalx | 9835EC
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#TR 🇹🇷 | @Raydikalx | B640C1
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#NL 🇳🇱 | @Raydikalx | 3E743A
