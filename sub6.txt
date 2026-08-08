@@ -121,7 +121,7 @@ wireguard://yNyRSGV2yPsyUjLf8hP%2FatC7aWDb6GkPRlV9ShD9yX8%3D@8.6.112.111:864?add
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — LIGHT — 2835 unique configs
+# @Raydikalx — LIGHT — 2836 unique configs
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?sni=nl1.noesissite.ru#US 🇺🇸 | @Raydikalx | 685063
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#IT 🇮🇹 | @Raydikalx | 937006
 hysteria2://0c3bd8c8-53db-4126-a98f-d12d908d5301@jpa.nnpy.org:11000?insecure=1&sni=www.bing.com#JP 🇯🇵 | @Raydikalx | 57E9FD
@@ -1439,7 +1439,7 @@ vless://7e1501d5-36e5-4753-8740-3e38a75b1052@139.59.165.24:41556?security=none&e
 vless://7e1501d5-36e5-4753-8740-3e38a75b1052@157.230.24.102:41556?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | C24229
 vless://7e1501d5-36e5-4753-8740-3e38a75b1052@159.89.108.78:41556?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | 8F1EA7
 vless://7e1501d5-36e5-4753-8740-3e38a75b1052@165.232.65.64:41556?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | C92B5A
-vless://7e8431b3-e0cf-44c1-ac78-687336ea3da2@fna.montago-shop.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Global 🌐 | @Raydikalx | D14C2A
+vless://7e8431b3-e0cf-44c1-ac78-687336ea3da2@fna.montago-shop.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#FI 🇫🇮 | @Raydikalx | D14C2A
 vless://7e8431b3-e0cf-44c1-ac78-687336ea3da2@opg.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#DE 🇩🇪 | @Raydikalx | 9835EC
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#TR 🇹🇷 | @Raydikalx | B640C1
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#NL 🇳🇱 | @Raydikalx | 3E743A
@@ -2023,6 +2023,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgRDkzMzQxIiwiYWRk
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xOS40Ny4xMzciLCJwb3J0IjoiODA4MCIsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCA4MkUxNjAifQ==
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xOS40Ny4xNDgiLCJwb3J0IjoiODA4MCIsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFZQTmluZTEiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDU5N0ZCMSJ9
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xOS40Ny4xNDgiLCJwb3J0IjoiODA4MCIsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAxMEUxNDYifQ==
+vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xOS40Ny4xNTgiLCJwb3J0Ijo4MDgwLCJpZCI6ImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Im9paWN0dy55eWRzaWkuY29tIiwicGF0aCI6Ii8/ZWQ9MjA0OCZUZWxlZ3JhbfCfh6jwn4ezIEBWUE5pbmUxIiwidGxzIjoiIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBCREUwMzkifQ==
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xOS40Ny4xNTgiLCJwb3J0Ijo4MDgwLCJpZCI6ImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Im9paWN0dy55eWRzaWkuY29tIiwicGF0aCI6Ii8/ZWQ9MjA0OCZUZWxlZ3JhbfCfh6jwn4ezIEBXYW5nQ2FpMiIsInRscyI6IiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgNEM5MTRGIn0=
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xOS40Ny4xNjgiLCJwb3J0IjoiODA4MCIsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFZQTmluZTEiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IEJENjlGQyJ9
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xOS40Ny4xNjgiLCJwb3J0IjoiODA4MCIsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBCRURGMkIifQ==
