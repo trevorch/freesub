@@ -152,11 +152,13 @@ hysteria2://XhVX5cnBmJ@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=sal
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#NL 🇳🇱 | @Raydikalx | 8A6A97
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=130.61.50.75#DE 🇩🇪 | @Raydikalx | 429F7D
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | C4F82A
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?sni=de-two.quiet-rogue.site&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.7MB/s
-hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@gm.serviceoda.ru:443?sni=gm.serviceoda.ru&insecure=1#%F0%9F%87%B7%F0%9F%87%BARU_1%7C4.3MB/s
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.217:8443?sni=mercedes-grape.yyuyy.com&insecure=1#%F0%9F%87%B7%F0%9F%87%B4RO_25%7C3.0MB/s
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443?sni=de-two.quiet-rogue.site&insecure=0#%F0%9F%87%A9%F0%9F%87%AADE_5%7C1.1MB/s
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@us1.xiaoliyu.cyou:10086?sni=us1.xiaoliyu.cyou&insecure=1&obfs=salamander&obfs-password=PQ%24hN78bzXWN#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C3.0MB/s
+hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@on.cryptoofarm.com:443?sni=on.cryptoofarm.com&insecure=1#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C3.0MB/s
+hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?sni=quic.tyr-agentstvo.tech&insecure=1#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.1MB/s
+hysteria2://gf1%3Agfhysteria2024@185.111.109.40:443?sni=www.dell.com&insecure=1#%F0%9F%87%A9%F0%9F%87%B0DK_1%7C3.8MB/s
+hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@lin.cryptoofarm.com:443?sni=lin.cryptoofarm.com&insecure=1#%E2%9D%93Other_1%7C3.4MB/s
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@sg1.xiaoliyu.cyou:1935?sni=sg1.xiaoliyu.cyou&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_5%7C3.2MB/s
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.217:8443?sni=mercedes-grape.yyuyy.com&insecure=1#%F0%9F%87%B7%F0%9F%87%B4RO_8%7C3.8MB/s
+hysteria2://claire123@60.71.150.71:8443?sni=tuimao.space&insecure=1#%F0%9F%87%AF%F0%9F%87%B5JP_4%7C2.8MB/s
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
