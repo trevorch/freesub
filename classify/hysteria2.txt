@@ -1,4 +1,5 @@
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#IT 🇮🇹 | @Raydikalx | 937006
+hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@gm.serviceoda.ru:443?insecure=1&sni=gm.serviceoda.ru#RU 🇷🇺 | @Raydikalx | 8894B7
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@es1.xiaoliyu.cyou:4433?insecure=1&sni=es1.xiaoliyu.cyou#ES 🇪🇸 | @Raydikalx | 6F3DD8
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@us1.xiaoliyu.cyou:10086?insecure=1&sni=us1.xiaoliyu.cyou&obfs=salamander&obfs-password=PQ$hN78bzXWN#DE 🇩🇪 | @Raydikalx | 54D587
 hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#FI 🇫🇮 | @Raydikalx | DEAB47
@@ -21,10 +22,11 @@ hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443?sni=ger.leo
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443?sni=ang.leontunel.ru#GB 🇬🇧 | @Raydikalx | 58AF1A
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@finlandi.blokinet3.ru:443?insecure=1&sni=finlandi.blokinet3.ru#NL 🇳🇱 | @Raydikalx | 0B84AA
 hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001?insecure=1#US 🇺🇸 | @Raydikalx | AAB441
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443?sni=de-two.quiet-rogue.site#DE 🇩🇪 | @Raydikalx | FCFBC0
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443?insecure=0&sni=de-two.quiet-rogue.site&obfs=&obfs-password=#DE 🇩🇪 | @Raydikalx | FCFBC0
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443?insecure=1&sni=de-two.quiet-rogue.site#RU 🇷🇺 | @Raydikalx | FD8CA0
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443?sni=swe-one.quiet-rogue.site#SE 🇸🇪 | @Raydikalx | CB5A8E
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?sni=de-two.quiet-rogue.site#DE 🇩🇪 | @Raydikalx | 1658DE
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?insecure=1&sni=de-two.quiet-rogue.site#DE 🇩🇪 | @Raydikalx | 2AAE37
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?sni=fi-one.quiet-rogue.site#FI 🇫🇮 | @Raydikalx | 9387E9
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443?sni=it-one.quiet-rogue.site#IT 🇮🇹 | @Raydikalx | B6C90E
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site#SE 🇸🇪 | @Raydikalx | 3EB7A8
@@ -44,6 +46,7 @@ hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055?insecure=
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp3.mangshe.xyz:2060?insecure=1&sni=xjp3.mangshe.xyz#SG 🇸🇬 | @Raydikalx | 0F2489
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?sni=mercedes-grape.yyuyy.com#FR 🇫🇷 | @Raydikalx | 635DEA
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.215:8443?insecure=1&sni=mercedes-grape.yyuyy.com#FR 🇫🇷 | @Raydikalx | C956D7
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.217:8443?insecure=1&sni=mercedes-grape.yyuyy.com#FR 🇫🇷 | @Raydikalx | C558BF
 hysteria2://a000fb47-5dfd-4a6b-9739-2878883d6969@uswx4.wxgqlfx.vip:36253?insecure=1&sni=144.225.187.153#US 🇺🇸 | @Raydikalx | B9BE89
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@jp.555199.xyz:20000/?insecure=0&sni=sg.555199.xyz&mport=20000-30000#JP 🇯🇵 | @Raydikalx | 68C969
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@sg.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#SG 🇸🇬 | @Raydikalx | 216318
@@ -134,6 +137,7 @@ hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&ob
 hysteria2://sharecentrepro@twgcp.sharecentre.online:4433?peer=twgcp.sharecentre.online&obfs=none#US 🇺🇸 | @Raydikalx | AB5E3C
 hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#Global 🌐 | @Raydikalx | 24BDB9
 hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#RO 🇷🇴 | @Raydikalx | 0BFEA8
+hysteria2://STYyftThFn@soskeynets.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#RO 🇷🇴 | @Raydikalx | 728A43
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#US 🇺🇸 | @Raydikalx | 6BCE08
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=159.223.157.129#US 🇺🇸 | @Raydikalx | 045CA2
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#US 🇺🇸 | @Raydikalx | EDC48F
