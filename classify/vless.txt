@@ -849,7 +849,7 @@ vless://b05038a1-acce-4a4d-a952-425b845c981a@15.236.201.26:17912?security=realit
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#NL 🇳🇱 | @Raydikalx | 027535
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=/?&encryption=none&headerType=none&security=none&type=tcp#DE 🇩🇪 | @Raydikalx | 345DF1
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&type=tcp&path=/#DE 🇩🇪 | @Raydikalx | 7CF5E0
-vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@school.fizikade.ir:443?security=reality&type=tcp&headerType=http&path=/naranv2ray&sni=play.google.com&fp=chrome&sid=9e0fac51cc19d2&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&encryption=none#US 🇺🇸 | @Raydikalx | 3F9DF8
+vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@school.fizikade.ir:443?security=reality&type=tcp&headerType=http&path=/naranv2ray&sni=play.google.com&fp=chrome&sid=9e0fac51cc19d2&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&encryption=none#PL 🇵🇱 | @Raydikalx | 3F9DF8
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#US 🇺🇸 | @Raydikalx | 70E517
 vless://b3c0e083-7608-48b1-84ac-efd75522b745@91.98.99.36:2087?encryption=none&security=none&type=ws&host=play.google.com&path=/#DE 🇩🇪 | @Raydikalx | 3DED0C
 vless://b3c0e083-7608-48b1-84ac-efd75522b745@dyar3.javanrooo.ir:2087?encryption=none&security=none&type=ws&host=play.google.com&path=/#DE 🇩🇪 | @Raydikalx | 773250
