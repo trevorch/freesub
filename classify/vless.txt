@@ -776,7 +776,7 @@ vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&en
 vless://8f046c7d-2e11-46b3-91c6-d20c240fd202@164.92.198.135:24522?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#DE 🇩🇪 | @Raydikalx | E04CB5
 vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw#RU 🇷🇺 | @Raydikalx | 358924
 vless://8f60c053-e103-4c95-b912-b1037a029ebe@DIRECT.com.fastserverippanel.online:443?security=reality&encryption=none&pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d15b96dda66c6c26#TR 🇹🇷 | @Raydikalx | E5DC1C
-vless://8f60c053-e103-4c95-b912-b1037a029ebe@server.wiki.fastpanel.dash.api.carpetsart.ir:5055?security=reality&encryption=none&pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d15b96dda66c6c26#Global 🌐 | @Raydikalx | 4A7531
+vless://8f60c053-e103-4c95-b912-b1037a029ebe@server.wiki.fastpanel.dash.api.carpetsart.ir:5055?security=reality&encryption=none&pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d15b96dda66c6c26#TR 🇹🇷 | @Raydikalx | 4A7531
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.34.192:62145?security=none&type=tcp#NL 🇳🇱 | @Raydikalx | 78557F
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.126:62145?security=none&type=tcp#CO 🇨🇴 | @Raydikalx | B833BB
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.226:62145?security=none&type=tcp#CO 🇨🇴 | @Raydikalx | A34A3E
