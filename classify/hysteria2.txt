@@ -185,8 +185,9 @@ hysteria2://XhVX5cnBmJ@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=sal
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#NL 🇳🇱 | @Raydikalx | 8A6A97
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1#DE 🇩🇪 | @Raydikalx | A3ECD1
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | C4F82A
-hysteria2://7wzl2lj2fy956inb@3x.aweijll.cf:40001?sni=3x.aweijll.cf&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.5MB/s
-hysteria2://df8d55f9-fb51-442d-902a-bf8160dc051b@brb.nnpy.org:11100?sni=www.bing.com&insecure=1#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C1.1MB/s
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@sg3.xiaoliyu.cyou:4466?sni=sg3.xiaoliyu.cyou&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.3MB/s
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?sni=gorbachev-th.kvnfreetest.uk&insecure=0#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C1.5MB/s
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org&insecure=0#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.7MB/s
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
