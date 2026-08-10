@@ -15,7 +15,7 @@ hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecu
 hysteria2://571e40e5-d597-4618-9204-535c94dca771@uswx3.wxgqlfx.vip:36253?insecure=1&sni=144.225.187.184#US 🇺🇸 | @Raydikalx | 87A201
 hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@129.151.250.154:35000?insecure=1&sni=www.lamer.com.hk#FR 🇫🇷 | @Raydikalx | 4FA89C
 hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000?insecure=1&sni=www.apple.com#BR 🇧🇷 | @Raydikalx | 321E7B
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?#TR 🇹🇷 | @Raydikalx | D9D39C
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?#Global 🌐 | @Raydikalx | D9D39C
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443?sni=ang.leontunel.ru#GB 🇬🇧 | @Raydikalx | 58AF1A
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?sni=gorbachev-th.kvnfreetest.uk&path=%2f#TH 🇹🇭 | @Raydikalx | AEF3CD
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?sni=gorbachev-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | 6607F3
@@ -37,7 +37,7 @@ hysteria2://8JCsPssfgS8tiRwiMlhARg%3D%3D@aliyun-hkg.pku.pp.ua:8443?sni=aliyun-hk
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#RU 🇷🇺 | @Raydikalx | FCEC5C
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?sni=iq5ny.pleiades.codes#FR 🇫🇷 | @Raydikalx | A0E0A6
 hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl2.unlockvpn.online:10808?sni=nl2.unlockvpn.online#NL 🇳🇱 | @Raydikalx | 38F580
-hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl6.unlockvpn.online:10808?insecure=1&sni=nl6.unlockvpn.online#NL 🇳🇱 | @Raydikalx | E7B4D4
+hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl6.unlockvpn.online:10808?insecure=1&sni=nl6.unlockvpn.online#AL 🇦🇱 | @Raydikalx | E7B4D4
 hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl7.unlockvpn.online:10808?sni=nl7.unlockvpn.online#NL 🇳🇱 | @Raydikalx | A6D04D
 hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl9.unlockvpn.online:10808?sni=nl9.unlockvpn.online#NL 🇳🇱 | @Raydikalx | BE529E
 hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443?insecure=1&sni=iosapps.itunes.apple.com#GB 🇬🇧 | @Raydikalx | 6B46E2
