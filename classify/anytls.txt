@@ -1,6 +1,4 @@
 anytls://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@es2.xiaoliyu.cyou:4430?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#(ProxyGo免费节点分享)
 anytls://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@fr1.xiaoliyu.cyou:4430?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#FR法国(ProxyGo免费节点分享)
-anytls://101865c6-e4e5-11ee-b1cc-f23c9164ca5d@99bfa3b9-tiw740-u1a7t2-1qwla.hk3.hyhuawei.com:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=127.0.0.1&insecure=1&sub_tag=X001-260618&udp=1&username=101865c6-e4e5-11ee-b1cc-f23c9164ca5d&disable_sni=true#%E9%A6%99%E6%B8%AF%2012
-anytls://101865c6-e4e5-11ee-b1cc-f23c9164ca5d@99bfa3b9-tiw740-u1a7t2-1qwla.hk3.hyhuawei.com:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=127.0.0.1&insecure=1&sub_tag=C002-260622&udp=1&username=101865c6-e4e5-11ee-b1cc-f23c9164ca5d#%E9%A6%99%E6%B8%AF%2013
-anytls://dongtaiwang.com@45.221.98.14:59901?security=none&type=tcp&alpn=h2&allowInsecure=1&insecure=1&udp=1#%E5%B9%BF%E6%92%AD%E6%9C%BA%E6%88%BF%2001
-anytls://fanvpn.net@anytls.864106.xyz:18001?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_449%7C252KB%2Fs%7CR002-260618%2001
+anytls://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@es2.xiaoliyu.cyou:4430?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%E8%A5%BF%E7%8F%AD%E7%89%99%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+anytls://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@fr1.xiaoliyu.cyou:4430?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
