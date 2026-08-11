@@ -171,7 +171,7 @@ vless://24e3a924-fc4b-4e3f-98a8-85d506d530f9@185.221.163.211:443?type=tcp&securi
 vless://24e70daa-cc81-4bd7-b3d2-154ba74eaffb@138.124.90.40:43335?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=oX0_gGgDEMgybgPVdyT6coArUyRqgRVDBKP6GCemBwg&sid=beabb2&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#AT 🇦🇹 | @Raydikalx | 2FD590
 vless://25ecef4d-993a-4f1b-b64a-0379d3bead20@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&host=pan11.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=1&allowInsecure=1#US 🇺🇸 | @Raydikalx | 154FF0
 vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@galm.lorqina.ir:49530?security=none&encryption=none&headerType=none&type=tcp#DE 🇩🇪 | @Raydikalx | 469AAD
-vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@hc.lorqina.ir:15029?security=none&encryption=none&headerType=none&type=tcp#CA 🇨🇦 | @Raydikalx | 8C07C7
+vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@hc.lorqina.ir:15029?security=none&encryption=none&headerType=none&type=tcp#Global 🌐 | @Raydikalx | 8C07C7
 vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@okb.lorqina.ir:40813?security=&encryption=none&headerType=&type=tcp#GB 🇬🇧 | @Raydikalx | F99F4A
 vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=/pyip&security=none&encryption=none&host=royal-shape-3771.93-728.workers.dev&type=ws#CA 🇨🇦 | @Raydikalx | E4F4C5
 vless://271e3f7b-6afe-4104-b65b-afc2950f1638@apn.zyro-lab.com:8090?security=none&type=tcp&headerType=http&path=/&host=play.google.com#DE 🇩🇪 | @Raydikalx | D561F6
@@ -932,7 +932,6 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.242.2.214:8443?security=tls&typ
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@167.104.96.16:8443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=firefox#SE 🇸🇪 | @Raydikalx | 08AD3A
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.18:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#CA 🇨🇦 | @Raydikalx | 0E0D05
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.39:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#CA 🇨🇦 | @Raydikalx | CB39C5
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#CA 🇨🇦 | @Raydikalx | C16C3A
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#CA 🇨🇦 | @Raydikalx | 6C23F4
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@74.222.12.165:8443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome#JP 🇯🇵 | @Raydikalx | FB6DA4
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@85.155.176.44:8443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=firefox#KR 🇰🇷 | @Raydikalx | 6A99AB
