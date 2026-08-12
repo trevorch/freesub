@@ -356,10 +356,12 @@ trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws
 trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&type=ws&fp=chrome&alpn=http/1.1&path=/assignment&udp=1&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR047%201.7MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 trojan://humanity@86.38.214.205:443?security=tls&sni=www.ignitelimit.com&type=ws&fp=chrome&path=/assignment&udp=1&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR048%201.7MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 trojan://humanity@8.6.112.6:443?security=tls&sni=www.ignitelimit.com&type=ws&fp=chrome&path=/assignment&udp=1&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR055%201.68MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?sni=ru.federal-usa.com&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_2%7C2.2MB/s
-trojan://humanity@104.18.152.208:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.8MB/s
-trojan://MITIVPN@188.114.97.6:443?sni=usA-sa-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FusAs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C3.1MB/s
-trojan://humanity@104.18.152.230:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_4%7C1.9MB/s
+trojan://MiTiVPN@104.17.148.22:443?sni=gb-ss-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&allowInsecure=1&type=ws&host=gb-ss-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fgb---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.2MB/s
+trojan://humanity@104.16.174.12:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C1.4MB/s
+trojan://humanity@104.21.46.3:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_4%7C2.9MB/s
+trojan://humanity@104.26.15.137:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_5%7C1.1MB/s
+trojan://humanity@8.6.112.6:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_6%7C1.8MB/s
+trojan://humanity@104.20.6.134:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_7%7C2.4MB/s
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@fr1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
