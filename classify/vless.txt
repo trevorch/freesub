@@ -123,7 +123,7 @@ vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?type=ws&e
 vless://2c66d559-9889-45c5-a712-d8b7a31fa04d@104.171.135.186:4100?encryption=none&path=/v1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | A4C7F0
 vless://2c6e77bd-e478-4cbe-b13c-3c728cf71fd9@web-11.zostoree.ir:2044?security=none&type=tcp&headerType=http&path=/&host=search.arin.net&encryption=none#DE 🇩🇪 | @Raydikalx | F874E7
 vless://2c6e77bd-e478-4cbe-b13c-3c728cf71fd9@web-13.zostoree.ir:2044?security=none&type=tcp&headerType=http&path=/&host=is1-ssl.mzstatic.com&encryption=none#DE 🇩🇪 | @Raydikalx | ADC118
-vless://2c6e77bd-e478-4cbe-b13c-3c728cf71fd9@web-8.zostoree.ir:2044?security=none&type=tcp&headerType=http&path=/&host=is1-ssl.mzstatic.com&encryption=none#LV 🇱🇻 | @Raydikalx | 47F029
+vless://2c6e77bd-e478-4cbe-b13c-3c728cf71fd9@web-8.zostoree.ir:2044?security=none&type=tcp&headerType=http&path=/&host=is1-ssl.mzstatic.com&encryption=none#DE 🇩🇪 | @Raydikalx | 47F029
 vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.179:443?encryption=none&security=tls&sni=deu683.lackerdeu.org&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&path=%2Fapi%2Fv1%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A%22180000-300000%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22maxConcurrency%22%3A%2216-32%22%7D%7D#DE 🇩🇪 | @Raydikalx | DCA607
 vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?alpn=h2&encryption=none&fp=firefox&host=deu683.lackerdeu.org&mode=auto&path=/api/v1/&security=tls&sni=deu683.lackerdeu.org&type=xhttp#DE 🇩🇪 | @Raydikalx | B7AFC0
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@101.36.118.159:9988?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#HK 🇭🇰 | @Raydikalx | A6098A
