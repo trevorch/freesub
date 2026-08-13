@@ -121,7 +121,7 @@ wireguard://yNyRSGV2yPsyUjLf8hP%2FatC7aWDb6GkPRlV9ShD9yX8%3D@8.6.112.111:864?add
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — LIGHT — 2959 unique configs
+# @Raydikalx — LIGHT — 2958 unique configs
 # --- below: schemes sing-box cannot parse (skipped by Hiddify) ---
 anytls://13f0acfa-38c1-4e82-a758-583aa31740df@13.212.180.154:60572?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=yzhou015.jdvipkuai.cc&insecure=1&udp=1&username=13f0acfa-38c1-4e82-a758-583aa31740df#SG 🇸🇬 | @Raydikalx | 2DDF8C
 anytls://13f0acfa-38c1-4e82-a758-583aa31740df@sivp666.ipad1el.com:60572?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=yzhou015.jdvipkuai.cc&insecure=1&udp=1&username=13f0acfa-38c1-4e82-a758-583aa31740df#SG 🇸🇬 | @Raydikalx | 4EE5E2
@@ -129,9 +129,7 @@ hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.207.60:443?insecure=1&sn
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?sni=nl1.noesissite.ru#NL 🇳🇱 | @Raydikalx | 685063
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?insecure=1&sni=nl1.noesissite.ru#NL 🇳🇱 | @Raydikalx | F6C6BD
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#IT 🇮🇹 | @Raydikalx | 937006
-hysteria2://0c3bd8c8-53db-4126-a98f-d12d908d5301@jpa.nnpy.org:11000?insecure=1&sni=www.bing.com#JP 🇯🇵 | @Raydikalx | 57E9FD
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#SG 🇸🇬 | @Raydikalx | DFA2B2
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@es2.xiaoliyu.cyou:4433?insecure=1&sni=es2.xiaoliyu.cyou#ES 🇪🇸 | @Raydikalx | C5EF75
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#SG 🇸🇬 | @Raydikalx | 0BD015
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@lin.cryptoofarm.com:443?sni=lin.cryptoofarm.com#NL 🇳🇱 | @Raydikalx | 132C14
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:443?sni=pol.cryptoofarm.com#PL 🇵🇱 | @Raydikalx | 4FB6CD
@@ -145,7 +143,6 @@ hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@82.22.41.125:443?insecure=1&obfs=sa
 hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#PL 🇵🇱 | @Raydikalx | CAEFB0
 hysteria2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@103.27.156.125:443?sni=node-degame.bangboonet.ru#DE 🇩🇪 | @Raydikalx | FAFCE3
 hysteria2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@node-degame.bangboonet.ru:443?insecure=1&sni=node-degame.bangboonet.ru#DE 🇩🇪 | @Raydikalx | 9DD8CF
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=hg1.yuanbaojc.site#KR 🇰🇷 | @Raydikalx | 2FC1C4
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52020?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kkh2qmrbxmh8h22a#FI 🇫🇮 | @Raydikalx | DA3DDF
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52021?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#FI 🇫🇮 | @Raydikalx | 56A649
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52022?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo#FI 🇫🇮 | @Raydikalx | 971D1A
@@ -156,15 +153,10 @@ hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52026?alp
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52027?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=4hnuy2eg2xgo6ue0#FI 🇫🇮 | @Raydikalx | CF2AC8
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52030?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=x5y77oxwfcl868u3#FI 🇫🇮 | @Raydikalx | 6DB8AB
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52031?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=p61ckuavkc1s2hfl#FI 🇫🇮 | @Raydikalx | 380DE1
-hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52085?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=bjk7yxuzu7a0cpik#FI 🇫🇮 | @Raydikalx | B20680
-hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52086?insecure=0&alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=dscbu47eev49tv84#FI 🇫🇮 | @Raydikalx | D23868
-hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52087?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=bwgy7ppdoiz448uw#FI 🇫🇮 | @Raydikalx | 350995
-hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52089?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hitar6eeayxd7imh#FI 🇫🇮 | @Raydikalx | 9D35BD
 hysteria2://4eee1b74-f71e-4c88-ac26-9eec362e40d1@hkt1.nekohub.xyz:20007?insecure=1&sni=www.bing.com#HK 🇭🇰 | @Raydikalx | AC39B5
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52000?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#FI 🇫🇮 | @Raydikalx | D21C10
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52002?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx#FI 🇫🇮 | @Raydikalx | 56386E
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52003?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=5xo4v7u2pv8bktvb#FI 🇫🇮 | @Raydikalx | 8BF38B
-hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52052?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gfy85fok75ipi28z#FI 🇫🇮 | @Raydikalx | 00F4D9
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52062?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hg7rfvz151ftjh0w#FI 🇫🇮 | @Raydikalx | DD12E2
 hysteria2://53f193c4-6482-45fb-8e00-60e0baf016ee@207.56.227.226:48920?insecure=1&sni=www.bing.com#JP 🇯🇵 | @Raydikalx | 9CCB71
 hysteria2://571e40e5-d597-4618-9204-535c94dca771@uswx3.wxgqlfx.vip:36253?insecure=1&sni=144.225.187.184#US 🇺🇸 | @Raydikalx | 87A201
@@ -181,12 +173,10 @@ hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@151.247.193.5:8443?sni=iq5ny.pleiades.codes#FR 🇫🇷 | @Raydikalx | CF2E87
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#RU 🇷🇺 | @Raydikalx | FCEC5C
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?insecure=1&sni=iq5ny.pleiades.codes#FR 🇫🇷 | @Raydikalx | F56E58
-hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl6.unlockvpn.online:10808?insecure=1&sni=nl6.unlockvpn.online#AL 🇦🇱 | @Raydikalx | E7B4D4
 hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl7.unlockvpn.online:10808?sni=nl7.unlockvpn.online#NL 🇳🇱 | @Raydikalx | A6D04D
 hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl9.unlockvpn.online:10808?sni=nl9.unlockvpn.online#NL 🇳🇱 | @Raydikalx | BE529E
-hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@91.107.176.41:2082?insecure=0&sni=hy2.tokyoservice.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#DE 🇩🇪 | @Raydikalx | E646FE
-hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.tokyoservice.ir:2082?insecure=1&sni=hy2.tokyoservice.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#DE 🇩🇪 | @Raydikalx | 977021
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@dg1.mangshe.xyz:2056?insecure=1&sni=dg1.mangshe.xyz#DE 🇩🇪 | @Raydikalx | CD15A2
+hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@91.107.176.41:2082?obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&sni=hy2.tokyoservice.ir#DE 🇩🇪 | @Raydikalx | E646FE
+hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.tokyoservice.ir:2082?insecure=1&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&sni=hy2.tokyoservice.ir#DE 🇩🇪 | @Raydikalx | 977021
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#SG 🇸🇬 | @Raydikalx | 6D5C86
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.217:8443?insecure=1&sni=mercedes-grape.yyuyy.com#FR 🇫🇷 | @Raydikalx | C558BF
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443?sni=mercedes-grape.yyuyy.com#FR 🇫🇷 | @Raydikalx | C8D59D
@@ -204,15 +194,13 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.1
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#US 🇺🇸 | @Raydikalx | 7CFC83
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#US 🇺🇸 | @Raydikalx | D31C11
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#US 🇺🇸 | @Raydikalx | 515331
-hysteria2://bd37d63b-c75d-3e48-acbf-1d5954fe9cdc@usaw2.awo-link.com:14101?sni=usaw2.awo-link.com&obfs=salamander&obfs-password=XBvVbvzQCq6Ovbnh#US 🇺🇸 | @Raydikalx | B0D5D7
 hysteria2://c175d956-d1f4-4c53-b2b1-8493bf8529c6@87.120.84.189:443?sni=de1.apexvpn.space#DE 🇩🇪 | @Raydikalx | E6E7E8
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.237.219:443?insecure=1&sni=nl2.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#NL 🇳🇱 | @Raydikalx | AAC040
-hysteria2://cd74c0a406664a5bc0bac098220a2468@de2.sferavpn.pro:443?sni=de2.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#DE 🇩🇪 | @Raydikalx | B50AE2
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de2.sferavpn.pro:443?insecure=0&sni=de2.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#DE 🇩🇪 | @Raydikalx | B50AE2
 hysteria2://cd74c0a406664a5bc0bac098220a2468@nl2.sferavpn.pro:443?insecure=1&sni=nl2.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#NL 🇳🇱 | @Raydikalx | 8F81F2
 hysteria2://Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=IL+pm5"K?4gef:Jvn8^G+:N,Neyy8#TR 🇹🇷 | @Raydikalx | 39D2C1
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?insecure=1&sni=host-vds2-fr.kvncococ.org#FR 🇫🇷 | @Raydikalx | 3E6A32
 hysteria2://df489ab2-2242-4952-a774-1074a3a31f41@eh-spl1.craft-supply.org:8443?sni=eh-spl1.craft-supply.org#PL 🇵🇱 | @Raydikalx | 1E4243
-hysteria2://df8d55f9-fb51-442d-902a-bf8160dc051b@brb.nnpy.org:11100?insecure=1&sni=www.bing.com#BR 🇧🇷 | @Raydikalx | 52DC41
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | B50285
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#FR 🇫🇷 | @Raydikalx | A8689B
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | 82CA57
@@ -229,10 +217,8 @@ hysteria2://gf1@185.156.44.99:443?insecure=1&sni=185.156.44.99#RO 🇷🇴 | @Ra
 hysteria2://gf1@185.156.44.99:443?insecure=1&sni=www.amazon.com#RO 🇷🇴 | @Raydikalx | CA47D0
 hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#NL 🇳🇱 | @Raydikalx | 3CE7CE
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#TW 🇹🇼 | @Raydikalx | 48D649
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1#HK 🇭🇰 | @Raydikalx | 1C20D6
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.222.29#HK 🇭🇰 | @Raydikalx | 081D7E
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443?insecure=1&sni=vpn-kr-003.fastervpn.world#KR 🇰🇷 | @Raydikalx | 4B22EE
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?insecure=1&sni=whatsapp.com#KR 🇰🇷 | @Raydikalx | FC22DC
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443?insecure=1&sni=vpn-ca-002.fastervpn.world#CA 🇨🇦 | @Raydikalx | C8B245
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?insecure=1&sni=vpn-ca-002.fastervpn.world#CA 🇨🇦 | @Raydikalx | A12C49
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#CA 🇨🇦 | @Raydikalx | 5B593A
@@ -277,7 +263,6 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grap
 hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&obfs=none#JP 🇯🇵 | @Raydikalx | DF9D4D
 hysteria2://sharecentrepro@twgcp.sharecentre.online:4433?peer=twgcp.sharecentre.online&obfs=none#US 🇺🇸 | @Raydikalx | AB5E3C
 hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#Global 🌐 | @Raydikalx | 24BDB9
-hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#RO 🇷🇴 | @Raydikalx | 0BFEA8
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#US 🇺🇸 | @Raydikalx | 6BCE08
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=159.223.157.129#US 🇺🇸 | @Raydikalx | 045CA2
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#US 🇺🇸 | @Raydikalx | EDC48F
@@ -287,13 +272,12 @@ hysteria2://TelegramVPNJey@179.61.251.253:37003?insecure=0&sni=de.jey.cc.cd&obfs
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#RO 🇷🇴 | @Raydikalx | F4700E
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org#RO 🇷🇴 | @Raydikalx | 4D1885
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?insecure=1#RO 🇷🇴 | @Raydikalx | 8DF735
-hysteria2://XhVX5cnBmJ@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn#BH 🇧🇭 | @Raydikalx | 979D51
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#NL 🇳🇱 | @Raydikalx | 8A6A97
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1#DE 🇩🇪 | @Raydikalx | A3ECD1
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=130.61.50.75#DE 🇩🇪 | @Raydikalx | 429F7D
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | C4F82A
 # --- below: schemes sing-box cannot parse (skipped by Hiddify) ---
-socks5://test123:test123@104.168.249.36:1080#US 🇺🇸 | @Raydikalx | 566A69
+socks5://:@103.6.235.13:5555#VN 🇻🇳 | @Raydikalx | 60C892
 socks://YWRtaW46YWRtaW4%3D@143.198.85.89:1080#SG 🇸🇬 | @Raydikalx | A9C17E
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#NL 🇳🇱 | @Raydikalx | BA4344
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#US 🇺🇸 | @Raydikalx | 4851B4
@@ -485,7 +469,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#US �
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB 🇬🇧 | @Raydikalx | 0D11C1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@v1.arvancode.eu.org:443#Global 🌐 | @Raydikalx | A8F10F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#AT 🇦🇹 | @Raydikalx | 763DFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.233:2377#TW 🇹🇼 | @Raydikalx | 2B6046
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@wxwctxxx.arvancode.eu.org:443#Global 🌐 | @Raydikalx | 64D358
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTWN0WGpGaFhMRm41S3lKMjc2MU9V@51.143.184.72:35449#GB 🇬🇧 | @Raydikalx | 4076F2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#AT 🇦🇹 | @Raydikalx | B2C238
@@ -523,13 +506,13 @@ trojan://581e14a5fcc14107b9326cc54f047891@31.76.11.46:443?sni=31.76.11.46.cdn-on
 trojan://581e14a5fcc14107b9326cc54f047891@31.76.251.127:443?sni=31.76.251.127.cdn-one.org&type=grpc&serviceName=/28786/4U7gXXHftA&mode=gun&fp=chrome#PL 🇵🇱 | @Raydikalx | D9B4C4
 trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443?type=tcp&allowInsecure=1#DE 🇩🇪 | @Raydikalx | 025BE6
 trojan://6685b4eb-aa84-454a-8049-5f5d39f0d9a0@dx.xxmd.online:7004?type=tcp&allowInsecure=1#Global 🌐 | @Raydikalx | 564B13
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:10418?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 8C553A
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:11231?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 45CB1D
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:32434?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 8FA907
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:18286?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | C1A95B
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:44229?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | DC5EB1
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:45744?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | A202F3
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.234:28051?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | CBE18D
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:54876?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | FA91D9
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:3415?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | BBCDD5
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:45744?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 69C01C
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:50887?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 4FF5F3
+trojan://6ec301428255a78a1d826988d86cc87e@18.163.126.92:10418?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | E104D2
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.234:39024?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 852D15
 trojan://7b0ed263-ed4d-375f-9002-a932b1da098a@19249tj.matrixxx888.com:19249?security=tls&sni=eplcgame.com#Global 🌐 | @Raydikalx | 1B763D
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 0DEFE8
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | BDE369
@@ -545,12 +528,12 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?sni=hk.catxstar.com&path=/#US 🇺🇸 | @Raydikalx | 01E5F4
 trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#HK 🇭🇰 | @Raydikalx | 1A14FE
 trojan://BxceQaOe@119.246.1.143:443?sni=119.246.1.143&allowInsecure=1&type=tcp#HK 🇭🇰 | @Raydikalx | AF8891
-trojan://BxceQaOe@16.162.100.124:28051?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | 2055D8
-trojan://BxceQaOe@16.162.100.124:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#HK 🇭🇰 | @Raydikalx | 3FDB1E
 trojan://BxceQaOe@16.162.3.11:27161?allowInsecure=1&sni=t.me/ripaojiedian#HK 🇭🇰 | @Raydikalx | B4D255
+trojan://BxceQaOe@16.162.33.15:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#HK 🇭🇰 | @Raydikalx | B1F104
 trojan://BxceQaOe@18.162.120.218:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | C6827D
-trojan://BxceQaOe@18.162.244.203:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | 29AD10
-trojan://BxceQaOe@18.163.126.92:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#HK 🇭🇰 | @Raydikalx | 2F3F9D
+trojan://BxceQaOe@18.162.156.145:29444?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | 3E5AB2
+trojan://BxceQaOe@18.166.211.66:10418?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | 6563A4
+trojan://BxceQaOe@18.167.42.162:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#HK 🇭🇰 | @Raydikalx | 12FD37
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?type=tcp&allowInsecure=1#GB 🇬🇧 | @Raydikalx | BA6EA0
 trojan://dT6h9HBwQO@139.59.108.29:31313?security=tls&sni=m.linkedin.us&type=tcp#SG 🇸🇬 | @Raydikalx | DD17F3
 trojan://e2486b91-71a6-421b-9d53-3c080fb0edb8@es-full.privateip.net:443?type=tcp&allowInsecure=1#DE 🇩🇪 | @Raydikalx | F62BCD
@@ -564,6 +547,7 @@ trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=/assignment&sni
 trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 020CAB
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | 0E6145
 trojan://humanity@104.16.73.213:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | E22E77
+trojan://humanity@104.17.111.1:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | 4E0BE3
 trojan://humanity@104.17.111.4:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 8128F2
 trojan://humanity@104.17.111.8:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&echfq=none#CA 🇨🇦 | @Raydikalx | 891C30
 trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#CA 🇨🇦 | @Raydikalx | 868668
@@ -572,23 +556,23 @@ trojan://humanity@104.17.121.9:443?path=/assignment&security=tls&alpn=http/1.1&i
 trojan://humanity@104.18.152.133:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#CA 🇨🇦 | @Raydikalx | 9B2AEA
 trojan://humanity@104.18.152.159:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#CA 🇨🇦 | @Raydikalx | C2D3AD
 trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | DB5DB4
+trojan://humanity@104.18.152.210:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | C93094
 trojan://humanity@104.18.152.219:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 43DE3C
 trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | CFFAC3
-trojan://humanity@104.18.152.233:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | 332BB7
 trojan://humanity@104.18.152.77:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 5EF2A6
 trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 67BAA8
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | 9E7EBE
 trojan://humanity@104.18.8.83:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | F1CD8B
-trojan://humanity@130.250.137.171:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#US 🇺🇸 | @Raydikalx | 205771
+trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.ignitelimit.com&type=ws&path=/assignment#US 🇺🇸 | @Raydikalx | 56C655
+trojan://humanity@172.67.221.242:443?allowInsecure=0&sni=www.ignitelimit.com&alpn=h3%2Ch2%2Chttp/1.1&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | AB96BB
 trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 4ED48E
 trojan://humanity@2.144.15.223:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 6ACF92
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 34EA79
 trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 25D077
 trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | E0ADFB
+trojan://humanity@www.ignitelimit.com:443?allowInsecure=0&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | 32E88A
 trojan://Masir_Sefid@masir_sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#Global 🌐 | @Raydikalx | 798413
 trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=/&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#CA 🇨🇦 | @Raydikalx | A5C310
-trojan://MiTiVPN@104.17.148.22:443?allowInsecure=1&sni=gb-ss-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&alpn=http/1.1&type=ws&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/gb---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#CA 🇨🇦 | @Raydikalx | 75E7D7
-trojan://MITIVPN@104.19.229.21:443?allowInsecure=1&sni=d--AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&alpn=http/1.1&type=ws&host=d--AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#CA 🇨🇦 | @Raydikalx | AC1C54
 trojan://MITIVPN@104.19.229.21:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=DeA-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=d--AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#CA 🇨🇦 | @Raydikalx | CF8C98
 trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/usAs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=US-A-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=usA-sa-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#CA 🇨🇦 | @Raydikalx | 4EF91C
 trojan://MiTiVPN@45.80.111.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=D-2A-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=d-2-AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#DE 🇩🇪 | @Raydikalx | 4A84D9
@@ -890,7 +874,7 @@ trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=defi
 trojan://wpLP2iWsEQWw@15.237.176.178:16975?sni=appsvs.shop#FR 🇫🇷 | @Raydikalx | AE85D3
 trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info#US 🇺🇸 | @Raydikalx | AB3888
 trojan://xxoo@us.blazeppn.info:443?security=tls#US 🇺🇸 | @Raydikalx | DB4DBD
-vless://000f16e8-cc68-4951-b336-acd81996efde@45.155.71.170:50443?sni=www.icloud.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#AT 🇦🇹 | @Raydikalx | CD33A7
+vless://000f16e8-cc68-4951-b336-acd81996efde@89.208.113.54:50443?sni=www.icloud.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#FR 🇫🇷 | @Raydikalx | 23B6D3
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@uk.awexaiooo.shop:2020?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.3mjd2WKbtUjfzkJO2SMVeOLyDFUE0bMH5T_R5H_YCV0&pbk=OyYgPJuSFg1qNrYLBRLZpiqxUVkiEP19FCZq6hJtBTs&fp=qq&type=xhttp&sni=play.googleapis.com&sid=6ca6fedb30b640a3#Global 🌐 | @Raydikalx | 8E89FD
 vless://0108346a-e5a8-485f-912c-e5b142cf0a80@62.60.188.240:443?security=reality&encryption=none&pbk=2HZyHolhLXqkOW3A6VGNJeDwC7lStJJmN1GhIVkpYWI&headerType=&fp=firefox&spx=%2FMbpn9IVT0dACRul&type=tcp&sni=it.nvidia.com&sid=571a5e8791b284e7#IR 🇮🇷 | @Raydikalx | C267F6
 vless://010d7dc9-776b-4495-a85c-44794f3da49c@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&type=tcp&headerType=none#RU 🇷🇺 | @Raydikalx | E75E36
@@ -928,7 +912,6 @@ vless://06e49ceb-3d54-44ee-a4b0-eecfac99dd87@1telegram.com.zapas.iran.janebicall
 vless://07730597-ba4f-4ca8-abe5-a53b28ad318c@vip.sinavm.ir:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=android.com&pbk=7JDEwF5DtVN9ym8x_tHcdA5-L5hH_JlYNf-ZXUYqu18&sid=3f958af268&spx=%2Fsinavm_sinavm_SiNAVM_SiNAVM#IR 🇮🇷 | @Raydikalx | 966800
 vless://07730597-ba4f-4ca8-abe5-a53b28ad318c@vip.sinavm.ir:443?encryption=none&type=ws&security=tls&path=%2F----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&host=vip.sinavm.ir&sni=vip.sinavm.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 46A5A7
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN 🇮🇳 | @Raydikalx | 0FFE7B
-vless://0a76a766-d141-44b8-944e-dff757d7116f@163.5.153.153:443?allowInsecure=1&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FI 🇫🇮 | @Raydikalx | 84662B
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b&type=tcp&headerType=none#FI 🇫🇮 | @Raydikalx | ABA688
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28&type=tcp&headerType=none#DE 🇩🇪 | @Raydikalx | D7649F
 vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?path=/#US 🇺🇸 | @Raydikalx | CB90C3
@@ -938,6 +921,7 @@ vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?path=%2Fwsv%2F0cc7
 vless://0e3ab810-9db0-4977-99e9-0a37620dfda2@9mhqjrbf.helpower.ir:443?encryption=none&type=tcp&security=reality&headerType=none&host=www.play.google&sni=www.play.google&fp=edge&insecure=1&allowInsecure=1&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&sid=667e7c5f623ab929#Global 🌐 | @Raydikalx | 660685
 vless://0ed342c3-eb45-4d63-83a1-697252636ca9@yellow-hall-d482.260-d22.workers.dev:8880?encryption=none&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | D2EA27
 vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 0446FE
+vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | 799B64
 vless://106b0505-da24-4ae4-b22c-302ab814f6f4@185.247.16.4:2200?encryption=none&path=/v1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 822553
 vless://108ac7b1-44e8-4725-b41c-3faae148a6ef@9mhqjrbf.helpower.ir:443?encryption=none&type=tcp&security=reality&headerType=none&host=www.play.google&sni=www.play.google&fp=edge&insecure=1&allowInsecure=1&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&sid=667e7c5f623ab929#Global 🌐 | @Raydikalx | E3FE1A
 vless://108ac7b1-44e8-4725-b41c-3faae148a6ef@bxqg5w6r.helpower.ir:443?encryption=none&type=tcp&security=reality&headerType=none&host=www.play.google&sni=www.play.google&fp=edge&insecure=1&allowInsecure=1&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&sid=667e7c5f623ab929#Global 🌐 | @Raydikalx | 23423A
@@ -960,9 +944,9 @@ vless://160201ba-df99-4a03-a0c2-9c4aa7a5fb57@1213tr12213safsadfsaf.clonecloudcen
 vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?path=%2Fapi%2Fv1%2Frooms%2F63368e3dbb%2Fsync%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=sync.watchwave.link&fp=chrome&type=ws&allowInsecure=0&sni=cdn.tracker.yandex.net#IL 🇮🇱 | @Raydikalx | 93238B
 vless://17d29827-7cf1-4115-b40d-548e10ec355d@186.246.21.156:40443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=deepl.com&fp=qq&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&sid=aa3c&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 549B5C
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&security=none&type=ws#EE 🇪🇪 | @Raydikalx | EF739E
-vless://1a030b37-e210-1c8b-aa0a-5b3113c9dff6@x4g-production-dcd94.up.railway.app:443?sni=x4g-production-dcd94.up.railway.app&alpn=http/1.1&type=ws&host=x4g-production-dcd94.up.railway.app&path=/ws/1a030b37-e210-1c8b-aa0a-5b3113c9dff6fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | 417B83
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#RU 🇷🇺 | @Raydikalx | 98EDF9
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#RU 🇷🇺 | @Raydikalx | DF90A1
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@usa.n.belka.network:443?allowInsecure=1&sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#US 🇺🇸 | @Raydikalx | 8E4F1F
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.69.106:443?security=tls&type=ws&path=/&host=zero.csmaster.ggff.net&sni=zero.csmaster.ggff.net&fp=chrome#CA 🇨🇦 | @Raydikalx | D0F27C
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@zero.csmaster.ggff.net:443?security=tls&type=ws&path=/&sni=zero.csmaster.ggff.net&fp=chrome&encryption=none#SG 🇸🇬 | @Raydikalx | 6689B8
 vless://1bdb202e-b99b-4ff8-b81c-c732645e0703@fardad-uk.football-player.ir:6800?security=reality&type=tcp&sni=play.google.com&fp=chrome&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none#GB 🇬🇧 | @Raydikalx | CA3FF6
@@ -983,7 +967,6 @@ vless://20700b40-8837-45d0-e449-e2095a9f5145@66.33.22.78:443?path=%2Fws%2F20700b
 vless://20700b40-8837-45d0-e449-e2095a9f5145@66.33.22.81:443?path=%2Fws%2F20700b40-8837-45d0-e449-e2095a9f5145&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=daring-tenderness-production-4fba.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=daring-tenderness-production-4fba.up.railway.app#US 🇺🇸 | @Raydikalx | 3CA8F4
 vless://20700b40-8837-45d0-e449-e2095a9f5145@66.33.22.93:443?path=%2Fws%2F20700b40-8837-45d0-e449-e2095a9f5145&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=daring-tenderness-production-4fba.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=daring-tenderness-production-4fba.up.railway.app#US 🇺🇸 | @Raydikalx | 704FA6
 vless://20f21d96-3700-46d9-9f63-5933403c0c18@104.16.101.215:8880?encryption=none&security=none&type=ws&host=restless-math-7bde.299-75c.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#CA 🇨🇦 | @Raydikalx | 394EEC
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@31.76.64.77:7443?sni=media10.tcpdoor.net&type=grpc&serviceName=grpc&fp=firefox&security=tls#US 🇺🇸 | @Raydikalx | 9CB4D5
 vless://2216b0ee-b94a-4ea9-8780-ccc21c4b5f31@80.93.52.44:4100?encryption=none&path=/v1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 6425E0
 vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.160.158:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#FI 🇫🇮 | @Raydikalx | 1DC5B5
 vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.45:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#FI 🇫🇮 | @Raydikalx | 2CB36B
@@ -1118,13 +1101,13 @@ vless://308c2007-61ef-420c-aa6e-1f0d3dbf633a@62.152.56.73:443?encryption=none&fl
 vless://30a88c40-581e-4952-aa4c-8af95686ede0@104.21.23.72:8880?encryption=none&security=none&type=ws&host=rapid-lab-95ef.173-74c.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#CA 🇨🇦 | @Raydikalx | 3F7824
 vless://30e88ba4-ce81-442f-80c5-0c1b43cad132@Grok.com:443?path=%2Fvl%2FyEmJzvJGqeIRHRp3QLxDdt4kFS8CW&security=tls&alpn=http%2F1.1&encryption=none&host=leviko.godsaman.workers.dev&fp=chrome&type=ws&sni=lEviko.GOdsaMAn.wOrKeRs.DEv#CA 🇨🇦 | @Raydikalx | 6582BE
 vless://311cadaf-79ed-4f84-be27-bcf46f920b41@185.229.190.148:443?security=tls&type=xhttp&path=/api&host=moein-bf821.b-cdn.net&alpn=h2,http/1.1&sni=moein-bf821.b-cdn.net&fp=chrome&mode=auto&encryption=none#NL 🇳🇱 | @Raydikalx | 5504CD
+vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#BG 🇧🇬 | @Raydikalx | B1A167
 vless://317bc783-340f-453c-afb5-b6bf637c0b23@107.181.151.241:443?flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=fc994ae7eb10&type=tcp&path=/#FI 🇫🇮 | @Raydikalx | 344B2B
 vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@72.56.7.195:2200?encryption=none&path=/v1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 5CBDC8
 vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.67.190.141:8880?path=/pyip&encryption=none&type=ws&host=tiny-feather-4c41.227.workers.dev&security=none#CA 🇨🇦 | @Raydikalx | 6A7FA5
 vless://3217c0c1-240b-4c98-8e06-4c364298fc64@104.16.6.70:8443?mode=packet-up&path=%2Fhome%2Fnovinser%2Fpublic_html%2Fmy%2Fmodules%2Fservers%2Fcdnserver%2Fcdnserver.php&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cd.solidesign.uk#CA 🇨🇦 | @Raydikalx | 814587
 vless://321ade82-9074-4fd3-851c-9e864714a404@78.159.245.250:443?alpn=h2&authority=rog-exit-se-1.rog-self.co.uk&encryption=none&fp=qq&mode=gun&security=tls&serviceName=grpc&sni=rog-exit-se-1.rog-self.co.uk&type=grpc#NL 🇳🇱 | @Raydikalx | A68606
 vless://33918b20-9e02-4dc6-8b30-79b2d4b2e0e6@104.21.22.180:443?encryption=none&security=tls&sni=aUTo-sCALe-238B2B.infRa-CorE-1630dd.wORKerS.DEv&alpn=http/1.1&type=ws&host=aUto-scaLe-238B2B.inFra-coRE-1630dD.WorKerS.DeV&path=/eyJqdW5rIjoiUjJBU3JkVlRwSWtnciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0#CA 🇨🇦 | @Raydikalx | 3D3DC4
-vless://339db138-41ff-44e9-a323-46da89fbf1a7@66.70.179.198:2053?sni=www.apple.com&fp=firefox&security=tls#CA 🇨🇦 | @Raydikalx | 844D6A
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&path=/#EE 🇪🇪 | @Raydikalx | 205896
 vless://34c84d9d-2bad-4272-a45b-ad911c841537@104.21.5.155:443?path=/?ed&security=tls&encryption=none&insecure=0&host=WeB-FLoW-8220Ec-eDg.CI-runNeR-12c1CA.WoRkeRs.DEv&type=ws&allowInsecure=0&sni=weB-floW-8220eC-EDG.cI-runNEr-12c1CA.wOrKeRS.DeV#CA 🇨🇦 | @Raydikalx | C96F8A
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#NL 🇳🇱 | @Raydikalx | 0B3710
@@ -1170,6 +1153,7 @@ vless://4593aa27-a2a1-412f-935f-3829495c0970@91.235.234.186:443?encryption=none&
 vless://463a26c2-eba8-0065-89c4-ee5c1373ccbe@dnlch.mostserv.xyz:443?security=reality&type=tcp&sni=dnlch.mostserv.xyz&fp=firefox&flow=xtls-rprx-vision&sid=0f3adaccbda5e56b&pbk=Q6sZPc96fGUJvHsOjwpAc57V16CajEfhkHHhuv-_Bg4&encryption=none#NL 🇳🇱 | @Raydikalx | AAEA6E
 vless://4700cf0a-3704-4730-897a-8dca469edd8f@de.ramcalshoping.ir:18020?security=reality&type=tcp&allowInsecure=1&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&sid=e31e363bd206f49d&pbk=0xLgsE7IR5ewIl8gbBvO4199a9Av1_asmucL6V9u6nw#DE 🇩🇪 | @Raydikalx | 889114
 vless://47975fcf-1f4c-4808-9012-114569b081e4@2.56.178.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nTyGEX99oLzIlXTD12u9fvk2rsByCP2XAjoskFV2Qx8&security=reality&sid=7b2e9f4a1c830d5e&sni=userapi.com&type=raw#RU 🇷🇺 | @Raydikalx | C856D2
+vless://47975fcf-1f4c-4808-9012-114569b081e4@2.56.178.136:443?sni=userapi.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU 🇷🇺 | @Raydikalx | BE4DD1
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.128.253:443?encryption=none&type=ws&path=%2F&host=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&security=tls&sni=0h3qt.oqwt.pl0.hh.vavava.kdns.fr&fp=chrome#CA 🇨🇦 | @Raydikalx | 5EF9EA
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#KZ 🇰🇿 | @Raydikalx | BF617C
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#KZ 🇰🇿 | @Raydikalx | B146F0
@@ -1200,6 +1184,8 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#NL 🇳🇱 | @Raydikalx | 48A680
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#FR 🇫🇷 | @Raydikalx | 475D58
 vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#NL 🇳🇱 | @Raydikalx | 24804A
+vless://499735db-03b7-47a7-8569-c8662a34ad56@193.233.91.177:17443?sni=5post-gate.x5.ru&type=grpc&serviceName=grpc&fp=firefox&security=tls#RU 🇷🇺 | @Raydikalx | 4C8096
+vless://499735db-03b7-47a7-8569-c8662a34ad56@193.233.91.177:18443?sni=5post-gate.x5.ru&type=grpc&serviceName=grpc&fp=firefox&security=tls#RU 🇷🇺 | @Raydikalx | B35596
 vless://49c0ae46-767c-47d1-9703-8740e0c4b15a@flat-night-edd0.hosein9saleazhuongooyeh87.workers.dev:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=flat-night-edd0.hosein9saleazhuongooyeh87.workers.dev&path=/eyJqdW5rIjoiZU1pQlVqNTBYVmpTeDlCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19&security=tls&sni=FLAT-night-EDD0.hOsEin9saLEAZhuongOoYeH87.wOrkerS.DeV&type=ws#CA 🇨🇦 | @Raydikalx | C0F104
 vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@172.67.137.154:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=ws&security=tls&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&type=ws#CA 🇨🇦 | @Raydikalx | 7005FD
 vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.134.117:443?security=tls&type=ws&path=/ram&host=jgsal.blueriverway-nexoim.sbs&sni=jgsal.blueriverway-nexoim.sbs&fp=firefox#CA 🇨🇦 | @Raydikalx | 9B4E2E
@@ -1240,16 +1226,17 @@ vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@titandarkness.mooo.com:443?encrypti
 vless://5046e28c-5d06-4d5b-927f-269a83371f2c@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#DE 🇩🇪 | @Raydikalx | B44E20
 vless://50e636af-b554-4526-94ad-d0f4b34adecc@193.233.255.23:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org#RU 🇷🇺 | @Raydikalx | BC96D4
 vless://50e636af-b554-4526-94ad-d0f4b34adecc@193.233.255.24:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org#RU 🇷🇺 | @Raydikalx | 41B478
+vless://5329ce60-8b95-4439-95fb-62cca20bd109@95.163.232.183:443?sni=5post-gate.x5.ru&type=grpc&serviceName=5post.gate.v1&fp=qq&security=tls#RU 🇷🇺 | @Raydikalx | 087C04
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:29709?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | 41158F
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:31877?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | 75C89B
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:39395?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | 145A28
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:9713?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | 349160
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@212.233.97.156:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=raw#RU 🇷🇺 | @Raydikalx | 697377
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@212.233.97.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ru156.mechvpn.online&type=raw#RU 🇷🇺 | @Raydikalx | BDDAFE
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@91.239.208.15:443?sni=fr15.mechvpn.online&flow=xtls-rprx-vision-udp443-udp443&fp=chrome&security=tls#FR 🇫🇷 | @Raydikalx | 9DCB0D
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de151.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#DE 🇩🇪 | @Raydikalx | 7E9B4E
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr213.mechvpn.online:443?flow=xtls-rprx-vision&security=tls&encryption=none&fp=firefox&type=tcp&headerType=none&path=/&allow_insecure=0#FR 🇫🇷 | @Raydikalx | BA9FE5
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr213.mechvpn.online:443?flow=xtls-rprx-vision&security=tls&sni=fr213.mechvpn.online&fp=chrome&type=tcp&path=/&allow_insecure=0#FR 🇫🇷 | @Raydikalx | CDB994
+vless://53db95fa-4ebe-4450-8013-a2b0a5827f3f@87.58.205.109:443?sni=www.googletagmanager.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#FR 🇫🇷 | @Raydikalx | 010162
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#IR 🇮🇷 | @Raydikalx | F2CAD8
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#DE 🇩🇪 | @Raydikalx | 780011
 vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@147.45.235.14:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=/v1#RU 🇷🇺 | @Raydikalx | 8B0857
@@ -1298,6 +1285,7 @@ vless://60ba3369-9a78-40fe-98c3-233a6f107043@178.72.162.73:443?encryption=none&e
 vless://615d1ff5-4a23-4bd0-9d2f-c4132bd142fd@grtt.plasdomain.ir:31993?security=reality&encryption=none&pbk=JJi5mLuFJwe8_EFfNIND5HBNqPDhWweYwGUdegdTwWI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=988285e0242cefd6#Global 🌐 | @Raydikalx | 801AA8
 vless://616f958f-7921-457a-8019-f37a394cdb9f@78.159.245.250:8445?alpn=h2&authority=luxe-exit-se-1.rog-self.co.uk&encryption=none&fp=qq&mode=gun&security=tls&serviceName=grpc&sni=luxe-exit-se-1.rog-self.co.uk&type=grpc#NL 🇳🇱 | @Raydikalx | 9A4634
 vless://61dee2e5-c284-41b7-b043-b4582fcf6c2a@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v2/vms/stream/genka&security=tls&sni=benz.ink&type=ws#RU 🇷🇺 | @Raydikalx | EF0288
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&host=vms.lifetime50.workers.dev&path=#US 🇺🇸 | @Raydikalx | CCE383
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880?security=none&type=ws&path=/&host=vms.lifetime17.workers.dev&packetEncoding=xudp#US 🇺🇸 | @Raydikalx | 38F7F5
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.109.30:8880?encryption=none&host=vms.lifetime18.workers.dev&path=/&security=none&type=ws#US 🇺🇸 | @Raydikalx | 7445AC
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?encryption=none&host=vms.lifetime51.workers.dev&path=/&security=none&type=ws#RU 🇷🇺 | @Raydikalx | DBF1FD
@@ -1343,6 +1331,7 @@ vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.15:2096?security=tls&type
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.218:2096?security=tls&type=ws&path=/free-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=chrome&encryption=none#GB 🇬🇧 | @Raydikalx | EECDFA
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.61:2096?security=tls&type=ws&path=/free-server.techsonic.dev&host=free-server.techsonic.dev&sni=free-server.techsonic.dev&fp=firefox&encryption=none#GB 🇬🇧 | @Raydikalx | D85171
 vless://6ead9dd6-4f66-4e9f-b3d1-09e676b9df76@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#DE 🇩🇪 | @Raydikalx | 68E514
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@161.104.16.112:8880?type=ws&host=cnd.finland2.2.myfilecdn.com&path=/cdn/assets/stream#RU 🇷🇺 | @Raydikalx | 9E7156
 vless://6ede8d99-be53-4b7f-9183-255325c71bf2@198.41.209.56:8443?encryption=none&type=httpupgrade&security=tls&path=%2F&sni=fdsa.cjdpars-m.ir&insecure=0&allowInsecure=0#CA 🇨🇦 | @Raydikalx | 12DB1B
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#NL 🇳🇱 | @Raydikalx | E431A9
 vless://6fde6138-addb-4a90-801f-f1a1af01337e@media.arshia-nova.ir:443?security=reality&encryption=none&pbk=2tvZWqBqORlWWsIY4sb1wti3vgyCWVi9EFjqlXiIOwY&headerType=none&fp=chrome&spx=%2F2a0652ffb21db05&type=tcp&sni=api.semiconductor.samsung.cn&sid=695ac4c4ba6a8c#DE 🇩🇪 | @Raydikalx | 0E0F2E
@@ -1379,6 +1368,7 @@ vless://7967bf59-57e3-4cde-9898-527b0fe60022@160.153.0.7:8443?security=tls&type=
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@167.68.4.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#US 🇺🇸 | @Raydikalx | 474B18
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@185.135.9.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#GB 🇬🇧 | @Raydikalx | 77CA59
 vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.111.27:8443?encryption=none&fp=chrome&host=round-art-52ee.eadfgv.workers.dev&path=/&security=tls&sni=round-art-52ee.eadfgv.workers.dev&type=ws#CA 🇨🇦 | @Raydikalx | 043600
+vless://7bd8e88e-56d3-4396-87b3-854315db88f5@2.27.18.136:443?sni=www.icloud.com&fp=chrome&security=tls#DE 🇩🇪 | @Raydikalx | BA6D19
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?encryption=none&flow=xtls-rprx-vision&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&security=reality&sni=swdist.apple.com&type=tcp#DE 🇩🇪 | @Raydikalx | 8DAADC
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=/fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | D78469
 vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@chatgpt.com:8080?encryption=none&security=none&type=ws&host=spring-flower-3254.magicnight101.workers.dev&path=/9pnugtdlg8br#CA 🇨🇦 | @Raydikalx | D9E3F9
@@ -1445,6 +1435,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?path=/&secu
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@fuckfangbinxing.pusytroller.gq:2095?encryption=none&security=none&type=ws#CA 🇨🇦 | @Raydikalx | D774A2
 vless://875d3876-ab9a-4dd6-8a8d-bf57f03403aa@104.26.13.40:8880?encryption=none&host=square-sea-01d1.339-be3.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | 7150F8
 vless://876e81f0-6961-43b4-bd64-7dc602e823ca@95.181.160.240:8433?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#DE 🇩🇪 | @Raydikalx | 3BD735
+vless://885bb65f-65a8-473b-a074-f6ccde529211@199.232.78.159:443?sni=ssl.fastly.com&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=/fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | 46F46F
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#IR 🇮🇷 | @Raydikalx | 9D6D50
 vless://893096ae-ed76-4440-bc34-f77c4872540f@188.114.96.3:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV&path=/eyJqdW5rIjoieE1zSFhYR2hkcHZGUHI3cSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&sni=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV&type=ws#CA 🇨🇦 | @Raydikalx | 7E4894
 vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#IN 🇮🇳 | @Raydikalx | ABA085
@@ -1518,6 +1509,8 @@ vless://999c9769-28db-425a-84d8-ccd7a3321406@jolly-glitter-123c.196-2b3.workers.
 vless://9a3de3e0-2a6e-4bb2-81bd-1a4e51dfa110@vpn.renshengxuanze.ccwu.cc:443?encryption=none&fp=chrome&host=vpn.renshengxuanze.ccwu.cc&path=/&security=tls&sni=vpn.renshengxuanze.ccwu.cc&type=ws#CA 🇨🇦 | @Raydikalx | C822E1
 vless://9ab4c043-dc1a-403b-b8a4-b9ddb1616e8d@191.40.4.7:40359?encryption=none&security=none&type=tcp#DE 🇩🇪 | @Raydikalx | 42D256
 vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@icook.tw:8880?encryption=none&host=spring-sunset-81e8.322.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | 6659CC
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@87.199.205.120.sslip.io:443?sni=87.199.205.120.sslip.io&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#NL 🇳🇱 | @Raydikalx | 1846DC
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@nl2.panel11.ru:443?sni=nl2.panel11.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#NL 🇳🇱 | @Raydikalx | DFF0EA
 vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | F0D33F
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#RU 🇷🇺 | @Raydikalx | 1CE5D8
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=none&path=/v1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | DCA7E9
@@ -1552,6 +1545,7 @@ vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&en
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#DE 🇩🇪 | @Raydikalx | A35F86
 vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#FI 🇫🇮 | @Raydikalx | 671F87
 vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@as.tunnelx.space:443?flow=xtls-rprx-vision&security=reality&sni=as.tunnelx.space&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&type=tcp&path=/#DE 🇩🇪 | @Raydikalx | C38BE4
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@198.105.112.56:443?sni=www.ya.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#NL 🇳🇱 | @Raydikalx | 7CEC01
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@nld.north-1winter.cv:8443?allowInsecure=1&sni=nld.north-1winter.cv&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#Global 🌐 | @Raydikalx | 52E364
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | B5C7FA
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp&headerType=none#GB 🇬🇧 | @Raydikalx | F95F2C
@@ -1586,6 +1580,7 @@ vless://bd8c736e-cae1-43d7-b573-9672e6ca4989@fornewiran.axiomed.ir:443?encryptio
 vless://be243a36-6eb7-4466-8f0a-280e1b819511@46.149.67.39:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=JZ6o_q7-OSJ87w9kTrcn9I4UiMVZdPUnjXoRs4TbLzE&security=reality&sid=61811b12a62fb2a4&sni=slashdot.org&type=raw#RU 🇷🇺 | @Raydikalx | 85061F
 vless://be2c7a38-e560-4a22-9c9e-572a4bb81abc@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#DE 🇩🇪 | @Raydikalx | B09DA7
 vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?allowInsecure=1&ed=2053&eh=Sec-WebSocket-Protocol&encryption=none&host=pane2.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER&security=tls&sni=ssl.fastly.com&type=ws#US 🇺🇸 | @Raydikalx | 722B86
+vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?sni=ssl.fastly.com&type=ws&host=pane2.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTERfp=chrome&security=tls#US 🇺🇸 | @Raydikalx | 360E38
 vless://beaa03e1-b66f-4a38-88a7-705afff3f8aa@a1.arshia-nova.ir:443?security=tls&type=ws&path=/&host=c12.com&alpn=h2&sni=ssl.fastly.com&fp=chrome&encryption=none#US 🇺🇸 | @Raydikalx | 83F275
 vless://beaa03e1-b66f-4a38-88a7-705afff3f8aa@s3.cloud--vpn.site:443?security=tls&type=ws&path=/&host=c12.com&alpn=h2&sni=ssl.fastly.com&fp=firefox&encryption=none#US 🇺🇸 | @Raydikalx | 2128BD
 vless://bee21918-0933-430c-904b-c941b92256ba@104.171.136.112:2200?encryption=none&path=/v1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 6014AE
@@ -1632,6 +1627,7 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@149.88.72.47:8443?security=tls&type
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#CA 🇨🇦 | @Raydikalx | C44888
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.157:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#CA 🇨🇦 | @Raydikalx | A9ED0E
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.18:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#CA 🇨🇦 | @Raydikalx | 0E0D05
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#CA 🇨🇦 | @Raydikalx | C16C3A
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#CA 🇨🇦 | @Raydikalx | 107CBB
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#US 🇺🇸 | @Raydikalx | FE1FA1
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@85.155.176.105:8443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome#KR 🇰🇷 | @Raydikalx | AC94AB
@@ -1663,6 +1659,7 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 0BEF81
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#US 🇺🇸 | @Raydikalx | 4C03F4
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&path=/#US 🇺🇸 | @Raydikalx | C447C2
+vless://d6d7619a-6b7b-4a80-bd8c-5ddb645eba4a@151.245.106.49:2053?sni=www.cloudflare.com&fp=firefox&security=tls#KR 🇰🇷 | @Raydikalx | 5592A8
 vless://d7886d8a-fda5-4512-90a9-c8757ac82c51@95.163.232.183:443?encryption=none&fp=qq&mode=gun&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&serviceName=5post.gate.v1&sid=abcd&sni=5post-gate.x5.ru&type=grpc#RU 🇷🇺 | @Raydikalx | 9C70EA
 vless://d7d8af23-36cd-4c66-a42a-4469c177210f@104.21.234.13:2053?path=/eyJqdW5rIjoiMXZFdnZOdVFvSkNWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fancy-rain-136e.thisisalee.workers.dev&fp=random&type=ws&allowInsecure=0&sni=faNCy-raIn-136E.tHiSiSAleE.worKeRS.Dev#CA 🇨🇦 | @Raydikalx | CC3CBE
 vless://d7d8af23-36cd-4c66-a42a-4469c177210f@104.21.234.13:443?path=/eyJqdW5rIjoidDJpVVJEQndqZyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjE4Ni4yMTkuODIiXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fancy-rain-136e.thisisalee.workers.dev&fp=random&type=ws&allowInsecure=0&sni=FAncY-RAIn-136e.THisISaLee.WoRkeRS.DeV#CA 🇨🇦 | @Raydikalx | 22BFC9
@@ -1740,7 +1737,7 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=/&security=t
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&host=po.fastbrokencompony.com&path=/&security=tls&sni=po.fastbrokencompony.com&type=ws#SC 🇸🇨 | @Raydikalx | BAC482
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#CA 🇨🇦 | @Raydikalx | 08C360
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&path=/&security=tls&type=ws#CA 🇨🇦 | @Raydikalx | 8FCD73
-vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?sni=apkav-6.bosx.net&alpn=http/1.1&type=ws&host=&path=/api/connectfp=chrome&security=tls#NL 🇳🇱 | @Raydikalx | 10A68F
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?sni=apkav-6.bosx.net&alpn=http/1.1&type=ws&path=/api/connectfp=firefox&security=tls#NL 🇳🇱 | @Raydikalx | 8EC481
 vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/connect&security=tls&sni=gateway-v1.bosx.net&type=ws#RU 🇷🇺 | @Raydikalx | BF6CD0
 vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8443?encryption=none&fp=edge&path=/api/connect&security=tls&sni=gateway-v1.bosx.net&type=ws#RU 🇷🇺 | @Raydikalx | 210EBA
 vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8444?encryption=none&fp=android&path=/api/v1/connect&security=tls&sni=gateway-v1.bosx.net&type=ws#RU 🇷🇺 | @Raydikalx | 4161B8
@@ -1866,6 +1863,7 @@ vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@170.168.97.7:443?mode=auto&security
 vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.19.109:2083?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=%2F%3Fu%3D3e3fff3b5b&security=tls&fp=random&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#CA 🇨🇦 | @Raydikalx | A45CC0
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@158.160.249.252:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&security=reality&sid=27e53bbcab7593d7&sni=smartcaptcha.yandexcloud.net&type=raw#RU 🇷🇺 | @Raydikalx | 99D358
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@194.55.239.152:49003?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=jH_LLqDnSPNz8SU_PC30VKKVKxQGU3QkbAr33bb9RGo&security=reality&sid=27e53bbcab7593d7&sni=ads.x5.ru&type=raw#RU 🇷🇺 | @Raydikalx | B9E39A
+vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@194.55.239.152:49003?sni=ads.x5.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#RU 🇷🇺 | @Raydikalx | 2107EA
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@51.250.16.150:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&security=reality&sid=27e53bbcab7593d7&sni=smartcaptcha.yandexcloud.net&type=raw#RU 🇷🇺 | @Raydikalx | 6EC903
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@51.250.16.150:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&security=reality&sid=27e53bbcab7593d7&sni=api-maps.yandex.ru&type=raw#RU 🇷🇺 | @Raydikalx | C0E531
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@51.250.46.190:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&security=reality&sid=27e53bbcab7593d7&sni=max.ru&type=raw#RU 🇷🇺 | @Raydikalx | A25541
@@ -2329,6 +2327,7 @@ vmess://eyJhZGQiOiIxNzYuMTIyLjE3NC4xNzUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWE2
 vmess://eyJhZGQiOiIxNzYuNjUuMTUxLjIxMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxZTdjYWJjOS0wNmFiLTQ3M2UtYjljMC0yNmI5NzY3ZTgyMjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaXNldGVta2E2ZiIsInBjcyI6IiIsInBvcnQiOiIzMDU3NCIsInBzIjoiTkwg8J+Hs/Cfh7EgfCBAUmF5ZGlrYWx4IHwgMTVCMjkyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiIxNzYuNjUuMTUxLjg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImlkIjoiMGMzMWRlNTAtYWMxNC00M2JkLTg5MDctNTdkZmFkZjI0MjAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicG9ydCI6IjMwMDAwIiwicHMiOiJOTCDwn4ez8J+HsSB8IEBSYXlkaWthbHggfCAyN0Y0M0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgN0NDNEY1IiwiYWRkIjoiMTc4LjYzLjIzNy4xNTgiLCJwb3J0IjoiMjA1MyIsImlkIjoiMmQ0ZGQ2NzItMTgwZi00MTVjLTkwMzUtZTJmYzQ2MWRkOTVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvQWRhbUJhcmZpIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=
+vmess://eyJhZGQiOiIxNzguODMuNDUuMjkiLCJpZCI6IjQ4NDIyMzAwLTQ1OGYtNGRiYi1iMGY1LTk2ZjQ1NDUwYWI5ZiIsInBvcnQiOiIzODk5OCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgQTkzOTAwIn0=
 vmess://eyJhZGQiOiIxNzguODMuNDUuMjkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNDg0MjIzMDAtNDU4Zi00ZGJiLWIwZjUtOTZmNDU0NTBhYjlmIiwibmV0IjoidGNwIiwicGF0aCI6Ii9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4iLCJwb3J0IjoiMzg5OTgiLCJwcyI6IkRFIPCfh6nwn4eqIHwgQFJheWRpa2FseCB8IDRCQzY5NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgNkM3NjM1IiwiYWRkIjoiMTgyLjE2MC4xNC4xNDUiLCJwb3J0IjoiMTMwODAiLCJpZCI6IjM5NjBmMTI4LTExNjMtNDBhMy04ZGQ3LTdjOTExNzZlMTRhNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjAxLmFwcGxlaWQuYmYiLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIwMS5hcHBsZWlkLmJmIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgOURDMjYxIiwiYWRkIjoiMTgyLjE2MC4xNC4xNDUiLCJwb3J0IjoiMTMwODAiLCJpZCI6IjM5NjBmMTI4LTExNjMtNDBhMy04ZGQ3LTdjOTExNzZlMTRhNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InR3LmFwcGxlaWQuYmYiLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ0dy5hcHBsZWlkLmJmIn0=
