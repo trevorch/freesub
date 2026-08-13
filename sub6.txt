@@ -121,7 +121,7 @@ wireguard://yNyRSGV2yPsyUjLf8hP%2FatC7aWDb6GkPRlV9ShD9yX8%3D@8.6.112.111:864?add
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — LIGHT — 3112 unique configs
+# @Raydikalx — LIGHT — 3113 unique configs
 # --- below: schemes sing-box cannot parse (skipped by Hiddify) ---
 anytls://13f0acfa-38c1-4e82-a758-583aa31740df@sivp666.ipad1el.com:60572?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=yzhou015.jdvipkuai.cc&insecure=1&udp=1&username=13f0acfa-38c1-4e82-a758-583aa31740df#SG 🇸🇬 | @Raydikalx | 4EE5E2
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.207.60:443?insecure=1&sni=nl1.noesissite.ru#US 🇺🇸 | @Raydikalx | 65BCCB
@@ -1122,6 +1122,7 @@ vless://1c6824de-312c-4876-aa3f-5a30e3df2de7@111.88.121.211:443?encryption=none&
 vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#BR 🇧🇷 | @Raydikalx | BE17EC
 vless://1e3c6e25-0c65-4927-91cb-79982fd6dafc@35.181.171.182:40133?security=reality&type=tcp&allowInsecure=1&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=87806cfd2dcfcd&pbk=FDnQBm11AA6TUNmcyQAo0wJnl2mt1oozbOG-FSVi6DU#FR 🇫🇷 | @Raydikalx | AC8D21
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?encryption=none&security=none&type=ws&host=parsi.parsi.sbs&path=/#IR 🇮🇷 | @Raydikalx | A4E05C
+vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?encryption=none&security=tls&sni=rvg-production-cc31.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-cc31.up.railway.app&path=%2Fws%2F1f347596-193a-baf6-a33b-4eeb1bbb548b#US 🇺🇸 | @Raydikalx | CDBC2D
 vless://1fe3eba8-86ef-4bce-9fb4-c7517954b2e2@15.237.122.88:42287?security=reality&type=tcp&allowInsecure=1&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=946e4c05cc69e1&pbk=TeQRou69R4O0YCR0b28I3PF97W9zc3Qf-zUvlOZA43M#FR 🇫🇷 | @Raydikalx | 854918
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#Global 🌐 | @Raydikalx | BB933B
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#LI 🇱🇮 | @Raydikalx | 62FCBB
