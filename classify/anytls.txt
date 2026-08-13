@@ -1,1 +1,2 @@
-anytls://13f0acfa-38c1-4e82-a758-583aa31740df@sivp666.ipad1el.com:60572?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=yzhou015.jdvipkuai.cc&insecure=1&udp=1#SG 🇸🇬 | @Raydikalx | 4EE5E2
+anytls://13f0acfa-38c1-4e82-a758-583aa31740df@13.212.180.154:60572?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=yzhou015.jdvipkuai.cc&insecure=1&udp=1&username=13f0acfa-38c1-4e82-a758-583aa31740df#SG 🇸🇬 | @Raydikalx | 2DDF8C
+anytls://13f0acfa-38c1-4e82-a758-583aa31740df@sivp666.ipad1el.com:60572?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=yzhou015.jdvipkuai.cc&insecure=1&udp=1&username=13f0acfa-38c1-4e82-a758-583aa31740df#SG 🇸🇬 | @Raydikalx | 4EE5E2
