@@ -972,3 +972,6 @@ hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45607?sni=v
 hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45703?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=Jp47s2DVexsPg1Lt#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93007%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45802?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=T3n2MIpDvdZn16TQ#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93008%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45902?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=hvhFznkNqHceM7ct#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93009%20%7C%201%E5%80%8D%E7%8E%87
+hysteria2://91913c0ce8db490e9c6051d60dabce8d@35.194.178.243:50160?sni=35-194-178-243.liao.kdns.fr&insecure=0&allowInsecure=0#TW中国台湾(ProxyGo免费节点分享)
+hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?sni=129-150-54-169.liao.kdns.fr&insecure=0&allowInsecure=0#SG新加坡(ProxyGo免费节点分享)
+hysteria2://dbab9df7-5c0a-4726-8574-11e34972b67d@86.53.105.117:33015?sni=www.bing.com&insecure=1&allowInsecure=1&pinSHA256=BD:9C:95:A4:65:1F:9D:0F:F9:73:22:8A:DA:49:98:91:1E:14:FF:E9:2C:E0:A3:4A:6C:97:48:C6:BC:04:3F:9D#DE德国(ProxyGo免费节点分享)
