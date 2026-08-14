@@ -402,7 +402,6 @@ vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@31.76.76.26:443?encryption=none&pat
 vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@neth6.lckdwn.ru:443?encryption=none&security=none&type=ws#NL 🇳🇱 | @Raydikalx | C8AE62
 vless://2fb22d40-598f-4890-85a6-d69928b1fd55@104.16.107.139:8880?encryption=none&host=odd-cloud-f2a1.73-12e.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | F670A2
 vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&host=icy-rice-3c1c.340-680.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | F43CC8
-vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=firefox&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&sid=61&spx=%2Fb46a29a208a37d1&type=tcp&headerType=none#US 🇺🇸 | @Raydikalx | 2F0740
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?encryption=none&type=ws&security=tls&path=%2F&host=ad-013.orbitqgr7v.info&sni=ad-013.orbitqgr7v.info&fp=chrome&insecure=0&allowInsecure=0#CA 🇨🇦 | @Raydikalx | 28B385
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.223.15.23:27775?security=none&type=tcp#US 🇺🇸 | @Raydikalx | 8D040A
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.226.97.47:27775?security=none&type=tcp#US 🇺🇸 | @Raydikalx | 5C608E
@@ -976,7 +975,6 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&f
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@lt.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#CA 🇨🇦 | @Raydikalx | 787760
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@one-for-all.levikogjgfdd.ir:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#CA 🇨🇦 | @Raydikalx | 5E8E2C
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@yd.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#CA 🇨🇦 | @Raydikalx | 3FE771
-vless://e6148e57-3b7f-4043-80f2-b0075ad41c73@46.8.68.174:110?encryption=none&security=none&type=tcp&headerType=none#NL 🇳🇱 | @Raydikalx | 47B7A0
 vless://e7299042-7d8f-440f-8368-2516b0e69341@201.51.0.38:4100?encryption=none&path=/v1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 3DDEA8
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?security=none&type=ws&path=/vless/&host=SC-TheNetherlands2.09vpn.com&encryption=none#NL 🇳🇱 | @Raydikalx | 8218BF
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=/&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#CA 🇨🇦 | @Raydikalx | D06307
