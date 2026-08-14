@@ -822,8 +822,9 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@194.147.33.102:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%E6%9C%AA%E7%9F%A5%20TROJAN-316%20%7C%20free-nodes
 trojan://humanity@84.21.172.81:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%E6%9C%AA%E7%9F%A5%20TROJAN-317%20%7C%20free-nodes
 trojan://humanity@fr2.levikogjgfdd.ir:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#%E6%9C%AA%E7%9F%A5%20TROJAN-318%20%7C%20free-nodes
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C3.0MB/s
-trojan://6ec301428255a78a1d826988d86cc87e@18.162.133.100:50887?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C3.8MB/s
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.7MB/s
+trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C4.5MB/s
+trojan://FH72359861@apt-whippet.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C4.8MB/s
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
