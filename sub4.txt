@@ -1,7 +1,8 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7xUV18xfDEuM01CL3MiLCAiYWRkIjogIjExNy4yNy4yMjguMjkiLCAicG9ydCI6ICIxMDAwMCIsICJpZCI6ICIyYzkwYWYxNS1iYWM3LWY4NTAtNGM3Yy0xMjBjNWE0MjA2MzYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-https://55cce5a4-56b7-11ee-af82-f23c9164ca5d:55cce5a4-56b7-11ee-af82-f23c9164ca5d@e9b9c37c-t9zts0-tcw58g-1p0be.jp.oshuawei.com:443#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.2MB/s
-https://berniesbodybla.fun:443#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.4MB/s
-mierus://dongtaiwang.com:dongtaiwang.com@157.254.223.44?multiplexing=MULTIPLEXING_LOW&port=34567&profile=%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.0MB%2Fs&protocol=TCP
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C3.0MB/s
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.130209.xyz:8443?encryption=none&security=tls&sni=hongkong.11459178.xyz&fp=edge&type=ws&host=hongkong.11459178.xyz&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C4.6MB/s
-trojan://6ec301428255a78a1d826988d86cc87e@18.162.133.100:50887?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C3.8MB/s
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.224.224:62145?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B4CO_1%7C1.2MB/s
+hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-nl-hy2.gigatapbot.top:1443?sni=pg-nl-hy2.gigatapbot.top&insecure=1#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.9MB/s
+mierus://dongtaiwang.com:dongtaiwang.com@157.254.223.44?multiplexing=MULTIPLEXING_LOW&port=34567&profile=%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.0MB%2Fs&protocol=TCP
+https://berniesbodybla.fun:443#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.0MB/s
+https://crosscards.site:443#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1021KB/s
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?sni=www.nintendogames.net&allowInsecure=0&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.7MB/s
+trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C4.5MB/s
+trojan://FH72359861@apt-whippet.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_2%7C4.8MB/s
