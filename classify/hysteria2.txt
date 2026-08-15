@@ -78,9 +78,9 @@ hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443?sni
 hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443?insecure=1&sni=pg-usa2-hy2.gigatapbot.top#US 🇺🇸 | @Raydikalx | E78866
 hysteria2://Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=IL+pm5"K?4gef:Jvn8^G+:N,Neyy8#TR 🇹🇷 | @Raydikalx | 39D2C1
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@94.183.188.132:55443?insecure=1&sni=host-vds2-fr.kvncococ.org#FR 🇫🇷 | @Raydikalx | E0A69A
-hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org&path=%2f#FR 🇫🇷 | @Raydikalx | C14D84
-hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org#FR 🇫🇷 | @Raydikalx | 3E8069
-hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?insecure=1&sni=host-vds2-fr.kvncococ.org#FR 🇫🇷 | @Raydikalx | 3E6A32
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org&path=%2f#US 🇺🇸 | @Raydikalx | C14D84
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org#US 🇺🇸 | @Raydikalx | 3E8069
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?insecure=1&sni=host-vds2-fr.kvncococ.org#US 🇺🇸 | @Raydikalx | 3E6A32
 hysteria2://df489ab2-2242-4952-a774-1074a3a31f41@eh-spl1.craft-supply.org:8443?sni=eh-spl1.craft-supply.org#PL 🇵🇱 | @Raydikalx | 1E4243
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | B50285
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#FR 🇫🇷 | @Raydikalx | A8689B
