@@ -1231,9 +1231,11 @@ trojan://FH72359861@welcome-owl.rooster465.autos:443?sni=welcome-owl.rooster465.
 trojan://FH72359861@wise-gibbon.rooster465.autos:443?security=tls&path=/#JP 🇯🇵 | @Raydikalx | CCD865
 trojan://FH72359861@wise-gibbon.rooster465.autos:443?sni=wise-gibbon.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 6D9572
 trojan://HC04361579@balanced-stag.rooster465.autos:443?sni=balanced-stag.rooster465.autos&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | B01766
+trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#KR 🇰🇷 | @Raydikalx | 67EAB5
 trojan://HC04361579@key-barnacle.rooster465.autos:443?sni=key-barnacle.rooster465.autos&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | EE1B50
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 36557E
 trojan://HC04361579@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 1E9D0C
+trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#KR 🇰🇷 | @Raydikalx | F5447D
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 5DE7ED
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 37A12E
 trojan://humanity@104.16.174.36:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 736B50
