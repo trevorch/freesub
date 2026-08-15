@@ -387,5 +387,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cE96VTQyRkNDM0lrOVViSXltWEU0OUpoeWZiUnRaV0lqakFDWjd6OURFPQ==@e1.cover20.ir:51570#%F0%9F%87%A6%F0%9F%87%AAAE_28%7C291KB%2Fs%7CB007-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg=@104.249.22.75:43377#%F0%9F%87%AC%F0%9F%87%A7GB_127%7C162KB%2Fs%7CT001-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@R3MRCG001287H3P.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW_20%7C78KB%2Fs%7CT001-260618%2001
-ss://YWVzLTI1Ni1nY206ZjU1MmU4YmYtOWI0My0zNjU0LThlZmEtYjdjYjM2NjQzMWU4@l.d.w.a.5.4.z.9.6.ar01-ae5.entry.v51124-3a.qpon:20026#%F0%9F%87%A6%F0%9F%87%B7AR_1%7C1.6MB/s
-ss://YWVzLTI1Ni1nY206OTMwNmFlYmUtZGEwMS0zMzAxLThiZjAtOGQyNGE0NjE2NzRl@x.2.w.9.p.e.y.8.d.hk05-ae5.entry.v51124-4.qpon:1814#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C6.0MB/s
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn03.somethingstranges.com:8115?plugin=obfs%3Bhost%3D43309-nIao34iu.download.microsoft.com%3Bmode%3Dhttp#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1.7MB/s
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn06.somethingstranges.com:8232?plugin=obfs%3Bhost%3D43309-nIao34iu.download.microsoft.com%3Bmode%3Dhttp#%F0%9F%87%B5%F0%9F%87%ADPH_1%7C2.8MB/s
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn06.somethingstranges.com:8233?plugin=obfs%3Bhost%3D43309-nIao34iu.download.microsoft.com%3Bmode%3Dhttp#%F0%9F%87%B5%F0%9F%87%ADPH_2%7C2.2MB/s
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn18.somethingstranges.com:8629?plugin=obfs%3Bhost%3D43309-nIao34iu.download.microsoft.com%3Bmode%3Dhttp#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.9MB/s
