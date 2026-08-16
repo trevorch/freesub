@@ -1648,6 +1648,7 @@ trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&path=/#JP �
 trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#JP 🇯🇵 | @Raydikalx | E0F1C6
 trojan://ND91608427@upward-puma.rooster465.autos:443?sni=upward-puma.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 4A1A50
 trojan://ND91608427@upward-puma.rooster465.autos:443?security=tls&sni=upward-puma.rooster465.autos&path=/#KR 🇰🇷 | @Raydikalx | EA3301
+trojan://PQ05174892@merry-falcon.rooster465.autos:443?allowInsecure=0#JP 🇯🇵 | @Raydikalx | E83D54
 trojan://QV31589740@51.44.160.58:443?sni=great-krill.rooster465.autos&fp=chrome&path=/#FR 🇫🇷 | @Raydikalx | E10E04
 trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#FR 🇫🇷 | @Raydikalx | 6B21A8
 trojan://QV31589740@great-krill.rooster465.autos:443?#FR 🇫🇷 | @Raydikalx | A449FE
