@@ -91,7 +91,6 @@ hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?ins
 hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#FI 🇫🇮 | @Raydikalx | 832C11
 hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52067?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=txwr28j1lntoy0sj#FI 🇫🇮 | @Raydikalx | 4347DC
 hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52068?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ene2f0oo4n8i3inf#FI 🇫🇮 | @Raydikalx | 4884DE
-hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 5B1965
 hysteria2://df489ab2-2242-4952-a774-1074a3a31f41@eh-spl1.craft-supply.org:8443?sni=eh-spl1.craft-supply.org#PL 🇵🇱 | @Raydikalx | 1E4243
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | B50285
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#FR 🇫🇷 | @Raydikalx | A8689B
