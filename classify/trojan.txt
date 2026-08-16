@@ -2852,11 +2852,12 @@ trojan://FH72359861@good-hound.rooster465.autos:443?sni=good-hound.rooster465.au
 trojan://FH72359861@absolute-bobcat.rooster465.autos:443?sni=absolute-bobcat.rooster465.autos&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_369%7C94KB%2Fs%7CM001-260618%2001
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?allow_insecure=1&allowInsecure=1&insecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A6%F0%9F%87%BF_AZ_%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?allow_insecure=1&allowInsecure=1&insecure=1&sni=gh.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-trojan://humanity@104.17.111.8:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.8MB/s
-trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.130209.xyz:2053?sni=v4.ipsb.us.ci&allowInsecure=0&type=ws&path=%2Fapi%2Fv2%2Fcheck_update#%F0%9F%87%BA%F0%9F%87%B8US_19%7C2.8MB/s
-trojan://PQ05174892@merry-falcon.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.7MB/s
+trojan://humanity@130.250.137.171:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.6MB/s
+trojan://humanity@104.18.152.187:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.3MB/s
+trojan://humanity@104.16.174.71:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C2.1MB/s
 trojan://PQ05174892@infinite-anteater.rooster465.autos:443?sni=infinite-anteater.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.9MB/s
-trojan://PQ05174892@rare-lion.rooster465.autos:443?sni=rare-lion.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C2.9MB/s
+trojan://PQ05174892@mighty-lemming.rooster465.autos:443?sni=mighty-lemming.rooster465.autos&allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.9MB/s
+trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C4.3MB/s
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
