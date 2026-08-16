@@ -1125,7 +1125,6 @@ trojan://FH72359861@touching-turtle.rooster465.autos:443?security=tls&path=/#IE 
 trojan://FH72359861@touching-turtle.rooster465.autos:443?sni=touching-turtle.rooster465.autos&allowInsecure=1&type=tcp#IE 🇮🇪 | @Raydikalx | 3B1B43
 trojan://FH72359861@tough-gopher.rooster465.autos:443?sni=tough-gopher.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | FB16D6
 trojan://FH72359861@tough-tuna.rooster465.autos:443?security=tls&path=/#US 🇺🇸 | @Raydikalx | BBDEFF
-trojan://FH72359861@tough-tuna.rooster465.autos:443?security=tls#US 🇺🇸 | @Raydikalx | 15C83B
 trojan://FH72359861@tough-tuna.rooster465.autos:443?sni=tough-tuna.rooster465.autos&allowInsecure=1&type=tcp#US 🇺🇸 | @Raydikalx | 720F78
 trojan://FH72359861@trusting-elf.rooster465.autos:443?security=tls&path=/#JP 🇯🇵 | @Raydikalx | 3243C5
 trojan://FH72359861@trusting-elf.rooster465.autos:443?sni=trusting-elf.rooster465.autos&path=/#JP 🇯🇵 | @Raydikalx | C4812D
