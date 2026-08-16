@@ -214,7 +214,6 @@ trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:10418?allowInsecure=1&s
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:54876?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 40C0D1
 trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?sni=www.nintendogames.net&type=raw&fp=chrome#HK 🇭🇰 | @Raydikalx | C39A14
 trojan://6ec301428255a78a1d826988d86cc87e@18.163.126.92:45744?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | AB401C
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 164AB1
 trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#HK 🇭🇰 | @Raydikalx | 682A07
 trojan://6ec301428255a78a1d826988d86cc87e@43.198.107.164:1138?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | B59553
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.234:44229?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 373FDA
@@ -1152,7 +1151,6 @@ trojan://HC04361579@key-barnacle.rooster465.autos:443?sni=key-barnacle.rooster46
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 36557E
 trojan://HC04361579@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 1E9D0C
 trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#KR 🇰🇷 | @Raydikalx | F5447D
-trojan://humanity@104.16.174.109:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | CCF604
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 5DE7ED
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 37A12E
 trojan://humanity@104.16.174.36:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 736B50
