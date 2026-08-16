@@ -1558,7 +1558,7 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#CA 🇨🇦 | @Raydikalx | 08C360
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&path=/&security=tls&type=ws#CA 🇨🇦 | @Raydikalx | 8FCD73
 vless://e7c4105c-baca-07d0-b1ea-b48af0c378bd@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&alpn=h2,http/1.1&type=tcp&headerType=none#RU 🇷🇺 | @Raydikalx | 1359AC
-vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@api.ferrin.uk:443?alpn=h2&encryption=none&fp=firefox&mode=auto&path=/&security=tls&sni=e7e90e6b.ferrin.uk&type=xhttp#NL 🇳🇱 | @Raydikalx | 19DEDA
+vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@api.ferrin.uk:443?alpn=h2&encryption=none&fp=firefox&mode=auto&path=/&security=tls&sni=e7e90e6b.ferrin.uk&type=xhttp#SE 🇸🇪 | @Raydikalx | 19DEDA
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#FR 🇫🇷 | @Raydikalx | 7FA53F
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#FR 🇫🇷 | @Raydikalx | 11ADCC
 vless://e8e34074-166f-48a6-9f86-398ad796c3ca@hidden-bonus-24d0.232-647.workers.dev:8880?encryption=none&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | C4DFAE
