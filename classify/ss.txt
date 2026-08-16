@@ -1,4 +1,3 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OlpHWXpPV0prTWpNdE1qazBZUzAwTmc9PQ==@104.128.72.119:80#US 🇺🇸 | @Raydikalx | 8C5B7C
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#NL 🇳🇱 | @Raydikalx | BA4344
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#US 🇺🇸 | @Raydikalx | 4851B4
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#CH 🇨🇭 | @Raydikalx | 5328E4
@@ -195,8 +194,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#Global 🌐 | @Raydikalx | 530C58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB 🇬🇧 | @Raydikalx | 9DF6E2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg==@213.183.44.17:8388#DE 🇩🇪 | @Raydikalx | 12D898
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn01.somethingstranges.com:8103#HK 🇭🇰 | @Raydikalx | 18C6C3
-ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn06.somethingstranges.com:8231#HK 🇭🇰 | @Raydikalx | 7CC5B2
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn01.somethingstranges.com:8102#HK 🇭🇰 | @Raydikalx | C23E27
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn02.somethingstranges.com:8106#HK 🇭🇰 | @Raydikalx | 60C856
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn02.somethingstranges.com:8110#HK 🇭🇰 | @Raydikalx | 378302
+ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q=@cn03.somethingstranges.com:8115#HK 🇭🇰 | @Raydikalx | B4C324
 ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn01.somethingstranges.com:8101#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK003%204.5MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
 ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn02.somethingstranges.com:8104#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK004%204.38MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
 ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn03.somethingstranges.com:8115#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK005%204.21MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
