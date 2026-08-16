@@ -3995,5 +3995,8 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rpr
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%AA_GE_%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%AA_GE_%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@47.77.214.201:10035#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vless://B1BF44DF-BADD-44EE-826A-12C27206993D@95.40.100.129:10126?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&path=update#%F0%9F%87%AD%F0%9F%87%B0HK_4%7C3.5MB/s
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.172.59:8686?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C1.2MB/s
+vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@api.ferrin.uk:443?encryption=none&security=tls&sni=e7e90e6b.ferrin.uk&fp=firefox&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.7MB/s
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_5%7C1.5MB/s
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_6%7C1.4MB/s
+vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_7%7C1.2MB/s
+vless://79ef15b5-9db5-48f1-aed4-da0e09ee6f57@service-5de701-e3e9b6-production.up.railway.app:443?encryption=none&security=tls&sni=service-5de701-e3e9b6-production.up.railway.app&fp=chrome&type=ws&host=service-5de701-e3e9b6-production.up.railway.app&path=%2Fws%2Fvless%2F79ef15b5-9db5-48f1-aed4-da0e09ee6f57%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8US_8%7C1.1MB/s
