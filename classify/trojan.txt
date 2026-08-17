@@ -1067,6 +1067,7 @@ trojan://HC04361579@key-barnacle.rooster465.autos:443?sni=key-barnacle.rooster46
 trojan://HC04361579@key-barnacle.rooster465.autos:443?security=tls&sni=key-barnacle.rooster465.autos&path=/#KR 🇰🇷 | @Raydikalx | BBB19C
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | BDAD93
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 36557E
+trojan://HC04361579@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#KR 🇰🇷 | @Raydikalx | 720F6A
 trojan://HC04361579@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 94A58F
 trojan://HC04361579@star-shrimp.rooster465.autos:443?sni=star-shrimp.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 3C93A0
 trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#KR 🇰🇷 | @Raydikalx | F5447D
@@ -1081,7 +1082,6 @@ trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=/assignment&sn
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | 0E6145
 trojan://humanity@104.16.73.213:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | E22E77
 trojan://humanity@104.17.111.4:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 8128F2
-trojan://humanity@104.18.152.77:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | DF0AEB
 trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 4ED48E
 trojan://humanity@2.144.15.223:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 6ACF92
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 34EA79
@@ -1142,6 +1142,7 @@ trojan://ND91608427@casual-bee.rooster465.autos:443?sni=casual-bee.rooster465.au
 trojan://ND91608427@casual-bee.rooster465.autos:443?security=tls&sni=casual-bee.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#JP 🇯🇵 | @Raydikalx | 21CAE3
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?sni=chief-bluegill.rooster465.autos&path=/#KR 🇰🇷 | @Raydikalx | E45E51
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&path=/#KR 🇰🇷 | @Raydikalx | 9529AB
+trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1#KR 🇰🇷 | @Raydikalx | 636CC6
 trojan://ND91608427@definite-malamute.rooster465.autos:443?sni=definite-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | D6E6F2
 trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#KR 🇰🇷 | @Raydikalx | 58BEBB
 trojan://ND91608427@devoted-heron.rooster465.autos:443?sni=devoted-heron.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | A89CD4
@@ -1247,7 +1248,7 @@ trojan://PQ05174892@13.212.44.180:443?sni=smooth-hornet.rooster465.autos&type=tc
 trojan://PQ05174892@13.212.87.164:443?sni=sharp-feline.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 8CBC9C
 trojan://PQ05174892@13.212.87.164:443?sni=sharp-feline.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | E3D613
 trojan://PQ05174892@13.212.91.165:443?sni=composed-sheep.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 1DA1B2
-trojan://PQ05174892@13.212.91.165:443?allowInsecure=0&sni=composed-sheep.rooster465.autos#SG 🇸🇬 | @Raydikalx | EB3F8D
+trojan://PQ05174892@13.212.91.165:443?sni=composed-sheep.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | EB3F8D
 trojan://PQ05174892@13.214.213.158:443?sni=apparent-wasp.rooster465.autos&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 5A3D43
 trojan://PQ05174892@13.214.213.158:443?sni=apparent-wasp.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | AFC083
 trojan://PQ05174892@13.229.204.224:443?sni=intense-sole.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 957B49
@@ -1297,9 +1298,8 @@ trojan://PQ05174892@35.160.249.189:443?sni=absolute-teal.rooster465.autos&type=t
 trojan://PQ05174892@35.90.27.143:443?sni=evident-ant.rooster465.autos&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | 2AA065
 trojan://PQ05174892@35.91.98.35:443?sni=mature-lamprey.rooster465.autos&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | E2CC2C
 trojan://PQ05174892@43.203.206.201:443?sni=massive-ocelot.rooster465.autos&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 2481FF
-trojan://PQ05174892@43.203.240.219:443?allowInsecure=1&sni=precious-stag.rooster465.autos#KR 🇰🇷 | @Raydikalx | CA8604
 trojan://PQ05174892@43.203.243.160:443?sni=sensible-barnacle.rooster465.autos&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 68D1DD
-trojan://PQ05174892@43.206.241.145:443?allowInsecure=0&sni=concise-guinea.rooster465.autos#JP 🇯🇵 | @Raydikalx | 9AFE90
+trojan://PQ05174892@43.206.241.145:443?sni=concise-guinea.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 9AFE90
 trojan://PQ05174892@47.128.147.181:443?sni=rich-mule.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | E3A238
 trojan://PQ05174892@47.128.15.18:443?sni=bold-eagle.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | FBE821
 trojan://PQ05174892@47.128.224.11:443?sni=vast-werewolf.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 8E48E9
@@ -1322,7 +1322,6 @@ trojan://PQ05174892@52.78.65.37:443?sni=full-mayfly.rooster465.autos&type=tcp&fp
 trojan://PQ05174892@52.79.132.234:443?sni=careful-cow.rooster465.autos&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 2435EE
 trojan://PQ05174892@52.79.248.57:443?sni=awake-redbird.rooster465.autos&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 6EE084
 trojan://PQ05174892@54.151.247.141:443?sni=sweeping-dog.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 187347
-trojan://PQ05174892@54.169.228.116:443?allowInsecure=0&sni=amusing-grub.rooster465.autos#SG 🇸🇬 | @Raydikalx | ACDB61
 trojan://PQ05174892@54.169.254.65:443?sni=next-jaybird.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 6E6B4B
 trojan://PQ05174892@54.169.255.178:443?sni=tops-owl.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | FE28B0
 trojan://PQ05174892@54.180.231.164:443?sni=regular-raptor.rooster465.autos&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | BDFD2C
@@ -1346,12 +1345,11 @@ trojan://PQ05174892@63.179.149.234:443?sni=usable-dogfish.rooster465.autos&type=
 trojan://PQ05174892@adapted-martin.rooster465.autos:443?sni=adapted-martin.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | B8D9A5
 trojan://PQ05174892@adapted-worm.rooster465.autos:443?sni=adapted-worm.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | F74656
 trojan://PQ05174892@allowing-ram.rooster465.autos:443?sni=allowing-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 3473D3
-trojan://PQ05174892@amusing-grub.rooster465.autos:443?allowInsecure=1&sni=amusing-grub.rooster465.autos#SG 🇸🇬 | @Raydikalx | CD7A1B
 trojan://PQ05174892@apparent-wasp.rooster465.autos:443?sni=apparent-wasp.rooster465.autos&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 50FB9F
 trojan://PQ05174892@apparent-wasp.rooster465.autos:443?sni=apparent-wasp.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 7025FE
 trojan://PQ05174892@apt-worm.rooster465.autos:443?sni=apt-worm.rooster465.autos&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | E109F4
 trojan://PQ05174892@awaited-lark.rooster465.autos:443?sni=awaited-lark.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 10641E
-trojan://PQ05174892@awake-redbird.rooster465.autos:443?allowInsecure=1&sni=awake-redbird.rooster465.autos#KR 🇰🇷 | @Raydikalx | EAF398
+trojan://PQ05174892@awake-redbird.rooster465.autos:443?sni=awake-redbird.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | EAF398
 trojan://PQ05174892@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 83F29F
 trojan://PQ05174892@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | DEBD85
 trojan://PQ05174892@balanced-goat.rooster465.autos:443?sni=balanced-goat.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 249EAD
@@ -1370,10 +1368,9 @@ trojan://PQ05174892@champion-alien.rooster465.autos:443?sni=champion-alien.roost
 trojan://PQ05174892@clear-killdeer.rooster465.autos:443?sni=clear-killdeer.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 3ABEFE
 trojan://PQ05174892@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 93CF82
 trojan://PQ05174892@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | 03C01F
-trojan://PQ05174892@composed-sheep.rooster465.autos:443?allowInsecure=0&sni=composed-sheep.rooster465.autos#SG 🇸🇬 | @Raydikalx | 9BFA59
+trojan://PQ05174892@composed-sheep.rooster465.autos:443?sni=composed-sheep.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 9BFA59
 trojan://PQ05174892@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=/#IE 🇮🇪 | @Raydikalx | 736DBE
 trojan://PQ05174892@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&type=tcp&fp=chrome#IE 🇮🇪 | @Raydikalx | D9811D
-trojan://PQ05174892@concise-guinea.rooster465.autos:443?allowInsecure=0#JP 🇯🇵 | @Raydikalx | 767D9F
 trojan://PQ05174892@concise-guinea.rooster465.autos:443?sni=concise-guinea.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 0474C0
 trojan://PQ05174892@cunning-midge.rooster465.autos:443?sni=cunning-midge.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 70CAF4
 trojan://PQ05174892@eager-platypus.rooster465.autos:443?sni=eager-platypus.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 26DA71
@@ -1398,7 +1395,6 @@ trojan://PQ05174892@famous-opossum.rooster465.autos:443?sni=famous-opossum.roost
 trojan://PQ05174892@fast-drum.rooster465.autos:443?sni=fast-drum.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 261597
 trojan://PQ05174892@fast-drum.rooster465.autos:443?sni=fast-drum.rooster465.autos&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | 5E0317
 trojan://PQ05174892@fine-elf.rooster465.autos:443?sni=fine-elf.rooster465.autos&type=tcp&fp=chrome#DE 🇩🇪 | @Raydikalx | 09647B
-trojan://PQ05174892@fleet-pony.rooster465.autos:443?allowInsecure=1&sni=fleet-pony.rooster465.autos#SG 🇸🇬 | @Raydikalx | 7C7ACE
 trojan://PQ05174892@flexible-titmouse.rooster465.autos:443?sni=flexible-titmouse.rooster465.autos&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | A4C57B
 trojan://PQ05174892@flexible-titmouse.rooster465.autos:443?sni=flexible-titmouse.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 3717B4
 trojan://PQ05174892@free-tuna.rooster465.autos:443?sni=free-tuna.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | FB4180
@@ -1420,7 +1416,6 @@ trojan://PQ05174892@ideal-phoenix.rooster465.autos:443?sni=ideal-phoenix.rooster
 trojan://PQ05174892@in-mongrel.rooster465.autos:443?sni=in-mongrel.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | A2FF7C
 trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#SG 🇸🇬 | @Raydikalx | 7D9A04
 trojan://PQ05174892@intense-monarch.rooster465.autos:443?sni=intense-monarch.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 345E44
-trojan://PQ05174892@intense-sole.rooster465.autos:443?allowInsecure=1#SG 🇸🇬 | @Raydikalx | 90EC96
 trojan://PQ05174892@intense-sole.rooster465.autos:443?sni=intense-sole.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | FC0930
 trojan://PQ05174892@learning-ibex.rooster465.autos:443?sni=learning-ibex.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | AC4E5E
 trojan://PQ05174892@learning-leopard.rooster465.autos:443?sni=learning-leopard.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | DEB5D6
@@ -1429,6 +1424,7 @@ trojan://PQ05174892@lenient-grubworm.rooster465.autos:443?sni=lenient-grubworm.r
 trojan://PQ05174892@logical-ram.rooster465.autos:443?sni=logical-ram.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 00F52B
 trojan://PQ05174892@lucky-albacore.rooster465.autos:443?sni=lucky-albacore.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 182C31
 trojan://PQ05174892@lucky-chimp.rooster465.autos:443?sni=lucky-chimp.rooster465.autos&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | 1C5B78
+trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=1#FR 🇫🇷 | @Raydikalx | FC8936
 trojan://PQ05174892@main-dragon.rooster465.autos:443?sni=main-dragon.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | F67070
 trojan://PQ05174892@main-whippet.rooster465.autos:443?sni=main-whippet.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | AE2983
 trojan://PQ05174892@major-duckling.rooster465.autos:443?sni=major-duckling.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | F976CB
@@ -1454,7 +1450,6 @@ trojan://PQ05174892@open-caribou.rooster465.autos:443?sni=open-caribou.rooster46
 trojan://PQ05174892@perfect-emu.rooster465.autos:443?sni=perfect-emu.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 83214E
 trojan://PQ05174892@pleased-raptor.rooster465.autos:443?sni=pleased-raptor.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | AE59C2
 trojan://PQ05174892@pleased-sawfly.rooster465.autos:443?sni=pleased-sawfly.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 3D8F8C
-trojan://PQ05174892@precious-stag.rooster465.autos:443?allowInsecure=1#KR 🇰🇷 | @Raydikalx | C9B95F
 trojan://PQ05174892@precious-stag.rooster465.autos:443?sni=precious-stag.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 099578
 trojan://PQ05174892@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 155FE0
 trojan://PQ05174892@pretty-rat.rooster465.autos:443?sni=pretty-rat.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 4D0323
@@ -1485,8 +1480,7 @@ trojan://PQ05174892@skilled-monster.rooster465.autos:443?sni=skilled-monster.roo
 trojan://PQ05174892@smooth-cougar.rooster465.autos:443?sni=smooth-cougar.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | A881C6
 trojan://PQ05174892@smooth-hornet.rooster465.autos:443?sni=smooth-hornet.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 65A198
 trojan://PQ05174892@smooth-sculpin.rooster465.autos:443?sni=smooth-sculpin.rooster465.autos&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | A60CBA
-trojan://PQ05174892@stable-python.rooster465.autos:443?allowInsecure=0#SG 🇸🇬 | @Raydikalx | B239CC
-trojan://PQ05174892@stable-python.rooster465.autos:443?allowInsecure=1&sni=stable-python.rooster465.autos#SG 🇸🇬 | @Raydikalx | ACFE38
+trojan://PQ05174892@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | ACFE38
 trojan://PQ05174892@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 5A1D5E
 trojan://PQ05174892@sterling-vervet.rooster465.autos:443?sni=sterling-vervet.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 95D4B5
 trojan://PQ05174892@sure-bengal.rooster465.autos:443?sni=sure-bengal.rooster465.autos&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | 49A362
