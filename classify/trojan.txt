@@ -1060,7 +1060,7 @@ trojan://HC04361579@key-barnacle.rooster465.autos:443?sni=key-barnacle.rooster46
 trojan://HC04361579@key-barnacle.rooster465.autos:443?security=tls&sni=key-barnacle.rooster465.autos&path=/#KR 🇰🇷 | @Raydikalx | BBB19C
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | BDAD93
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 36557E
-trojan://HC04361579@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 720F6A
+trojan://HC04361579@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#KR 🇰🇷 | @Raydikalx | 720F6A
 trojan://HC04361579@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 94A58F
 trojan://HC04361579@star-shrimp.rooster465.autos:443?sni=star-shrimp.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 3C93A0
 trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#KR 🇰🇷 | @Raydikalx | F5447D
