@@ -1062,7 +1062,7 @@ trojan://HC04361579@3.39.132.127:443?sni=star-bluejay.rooster465.autos&fp=chrome
 trojan://HC04361579@43.202.4.25:443?sni=powerful-troll.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 6DF1FC
 trojan://HC04361579@54.180.237.220:443?sni=key-barnacle.rooster465.autos&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | E7FA0E
 trojan://HC04361579@balanced-stag.rooster465.autos:443?sni=balanced-stag.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 9ACD61
-trojan://HC04361579@driven-doberman.rooster465.autos:443?allowInsecure=0&sni=driven-doberman.rooster465.autos#JP 🇯🇵 | @Raydikalx | A72A4B
+trojan://HC04361579@driven-doberman.rooster465.autos:443?sni=driven-doberman.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | A72A4B
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?path=/#HK 🇭🇰 | @Raydikalx | 891B45
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos&path=/#HK 🇭🇰 | @Raydikalx | AFCB29
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos#HK 🇭🇰 | @Raydikalx | 1B4FD2
@@ -1070,7 +1070,7 @@ trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.
 trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#KR 🇰🇷 | @Raydikalx | 67EAB5
 trojan://HC04361579@key-barnacle.rooster465.autos:443?sni=key-barnacle.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 9253C3
 trojan://HC04361579@key-barnacle.rooster465.autos:443?security=tls&sni=key-barnacle.rooster465.autos&path=/#KR 🇰🇷 | @Raydikalx | BBB19C
-trojan://HC04361579@legible-ocelot.rooster465.autos:443?sni=legible-ocelot.rooster465.autos&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | 04B3D4
+trojan://HC04361579@legible-ocelot.rooster465.autos:443?allowInsecure=1&sni=legible-ocelot.rooster465.autos#JP 🇯🇵 | @Raydikalx | 04B3D4
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | BDAD93
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&allowInsecure=1&type=tcp#KR 🇰🇷 | @Raydikalx | 36557E
 trojan://HC04361579@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#KR 🇰🇷 | @Raydikalx | 720F6A
