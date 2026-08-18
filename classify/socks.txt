@@ -1,16 +1,6 @@
+socks://Og@45.144.54.40:1080#DE德国(ProxyGo免费节点分享)
 socks://Og@112.90.88.102:20000#HK中国香港(ProxyGo免费节点分享)
-socks://MTIzOjEyMw@43.100.43.112:3060#US美国(ProxyGo免费节点分享)
-socks://T2c9PTo@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)
-socks://T2c6@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)
-socks://MTIzNDU2OjEyMzQ1Ng@8.209.236.192:1080#JP日本(ProxyGo免费节点分享)
-socks://Og@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)
-socks://VDJjOVBUbzo@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)
-socks://VkRKak5qbzo@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)
-socks://VDJjNjo@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)
-socks://YWRtaW46YWRtaW4@158.180.91.51:5555#KR韩国(ProxyGo免费节点分享)
 socks://Og@144.24.111.128:1088#IN印度(ProxyGo免费节点分享)
-socks://Og@212.58.132.5:1080#US美国(ProxyGo免费节点分享)
-socks://VkRKak9WQlViem86@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)
 socks://Og@112.90.88.102:20000#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 socks://MTIzOjEyMw@43.100.43.112:3060#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 socks://T2c9PTo@59.38.113.185:20000#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29

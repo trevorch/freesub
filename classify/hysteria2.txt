@@ -1,11 +1,4 @@
-hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?sni=8-210-142-69.liao.kdns.fr&insecure=0&allowInsecure=0#HK中国香港(ProxyGo免费节点分享)
-hysteria2://94c44047f066661fa4175c9823e56394@47-250-51-16.liao.kdns.fr:50160?sni=47-250-51-16.liao.kdns.fr&insecure=0&allowInsecure=0#(ProxyGo免费节点分享)
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr&insecure=0&allowInsecure=0#KR韩国(ProxyGo免费节点分享)
-hysteria2://dfb54e674104158210fdfcac45e5679d@193.122.104.200:50160?sni=193-122-104-200.liao.kdns.fr&insecure=0&allowInsecure=0#KR韩国(ProxyGo免费节点分享)
-hysteria2://725bc0b69e720cd5a2cd209252507c6e@94-229-64-108.liao.kdns.fr:50160?sni=94-229-64-108.liao.kdns.fr&insecure=0&allowInsecure=0#GB英国(ProxyGo免费节点分享)
-hysteria2://3489a008067e4b789cd91f3f0d3ece47@140-238-43-0.liao.kdns.fr:50160?sni=140-238-43-0.liao.kdns.fr&insecure=0&allowInsecure=0#US美国(ProxyGo免费节点分享)
-hysteria2://b42d90fa667942aebc734d60@137.23.2.19:20000?sni=rmgyvpn.rest&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=b42d90fa667942aebc734d60&mport=20000-30000#(ProxyGo免费节点分享)
-hysteria2://ed77b662dbdf1a817d5eb75ae940cac4@198-46-188-116.liao.kdns.fr:50160?sni=198-46-188-116.liao.kdns.fr&insecure=0&allowInsecure=0#US美国(ProxyGo免费节点分享)
+hysteria2://6f65680b8d4de72e9f7c030e92e27a32@166-0-16-52.liao.kdns.fr:50160?sni=166-0-16-52.liao.kdns.fr&insecure=0&allowInsecure=0#US美国(ProxyGo免费节点分享)
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?insecure=1&sni=nl1.noesissite.ru#BR 🇧🇷 | @Raydikalx | F6C6BD
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | DD0EC6
 hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?insecure=0&sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | 432B39
