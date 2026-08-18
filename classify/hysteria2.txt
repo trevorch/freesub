@@ -80,7 +80,6 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.99:8443?insecure=1&
 hysteria2://%40Tel%40Configvibes@198.105.123.106:11504?insecure=1&sni=archive.ubuntu.com&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#TR 🇹🇷 | @Raydikalx | 8AD5DC
 hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#TR 🇹🇷 | @Raydikalx | 67CC73
 hysteria2://%40Telegram%40Configvibes@45.92.219.237:8486?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#TR 🇹🇷 | @Raydikalx | BAEA88
-hysteria2://ad6bc66062dbd395a02061c842c0978c@162-141-131-59.liao.kdns.fr:50160?sni=162-141-131-59.liao.kdns.fr#JP 🇯🇵 | @Raydikalx | 821391
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@jp.555199.xyz:20000/?insecure=0&sni=sg.555199.xyz&mport=20000-30000#JP 🇯🇵 | @Raydikalx | 68C969
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@sg.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#SG 🇸🇬 | @Raydikalx | 216318
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@us.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#Global 🌐 | @Raydikalx | AEA545
