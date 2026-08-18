@@ -490,6 +490,8 @@ trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.16.180.203:443?sni=ezpanslll.s
 trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.16.3.189:443?sni=ezpanslll.samankarami0686.workers.dev&type=ws&path=/&fp=chrome#CA 🇨🇦 | @Raydikalx | C0F6B4
 trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.24.212.28:443?sni=ezpanslll.samankarami0686.workers.dev&type=ws&path=/&fp=chrome#CA 🇨🇦 | @Raydikalx | 91A7BC
 trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.24.6.171:443?sni=ezpanslll.samankarami0686.workers.dev&type=ws&path=/&fp=chrome#CA 🇨🇦 | @Raydikalx | 407DF7
+trojan://fg20mtCFHy@128.14.180.210:5444?allowInsecure=1&sni=ucyxc.southbyte.xyz#US 🇺🇸 | @Raydikalx | 5B3BB7
+trojan://fg20mtCFHy@147.182.198.83:5444?allowInsecure=1&sni=sfouctc.southbyte.xyz#US 🇺🇸 | @Raydikalx | D68174
 trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos&path=/#IE 🇮🇪 | @Raydikalx | 6BBC11
 trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos#IE 🇮🇪 | @Raydikalx | 8474FF
 trojan://FH72359861@108.130.49.217:443?sni=concise-bass.rooster465.autos&path=/#IE 🇮🇪 | @Raydikalx | 62242E
@@ -943,7 +945,6 @@ trojan://HC04361579@43.202.4.25:443?sni=powerful-troll.rooster465.autos&allowIns
 trojan://HC04361579@54.180.237.220:443?sni=key-barnacle.rooster465.autos&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | E7FA0E
 trojan://HC04361579@accepted-starling.rooster465.autos:443?allowInsecure=1&sni=accepted-starling.rooster465.autos#JP 🇯🇵 | @Raydikalx | 4BDC44
 trojan://HC04361579@balanced-stag.rooster465.autos:443?sni=balanced-stag.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 9ACD61
-trojan://HC04361579@driven-doberman.rooster465.autos:443?allowInsecure=0&sni=driven-doberman.rooster465.autos#JP 🇯🇵 | @Raydikalx | A72A4B
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?path=/#HK 🇭🇰 | @Raydikalx | 891B45
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos&path=/#HK 🇭🇰 | @Raydikalx | AFCB29
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos#HK 🇭🇰 | @Raydikalx | 1B4FD2
@@ -954,7 +955,6 @@ trojan://HC04361579@key-barnacle.rooster465.autos:443?security=tls&sni=key-barna
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | BDAD93
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 36557E
 trojan://HC04361579@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#KR 🇰🇷 | @Raydikalx | 720F6A
-trojan://HC04361579@quick-ant.rooster465.autos:443?allowInsecure=0&sni=quick-ant.rooster465.autos#KR 🇰🇷 | @Raydikalx | CAAC4D
 trojan://HC04361579@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 94A58F
 trojan://HC04361579@star-shrimp.rooster465.autos:443?sni=star-shrimp.rooster465.autos&fp=chrome&type=tcp&path=/#KR 🇰🇷 | @Raydikalx | 3C93A0
 trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#KR 🇰🇷 | @Raydikalx | F5447D
