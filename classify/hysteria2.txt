@@ -53,6 +53,7 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us65.mechvpn.online:443?insecur
 hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#SG 🇸🇬 | @Raydikalx | BD7681
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com@freenettir³&obfs=salamander&obfs-password=uw9b2qq5rx#FI 🇫🇮 | @Raydikalx | DFED17
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#FI 🇫🇮 | @Raydikalx | 0EB8C1
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#FI 🇫🇮 | @Raydikalx | A5D1E1
 hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#FI 🇫🇮 | @Raydikalx | D5895A
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?insecure=0&sni=gorbachev-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | 6607F3
 hysteria2://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv21.strettenvpn.com:443?insecure=1&sni=serv21.strettenvpn.com#DE 🇩🇪 | @Raydikalx | 6469E5
