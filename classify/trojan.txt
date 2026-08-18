@@ -3657,7 +3657,12 @@ trojan://netra@104.21.60.109:2087?sni=LAtE-FroST-9DA7.ShOamEni5.woRKers.Dev&type
 trojan://PQ05174892@welcome-monitor.rooster465.autos:443?sni=welcome-monitor.rooster465.autos&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_325%7C169KB%2Fs%7CR002-260618%2001
 trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@176.108.242.191:443?sni=ru-5b7331.atlanta-games.com&type=grpc&serviceName=ajv&mode=gun&alpn=h2&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_251%7C120KB%2Fs%7CS001-260618%2001
 trojan://netra@172.67.195.227:2083?sni=lATE-fROST-9DA7.ShOAmEni5.workErs.deV&type=ws&path=/tr/8vQPIrFg42fBSCLIHOgLi?ed=2560&alpn=http/1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1020%7C167KB%2Fs%7CS004-260618%2001
-trojan://HC04361579@legible-ocelot.rooster465.autos:443?sni=legible-ocelot.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.5MB/s
+trojan://HC04361579@pet-albacore.rooster465.autos:443?sni=pet-albacore.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C5.7MB/s
+trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?allowInsecure=0&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.3MB/s
+trojan://fg20mtCFHy@172.234.100.80:5612?sni=yugdv.southbyte.xyz&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AASE_1%7C2.4MB/s
+trojan://fg20mtCFHy@206.189.7.80:5446?sni=inxgc.southbyte.xyz&allowInsecure=1&type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C3.4MB/s
+trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@176.108.242.191:443?sni=ru-5b7331.atlanta-games.com&allowInsecure=0&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE_8%7C1.3MB/s
+trojan://fg20mtCFHy@137.184.172.41:1921?sni=sfecv.southbyte.xyz&allowInsecure=1&type=tcp#%F0%9F%87%A8%F0%9F%87%A6CA_1%7C1.3MB/s
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
