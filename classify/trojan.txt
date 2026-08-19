@@ -205,7 +205,6 @@ trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:18617?allowInsecure=1&sn
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:39024?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 011F8D
 trojan://6ec301428255a78a1d826988d86cc87e@18.162.156.145:50887?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | BEE475
 trojan://6ec301428255a78a1d826988d86cc87e@18.163.114.228:26704?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 9C3B3A
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?allowInsecure=0&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 164AB1
 trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#HK 🇭🇰 | @Raydikalx | F37837
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#HK 🇭🇰 | @Raydikalx | D40A65
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | D3E5A8
@@ -412,7 +411,7 @@ trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&allow
 trojan://EQ30679154@35.91.98.35:443?sni=mature-lamprey.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 9F3027
 trojan://EQ30679154@44.251.158.80:443?sni=obliging-louse.rooster465.autos&allowInsecure=1&type=tcp#US 🇺🇸 | @Raydikalx | 369EB4
 trojan://EQ30679154@44.255.190.116:443?sni=warm-krill.rooster465.autos&type=tcp&fp=chrome#US 🇺🇸 | @Raydikalx | 61BEE4
-trojan://EQ30679154@47.128.217.39:443?allowInsecure=0&sni=modest-bat.rooster465.autos#SG 🇸🇬 | @Raydikalx | A39579
+trojan://EQ30679154@47.128.217.39:443?sni=modest-bat.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | A39579
 trojan://EQ30679154@47.128.246.188:443?sni=pretty-bluejay.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 857D0B
 trojan://EQ30679154@47.129.160.142:443?sni=well-goshawk.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 176A48
 trojan://EQ30679154@47.129.165.105:443?sni=balanced-firefly.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | F47641
@@ -442,7 +441,6 @@ trojan://EQ30679154@internal-raccoon.rooster465.autos:443?sni=internal-raccoon.r
 trojan://EQ30679154@intimate-adder.rooster465.autos:443?sni=intimate-adder.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 6DAE02
 trojan://EQ30679154@intimate-hog.rooster465.autos:443?sni=intimate-hog.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 9F2B82
 trojan://EQ30679154@liked-eft.rooster465.autos:443?sni=liked-eft.rooster465.autos&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | 2E01FD
-trojan://EQ30679154@modest-bat.rooster465.autos:443?allowInsecure=0#SG 🇸🇬 | @Raydikalx | D7573B
 trojan://EQ30679154@modest-bat.rooster465.autos:443?sni=modest-bat.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 44CF9F
 trojan://EQ30679154@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 3FDCA7
 trojan://EQ30679154@normal-cow.rooster465.autos:443?sni=normal-cow.rooster465.autos&allowInsecure=1&type=tcp#DE 🇩🇪 | @Raydikalx | 7FA268
@@ -742,6 +740,7 @@ trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-sh
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 5DE7ED
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | 37A12E
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 4CF504
+trojan://humanity@104.16.174.36:443?allowInsecure=0&sni=www.ignitelimit.com&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | E94F0A
 trojan://humanity@104.16.174.36:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 736B50
 trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | E92682
 trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 1543D3
