@@ -51,7 +51,7 @@ hysteria2://%40Tel%40Configvibes@198.105.123.106:11504?insecure=1&sni=archive.ub
 hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#TR 🇹🇷 | @Raydikalx | 67CC73
 hysteria2://%40Telegram%40Configvibes@45.92.219.237:8486?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#TR 🇹🇷 | @Raydikalx | BAEA88
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@jp.555199.xyz:20000/?insecure=0&sni=sg.555199.xyz&mport=20000-30000#JP 🇯🇵 | @Raydikalx | 68C969
-hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@sg.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#SG 🇸🇬 | @Raydikalx | 216318
+hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@sg.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#CA 🇨🇦 | @Raydikalx | 216318
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@us.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#Global 🌐 | @Raydikalx | AEA545
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443?insecure=0&sni=grape-power-pl.ddnsguru.com#FI 🇫🇮 | @Raydikalx | BD879C
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443?sni=grape-power-pl.ddnsguru.com#FI 🇫🇮 | @Raydikalx | 6A6514
