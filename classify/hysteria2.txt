@@ -20,8 +20,7 @@ hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?sni=swe.frkn.
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#KR 🇰🇷 | @Raydikalx | 4C23BD
 hysteria2://425e9e31-b017-4e32-bbd3-656473466d5e@latvia.koalaexpress.ru:2443?insecure=1&sni=latvia.koalaexpress.ru#LT 🇱🇹 | @Raydikalx | AB40E2
 hysteria2://4e756809@92.4.68.18:12694?insecure=1&sni=www.bing.com#IN 🇮🇳 | @Raydikalx | 12FFAC
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.22.41.10:443?sni=pl10.mechvpn.online#PL 🇵🇱 | @Raydikalx | 5DEB4A
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.22.41.10:443?insecure=1&sni=82.22.41.10#PL 🇵🇱 | @Raydikalx | 75F5B0
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.22.41.10:443?insecure=1#PL 🇵🇱 | @Raydikalx | 4D1D4E
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443?sni=at133.mechvpn.online#AT 🇦🇹 | @Raydikalx | 8CFCA2
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de120.mechvpn.online:443?insecure=1&sni=de120.mechvpn.online#DE 🇩🇪 | @Raydikalx | 9F197D
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de200.mechvpn.online:443?insecure=1#DE 🇩🇪 | @Raydikalx | B05F44
@@ -114,6 +113,7 @@ hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443?insecure=1&s
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#NL 🇳🇱 | @Raydikalx | 3B28D1
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.72:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#NL 🇳🇱 | @Raydikalx | 9BABB9
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.73:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#NL 🇳🇱 | @Raydikalx | 6DF702
+hysteria2://P6qkAwznuC076mbIR2cGPg%3D%3D@43.156.90.144:34567?insecure=1&sni=bing.com#SG 🇸🇬 | @Raydikalx | ED38C6
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#NL 🇳🇱 | @Raydikalx | F21CD4
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com#US 🇺🇸 | @Raydikalx | D7CBD9
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vpn-us-002.fastervpn.world#US 🇺🇸 | @Raydikalx | CD69E2
