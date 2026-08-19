@@ -1,6 +1,5 @@
-socks://Og@45.144.54.40:1080#DE德国(ProxyGo免费节点分享)
-socks://Og@112.90.88.102:20000#HK中国香港(ProxyGo免费节点分享)
-socks://Og@144.24.111.128:1088#IN印度(ProxyGo免费节点分享)
+socks://T2c6@112.28.149.152:8443#US美国(ProxyGo免费节点分享)
+socks://Og@112.28.149.152:8443#US美国(ProxyGo免费节点分享)
 socks://MTIzOjEyMw%3D%3D@43.100.43.112:3060#HK 🇭🇰 | @Raydikalx | F89178
 socks://YWJjMTIzOmFiYzEyMw%3D%3D@47.239.98.42:1080#HK 🇭🇰 | @Raydikalx | 54F43C
 socks://Og@45.144.54.40:1080#DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
