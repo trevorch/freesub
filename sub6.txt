@@ -176,7 +176,7 @@ hysteria2://%40Tel%40Configvibes@198.105.123.106:11504?insecure=1&sni=archive.ub
 hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#TR 🇹🇷 | @Raydikalx | 67CC73
 hysteria2://%40Telegram%40Configvibes@45.92.219.237:8486?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#TR 🇹🇷 | @Raydikalx | BAEA88
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@jp.555199.xyz:20000/?insecure=0&sni=sg.555199.xyz&mport=20000-30000#JP 🇯🇵 | @Raydikalx | 68C969
-hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@sg.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#CA 🇨🇦 | @Raydikalx | 216318
+hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@sg.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#SG 🇸🇬 | @Raydikalx | 216318
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@us.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#Global 🌐 | @Raydikalx | AEA545
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443?insecure=0&sni=grape-power-pl.ddnsguru.com#FI 🇫🇮 | @Raydikalx | BD879C
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443?sni=grape-power-pl.ddnsguru.com#FI 🇫🇮 | @Raydikalx | 6A6514
@@ -729,7 +729,7 @@ trojan://EQ30679154@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster
 trojan://EQ30679154@immortal-woodcock.rooster465.autos:443?sni=immortal-woodcock.rooster465.autos&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | AA8BD8
 trojan://EQ30679154@internal-raccoon.rooster465.autos:443?allowInsecure=0&sni=internal-raccoon.rooster465.autos#SG 🇸🇬 | @Raydikalx | 7275C6
 trojan://EQ30679154@intimate-adder.rooster465.autos:443?sni=intimate-adder.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#Global 🌐 | @Raydikalx | 6DAE02
-trojan://EQ30679154@modest-bat.rooster465.autos:443?allowInsecure=0&sni=modest-bat.rooster465.autos#SG 🇸🇬 | @Raydikalx | 44CF9F
+trojan://EQ30679154@modest-bat.rooster465.autos:443?allowInsecure=0&sni=modest-bat.rooster465.autos#Global 🌐 | @Raydikalx | 44CF9F
 trojan://EQ30679154@moved-bass.rooster465.autos:443?allowInsecure=0&sni=moved-bass.rooster465.autos#SG 🇸🇬 | @Raydikalx | 3B56F1
 trojan://EQ30679154@normal-cow.rooster465.autos:443?sni=normal-cow.rooster465.autos&allowInsecure=1&type=tcp#DE 🇩🇪 | @Raydikalx | 7FA268
 trojan://EQ30679154@open-octopus.rooster465.autos:443?allowInsecure=0#JP 🇯🇵 | @Raydikalx | 2659ED
@@ -1143,7 +1143,7 @@ trojan://PQ05174892@63.179.149.234:443?fp=chrome&sni=usable-dogfish.rooster465.a
 trojan://PQ05174892@absolute-teal.rooster465.autos:443?sni=absolute-teal.rooster465.autos&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 9EEB86
 trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome#NL 🇳🇱 | @Raydikalx | 623660
 trojan://PQ05174892@adapted-martin.rooster465.autos:443?sni=adapted-martin.rooster465.autos&type=tcp&path=/#Global 🌐 | @Raydikalx | 175E2E
-trojan://PQ05174892@adapted-worm.rooster465.autos:443?sni=adapted-worm.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 07466D
+trojan://PQ05174892@adapted-worm.rooster465.autos:443?sni=adapted-worm.rooster465.autos&fp=chrome&type=tcp&path=/#Global 🌐 | @Raydikalx | 07466D
 trojan://PQ05174892@alert-fish.rooster465.autos:443?#DE 🇩🇪 | @Raydikalx | EFC9E2
 trojan://PQ05174892@alert-fish.rooster465.autos:443?sni=alert-fish.rooster465.autos&type=tcp&path=/#DE 🇩🇪 | @Raydikalx | A205B8
 trojan://PQ05174892@allowing-ram.rooster465.autos:443?sni=allowing-ram.rooster465.autos&fp=chrome&type=tcp&path=/#Global 🌐 | @Raydikalx | 306760
@@ -1179,7 +1179,7 @@ trojan://PQ05174892@diverse-hawk.rooster465.autos:443?sni=diverse-hawk.rooster46
 trojan://PQ05174892@engaged-antelope.rooster465.autos:443?sni=engaged-antelope.rooster465.autos&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 63FBA8
 trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?sni=ethical-raccoon.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | AC936A
 trojan://PQ05174892@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 0A7CA9
-trojan://PQ05174892@excited-alien.rooster465.autos:443?sni=excited-alien.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 5C6D26
+trojan://PQ05174892@excited-alien.rooster465.autos:443?sni=excited-alien.rooster465.autos&fp=chrome&type=tcp&path=/#Global 🌐 | @Raydikalx | 5C6D26
 trojan://PQ05174892@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 486C78
 trojan://PQ05174892@fair-kingfish.rooster465.autos:443?sni=fair-kingfish.rooster465.autos&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 8FABE1
 trojan://PQ05174892@fair-reptile.rooster465.autos:443?sni=fair-reptile.rooster465.autos&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 0AA102
@@ -1241,7 +1241,7 @@ trojan://PQ05174892@moved-weasel.rooster465.autos:443?sni=moved-weasel.rooster46
 trojan://PQ05174892@musical-mouse.rooster465.autos:443?sni=musical-mouse.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 8B95D6
 trojan://PQ05174892@musical-mouse.rooster465.autos:443?sni=musical-mouse.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | A597BE
 trojan://PQ05174892@musical-shrew.rooster465.autos:443?fp=chrome#FR 🇫🇷 | @Raydikalx | 9F8948
-trojan://PQ05174892@next-jaybird.rooster465.autos:443?sni=next-jaybird.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 236212
+trojan://PQ05174892@next-jaybird.rooster465.autos:443?sni=next-jaybird.rooster465.autos&allowInsecure=1&type=tcp#Global 🌐 | @Raydikalx | 236212
 trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&fp=chrome&type=tcp&path=/#IE 🇮🇪 | @Raydikalx | 0B51AF
 trojan://PQ05174892@on-airedale.rooster465.autos:443?sni=on-airedale.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 6D0D0B
 trojan://PQ05174892@open-caribou.rooster465.autos:443?sni=open-caribou.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 0725A2
@@ -2012,7 +2012,6 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.18:443?security=tls&type
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.39:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#CA 🇨🇦 | @Raydikalx | CB39C5
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.69:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#CA 🇨🇦 | @Raydikalx | 0CE0A9
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#NL 🇳🇱 | @Raydikalx | 3D6C04
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#CA 🇨🇦 | @Raydikalx | C16C3A
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=%2FGOrbEh%23TELEGRAM-TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#CA 🇨🇦 | @Raydikalx | 8B5D0A
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#CA 🇨🇦 | @Raydikalx | 211124
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.133:8443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#JP 🇯🇵 | @Raydikalx | D65CB7
@@ -2475,6 +2474,7 @@ vmess://eyJhZGQiOiIxOTguMjMuMTg0LjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgQUQwNDAyIiwiYWRkIjoiMTk4LjIzLjE4NC4xMjIiLCJwb3J0Ijo0NDMsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiNjkxMGY3OGUtM2MzOC00NmExLWIyODctODM3Mjc5YWQ5YjRhIiwic25pIjoieGMxNjMubWVpemliYTU1NjYuY29tIiwicGF0aCI6Ii84MzcyNzlhZDliNGEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiIxOTguNDEuMjAyLjUiLCJhaWQiOjAsImhvc3QiOiJraXR0aXkuc2JzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAyQ0VENjUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJraXR0aXkuc2JzIn0=
 vmess://eyJhZGQiOiIxOTguNDEuMjA4LjE3MiIsImFpZCI6IjAiLCJob3N0Ijoic2ctZ2NvcmUtMi5zaGFyZWNlbnRyZS5vbmxpbmUiLCJpZCI6IjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zaGlya2VyIiwicG9ydCI6IjQ0MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgQUVENkUzIiwic2N5IjoiYXV0byIsInNuaSI6InNnLWdjb3JlLTIuc2hhcmVjZW50cmUub25saW5lIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIyLjI3LjE3NC4xMTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmQyYzNjNzctMTk4NC00ZjdjLWJlZmUtZWZiYTAzNGUxZjNjIiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI3OTQiLCJwcyI6IlRXIPCfh7nwn4e8IHwgQFJheWRpa2FseCB8IDIyNEUwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIyLjU5LjIyMy43MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYmVkYmI5OS1hY2IyLTRjZmItYjM4MS1iM2NlYTUwNDVjZmYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjkyMSIsInBzIjoiVUEg8J+HuvCfh6YgfCBAUmF5ZGlrYWx4IHwgNEQ5QkE1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJUQUJSSVouTkVUIiwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE1ODM0IiwicHMiOiJJTiDwn4eu8J+HsyB8IEBSYXlkaWthbHggfCBCOEI5QjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgRTk0QzQ0IiwiYWRkIjoiMjAuMi4yMTguMTQyIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjM5NjBmMTI4LTExNjMtNDBhMy04ZGQ3LTdjOTExNzZlMTRhNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjAxLmFwcGxlaWQuYmYiLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIwMS5hcHBsZWlkLmJmIn0=
