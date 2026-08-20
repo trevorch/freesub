@@ -121,7 +121,7 @@ wireguard://yNyRSGV2yPsyUjLf8hP%2FatC7aWDb6GkPRlV9ShD9yX8%3D@8.6.112.111:864?add
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — LIGHT — 2436 unique configs
+# @Raydikalx — LIGHT — 2438 unique configs
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1&sni=150.241.102.127#US 🇺🇸 | @Raydikalx | EE11CB
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | DD0EC6
 hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?insecure=0&sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | 432B39
@@ -1109,9 +1109,9 @@ trojan://PQ05174892@sharp-feline.rooster465.autos:443?sni=sharp-feline.rooster46
 trojan://PQ05174892@simple-sunbeam.rooster465.autos:443?sni=simple-sunbeam.rooster465.autos&type=tcp&path=/#Global 🌐 | @Raydikalx | 89F535
 trojan://PQ05174892@smooth-cougar.rooster465.autos:443?sni=smooth-cougar.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | A7DD52
 trojan://PQ05174892@smooth-sculpin.rooster465.autos:443?sni=smooth-sculpin.rooster465.autos&type=tcp&path=/#US 🇺🇸 | @Raydikalx | AF42C7
-trojan://PQ05174892@stable-python.rooster465.autos:443?allowInsecure=0#SG 🇸🇬 | @Raydikalx | B239CC
-trojan://PQ05174892@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | D05118
-trojan://PQ05174892@stable-python.rooster465.autos:443?security=tls&sni=stable-python.rooster465.autos&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | A9AFDE
+trojan://PQ05174892@stable-python.rooster465.autos:443?allowInsecure=0#Global 🌐 | @Raydikalx | B239CC
+trojan://PQ05174892@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&fp=chrome&type=tcp&path=/#Global 🌐 | @Raydikalx | D05118
+trojan://PQ05174892@stable-python.rooster465.autos:443?security=tls&sni=stable-python.rooster465.autos&type=tcp&path=/#Global 🌐 | @Raydikalx | A9AFDE
 trojan://PQ05174892@sterling-vervet.rooster465.autos:443?sni=sterling-vervet.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 3FFBBC
 trojan://PQ05174892@suitable-feline.rooster465.autos:443?fp=chrome#PL 🇵🇱 | @Raydikalx | 118D44
 trojan://PQ05174892@sure-bengal.rooster465.autos:443?sni=sure-bengal.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 94C252
@@ -1916,6 +1916,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=g
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&type=grpc#US 🇺🇸 | @Raydikalx | 6F460B
 vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?encryption=none&host=cold-shadow-66a0.278.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | 08C874
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#CA 🇨🇦 | @Raydikalx | F64C3F
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Fsg-melbi%23TELEGRAM-PROXY_MTM%3Fed%3D512&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#CA 🇨🇦 | @Raydikalx | EFF51C
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&ech=encryptedsni.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#CA 🇨🇦 | @Raydikalx | 909BC0
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%3Fed%3D512&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&ech=encryptedsni.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#CA 🇨🇦 | @Raydikalx | 7F4FC1
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=random&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#US 🇺🇸 | @Raydikalx | EF9461
@@ -2365,6 +2366,7 @@ vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJ2IjoiMiIsInBzIjoiTkwg8J+Hs/Cfh7EgfCBAUmF5ZGlrYWx4IHwgQkQ5ODk2IiwiYWRkIjoiODkuMTUwLjM1LjE1NSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDEyNjA0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii81ZjcyZjE4MC1iMjFiLTRiN2EtODQ4NC0yNDA3NTkwOTY3ODUiLCJob3N0IjoiYXBqaGRnZ3l4LmNvbSIsInRscyI6InRscyJ9
 vmess://eyJhZGQiOiI4OS4xNTAuMzUuMTU1IiwicG9ydCI6IjQ0MyIsImlkIjoiNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDEyNjA0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiJOTCDwn4ez8J+HsSB8IEBSYXlkaWthbHggfCA5QTM0ODIiLCJob3N0IjoiYXBqaGRnZ3l4LmNvbSIsInBhdGgiOiIvNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDk2Nzg1IiwidGxzIjoidGxzIiwic25pIjoiYXBqaGRnZ3l4LmNvbSIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiIn0=
 vmess://eyJhZGQiOiI5MS4xMDcuMTM5LjE4NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MDBjZGM4My1iMTg5LTRkNzktYjA2Yi0xMzljNzk3MmE1N2YiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1MTQ1OSIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgOUVDOTIwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI5MS4xMDcuMTUzLjIzMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MTg4MTRmYi03OWE3LTRlNmYtYWU4YS1hYjViZjBlNzczODEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjQ1MDAyIiwicHMiOiJERSDwn4ep8J+HqiB8IEBSYXlkaWthbHggfCBEQ0EyMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiI5MS4xMDcuMjU1LjE4MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmFwcGxlLmNvbSIsImlkIjoiNzUzZmE3YmYtYjBiZS00YzJlLWFkYmUtN2U0OTk3N2YxZTNkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMjgxMTAiLCJwcyI6IkRFIPCfh6nwn4eqIHwgQFJheWRpa2FseCB8IDcyQTFCMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiI5MS4xMDcuMjU1LjE4MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmFwcGxlLmNvbSIsImlkIjoiOWI0Y2Y1YjQtN2ZkOS00MzZiLWE0NDEtNmU5ZGZlNjAxYmY5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMjgxMTAiLCJwcyI6IkRFIPCfh6nwn4eqIHwgQFJheWRpa2FseCB8IEE4RDU2NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiI5MS4xMDcuMjU1LjE4MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmFwcGxlLmNvbSIsImlkIjoiYmU3MTFmMTItNmZiMy00MmQ4LTgwMjUtMTg1NTE2NzczNjNmIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMjgxMTAiLCJwcyI6IkRFIPCfh6nwn4eqIHwgQFJheWRpa2FseCB8IDlDMEI0RSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
