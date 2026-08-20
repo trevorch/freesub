@@ -1068,7 +1068,6 @@ trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@185.220.100.168:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#DE 🇩🇪 | @Raydikalx | 23DF85
 trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 4ED48E
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 0B0F91
-trojan://humanity@198.41.223.96:443?allowInsecure=0&sni=www.ignitelimit.com&alpn=http/1.1%2Ch2%2Ch3&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | DF756F
 trojan://humanity@2.144.15.223:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 6ACF92
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 34EA79
 trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1#IR 🇮🇷 | @Raydikalx | 25D077
