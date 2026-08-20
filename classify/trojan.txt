@@ -1266,6 +1266,7 @@ trojan://PQ05174892@43.206.241.145:443?security=tls&sni=concise-guinea.rooster46
 trojan://PQ05174892@43.207.145.97:443?sni=engaged-antelope.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 057AF7
 trojan://PQ05174892@43.207.166.211:443?sni=proper-mouse.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 048527
 trojan://PQ05174892@43.207.171.97:443?sni=noted-cougar.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 3BF773
+trojan://PQ05174892@51.44.167.144:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=immune-earwig.rooster465.autos#FR 🇫🇷 | @Raydikalx | 2F92FC
 trojan://PQ05174892@52.193.0.187:443?sni=humane-hawk.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | BE5103
 trojan://PQ05174892@52.194.186.154:443?sni=evolving-kangaroo.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 7E1B6F
 trojan://PQ05174892@52.195.206.148:443?sni=fair-kingfish.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 280562
@@ -1305,6 +1306,7 @@ trojan://PQ05174892@54.64.189.3:443?security=tls&sni=ideal-phoenix.rooster465.au
 trojan://PQ05174892@54.65.206.173:443?sni=major-duckling.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 773052
 trojan://PQ05174892@54.74.159.195:443?sni=kind-stork.rooster465.autos&fp=chrome&type=tcp&path=/#IE 🇮🇪 | @Raydikalx | 128E4E
 trojan://PQ05174892@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos&fp=chrome&type=tcp&path=/#IE 🇮🇪 | @Raydikalx | 727AB2
+trojan://PQ05174892@54.74.159.195:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#IE 🇮🇪 | @Raydikalx | 36265A
 trojan://PQ05174892@54.93.209.134:443?sni=alert-fish.rooster465.autos&fp=chrome&type=tcp&path=/#DE 🇩🇪 | @Raydikalx | 5E09FE
 trojan://PQ05174892@54.93.54.137:443?sni=informed-alpaca.rooster465.autos&fp=chrome&type=tcp&path=/#DE 🇩🇪 | @Raydikalx | 9EF5E1
 trojan://PQ05174892@57.180.27.225:443?sni=picked-guinea.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 06B0A1
