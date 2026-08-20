@@ -2671,7 +2671,6 @@ trojan://HC04361579@settling-shad.rooster465.autos:443?sni=settling-shad.rooster
 trojan://EQ30679154@44.251.158.80:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_916%7C326KB%2Fs%7CM002-260618%2001
 trojan://EQ30679154@34.223.2.163:443?sni=active-hippo.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US_918%7C119KB%2Fs%7CS001-260618%2001
 trojan://fg20mtCFHy@206.189.7.80:5446?sni=206.189.7.80&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1NL_368%7C267KB%2Fs%2001
-trojan://humanity@198.41.223.96:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.2MB/s
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
