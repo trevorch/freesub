@@ -200,7 +200,7 @@ trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:45744?allowInsecure=1&s
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:39024?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 015EAF
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:55647?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | E58737
 trojan://6ec301428255a78a1d826988d86cc87e@18.163.126.92:28051?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 2942DD
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#HK 🇭🇰 | @Raydikalx | F37837
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#SG 🇸🇬 | @Raydikalx | F37837
 trojan://6ec301428255a78a1d826988d86cc87e@43.199.143.104:14684?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 7C942D
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.234:14625?allowInsecure=1&sni=www.nintendogames.net#HK 🇭🇰 | @Raydikalx | 1E2516
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#HK 🇭🇰 | @Raydikalx | D40A65
@@ -297,7 +297,6 @@ trojan://AE62539071@excited-sole.rooster465.autos:443?sni=excited-sole.rooster46
 trojan://AE62539071@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos&path=/#JP 🇯🇵 | @Raydikalx | 082933
 trojan://AE62539071@funny-hen.rooster465.autos:443?#IE 🇮🇪 | @Raydikalx | 0A42A9
 trojan://AE62539071@game-firefly.rooster465.autos:443?#PL 🇵🇱 | @Raydikalx | D492B4
-trojan://AE62539071@game-thrush.rooster465.autos:443?allowInsecure=0&sni=game-thrush.rooster465.autos#JP 🇯🇵 | @Raydikalx | 4309C9
 trojan://AE62539071@grateful-crawdad.rooster465.autos:443?sni=grateful-crawdad.rooster465.autos&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 3FDC4E
 trojan://AE62539071@healthy-panda.rooster465.autos:443?#IE 🇮🇪 | @Raydikalx | 28FEFA
 trojan://AE62539071@helped-haddock.rooster465.autos:443?#IE 🇮🇪 | @Raydikalx | BBE771
@@ -405,7 +404,7 @@ trojan://EQ30679154@bursting-dolphin.rooster465.autos:443?sni=bursting-dolphin.r
 trojan://EQ30679154@concise-grackle.rooster465.autos:443?allowInsecure=0&sni=concise-grackle.rooster465.autos#JP 🇯🇵 | @Raydikalx | 0E7E97
 trojan://EQ30679154@curious-llama.rooster465.autos:443?sni=curious-llama.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 003C0E
 trojan://EQ30679154@curious-ocelot.rooster465.autos:443?sni=curious-ocelot.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 44E8F8
-trojan://EQ30679154@darling-monarch.rooster465.autos:443?sni=darling-monarch.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | E59D64
+trojan://EQ30679154@darling-monarch.rooster465.autos:443?sni=darling-monarch.rooster465.autos&allowInsecure=1&type=tcp#Global 🌐 | @Raydikalx | E59D64
 trojan://EQ30679154@definite-gazelle.rooster465.autos:443?allowInsecure=0#JP 🇯🇵 | @Raydikalx | 8BF8EC
 trojan://EQ30679154@direct-hawk.rooster465.autos:443?sni=direct-hawk.rooster465.autos&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | DB68FE
 trojan://EQ30679154@exact-sawfish.rooster465.autos:443?sni=exact-sawfish.rooster465.autos&allowInsecure=1&type=tcp#JP 🇯🇵 | @Raydikalx | 34C449
@@ -890,6 +889,7 @@ trojan://PQ05174892@humane-bird.rooster465.autos:443?allowInsecure=1#FR 🇫🇷
 trojan://PQ05174892@humane-hawk.rooster465.autos:443?sni=humane-hawk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | AAA73D
 trojan://PQ05174892@humorous-starling.rooster465.autos:443?sni=humorous-starling.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | BBB5F3
 trojan://PQ05174892@ideal-phoenix.rooster465.autos:443?sni=ideal-phoenix.rooster465.autos&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 1D27E1
+trojan://PQ05174892@ideal-phoenix.rooster465.autos:443?allowInsecure=0&sni=ideal-phoenix.rooster465.autos#JP 🇯🇵 | @Raydikalx | 97A318
 trojan://PQ05174892@immense-eagle.rooster465.autos:443?sni=immense-eagle.rooster465.autos&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 2A07F5
 trojan://PQ05174892@immune-earwig.rooster465.autos:443?fp=chrome#FR 🇫🇷 | @Raydikalx | 382CB5
 trojan://PQ05174892@in-mongrel.rooster465.autos:443?sni=in-mongrel.rooster465.autos&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | EC8FB9
