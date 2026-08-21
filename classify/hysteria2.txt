@@ -20,14 +20,12 @@ hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@xby.mangshe.xyz:2056?insecure=1
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#DE 🇩🇪 | @Raydikalx | B21B99
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?sni=swe.frkn.org#SE 🇸🇪 | @Raydikalx | 62F417
 hysteria2://4e756809@92.4.68.18:12694?insecure=1&sni=www.bing.com#IN 🇮🇳 | @Raydikalx | 12FFAC
-hysteria2://4hkCvE2nz6svLLqv@52.221.223.227:36001?insecure=0&sni=sg-ls-z-5.lihmxssuqleitqcxpssa.uk&obfs=&obfs-password=#SG 🇸🇬 | @Raydikalx | 6333A8
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.22.41.10:443?insecure=1#PL 🇵🇱 | @Raydikalx | 4D1D4E
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443?sni=at133.mechvpn.online#AT 🇦🇹 | @Raydikalx | 8CFCA2
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#FR 🇫🇷 | @Raydikalx | 3B7972
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443?insecure=1&sni=nl174.mechvpn.online#NL 🇳🇱 | @Raydikalx | 36C226
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443?insecure=1&sni=nl8.mechvpn.online#NL 🇳🇱 | @Raydikalx | 5ADB09
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443?sni=us54.mechvpn.online#SE 🇸🇪 | @Raydikalx | 8A50B6
-hysteria2://57ec0f01-0c00-4a69-ad67-937b4735640b@40t2.wxgqlfx.vip:35193?insecure=1&sni=40t2.wxgqlfx.vip#US 🇺🇸 | @Raydikalx | 6A7D58
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#FI 🇫🇮 | @Raydikalx | 0EB8C1
 hysteria2://85a88b70b5f2f73d0dcac92bd3934a5e@211.22.154.26:50160?sni=211-22-154-26.liao.kdns.fr#TW 🇹🇼 | @Raydikalx | C1C343
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443?insecure=1&sni=streambox.wwwinternetvideo.click#PL 🇵🇱 | @Raydikalx | 33D69E
@@ -69,13 +67,11 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=vpn-us-00
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443?insecure=1&sni=vpn-us-003.fastervpn.world#US 🇺🇸 | @Raydikalx | 8D9A40
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.222.29#HK 🇭🇰 | @Raydikalx | 081D7E
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=vpn-us-003.fastervpn.world#US 🇺🇸 | @Raydikalx | EB52AA
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&sni=t.me#SG 🇸🇬 | @Raydikalx | 6FCE5E
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&sni=vpn-kr-003.fastervpn.world#KR 🇰🇷 | @Raydikalx | 7B7505
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#TW 🇹🇼 | @Raydikalx | 3DECAF
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#TW 🇹🇼 | @Raydikalx | 8809A0
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world#US 🇺🇸 | @Raydikalx | 4B79FD
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world&obfs=&obfs-password=#US 🇺🇸 | @Raydikalx | 26F003
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?insecure=0&sni=hopp-legend-se.roxa.org&obfs=&obfs-password=#DE 🇩🇪 | @Raydikalx | BE6D01
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?sni=hopp-legend-se.roxa.org#DE 🇩🇪 | @Raydikalx | BE6D01
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8443?insecure=1&sni=hopp-legend-se.roxa.org#DE 🇩🇪 | @Raydikalx | 235B43
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#FI 🇫🇮 | @Raydikalx | 98E98B
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8080?insecure=1&sni=hopp-legend-se.roxa.org#FI 🇫🇮 | @Raydikalx | 1D5E75
@@ -86,7 +82,6 @@ hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=s
 hysteria2://Krab9Hyst2_Rk7pQ2xL@151.247.197.253:36723?insecure=1&sni=www.cloudflare.com#FR 🇫🇷 | @Raydikalx | 8FD2DC
 hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&sni=www.cloudflare.com#DE 🇩🇪 | @Raydikalx | 5BAA79
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#DE 🇩🇪 | @Raydikalx | CE4C6B
-hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=127.0.0.1&obfs=&obfs-password=#FR 🇫🇷 | @Raydikalx | 6F212A
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#FR 🇫🇷 | @Raydikalx | 129724
 hysteria2://l25nJa8z0D5pT6jl@16.79.28.237:26001?insecure=1&sni=id-ls-c-4.nebulacloud.win#ID 🇮🇩 | @Raydikalx | 95121C
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52009?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt#FI 🇫🇮 | @Raydikalx | 86171E
@@ -108,7 +103,7 @@ hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riz
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?sni=grape-turbo-fr.roxa.org#NL 🇳🇱 | @Raydikalx | B5BE82
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443?insecure=1&sni=grape-turbo-fr.roxa.org#NL 🇳🇱 | @Raydikalx | A67CD9
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.137:8443?sni=grape-turbo-fr.roxa.org#NL 🇳🇱 | @Raydikalx | C97289
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443?insecure=1&sni=grape-turbo-fr.roxa.org&obfs=&obfs-password=#NL 🇳🇱 | @Raydikalx | 0D6789
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443?insecure=1&sni=grape-turbo-fr.roxa.org#NL 🇳🇱 | @Raydikalx | 0D6789
 hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&obfs=none#JP 🇯🇵 | @Raydikalx | DF9D4D
 hysteria2://sharecentrepro@twgcp.sharecentre.online:4433?peer=twgcp.sharecentre.online&obfs=none#US 🇺🇸 | @Raydikalx | AB5E3C
 hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#Global 🌐 | @Raydikalx | 24BDB9
