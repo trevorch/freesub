@@ -42,9 +42,7 @@ hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?insecure=
 hysteria2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645?sni=vip-sg-1.hkd4fwmg.vip&path=%2f&allow_insecure=1#SG 🇸🇬 | @Raydikalx | 763466
 hysteria2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#SG 🇸🇬 | @Raydikalx | 0D1639
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.102:8443?insecure=1&sni=mercedes-grape.yyuyy.com#GB 🇬🇧 | @Raydikalx | 6772F7
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.104:8443?insecure=1&sni=mercedes-grape.yyuyy.com#GB 🇬🇧 | @Raydikalx | 4C9683
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.105:8080?insecure=1&sni=mercedes-grape.yyuyy.com#GB 🇬🇧 | @Raydikalx | 3196AD
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.99:8443?insecure=1&sni=mercedes-grape.yyuyy.com#GB 🇬🇧 | @Raydikalx | 705359
 hysteria2://%40Tel%40Configvibes@198.105.123.106:11504?insecure=1&sni=archive.ubuntu.com&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#TR 🇹🇷 | @Raydikalx | 8AD5DC
 hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#TR 🇹🇷 | @Raydikalx | 67CC73
 hysteria2://%40Telegram%40Configvibes@45.92.219.237:8486?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#TR 🇹🇷 | @Raydikalx | BAEA88
@@ -91,7 +89,6 @@ hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8443?insecure=1&sn
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#FI 🇫🇮 | @Raydikalx | 98E98B
 hysteria2://hysteria2_fastlane_9r63hua9f@144.31.135.204:443?sni=nl2.h.fastlanehosting.ru#NL 🇳🇱 | @Raydikalx | 1ED6D5
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#FR 🇫🇷 | @Raydikalx | A74CB9
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#FR 🇫🇷 | @Raydikalx | 793BC9
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.166:8443?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#FR 🇫🇷 | @Raydikalx | AE536D
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#DE 🇩🇪 | @Raydikalx | 480435
 hysteria2://Krab9Hyst2_Rk7pQ2xL@151.247.197.253:36723?insecure=1&sni=www.cloudflare.com#FR 🇫🇷 | @Raydikalx | 8FD2DC
@@ -110,7 +107,6 @@ hysteria2://netherlands_3_hysteria2_fastlane_xr3nai71s@91.84.119.49:443?sni=nl4.
 hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?sni=vip-jp-4.hkd4fwmg.vip&path=%2f&allow_insecure=1#JP 🇯🇵 | @Raydikalx | DC3C7F
 hysteria2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#JP 🇯🇵 | @Raydikalx | 113B6E
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#NL 🇳🇱 | @Raydikalx | DF7F3E
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#NL 🇳🇱 | @Raydikalx | 79D270
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#NL 🇳🇱 | @Raydikalx | 3B28D1
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.72:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#NL 🇳🇱 | @Raydikalx | 9BABB9
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.73:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#NL 🇳🇱 | @Raydikalx | 6DF702
