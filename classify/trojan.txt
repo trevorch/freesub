@@ -371,6 +371,7 @@ trojan://AE62539071@healthy-panda.rooster465.autos:443?sni=healthy-panda.rooster
 trojan://AE62539071@helped-haddock.rooster465.autos:443?#IE 🇮🇪 | @Raydikalx | BBE771
 trojan://AE62539071@helped-haddock.rooster465.autos:443?sni=helped-haddock.rooster465.autos&fp=chrome&type=tcp&path=/#IE 🇮🇪 | @Raydikalx | 0783F9
 trojan://AE62539071@helpful-possum.rooster465.autos:443?sni=helpful-possum.rooster465.autos&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 619BB1
+trojan://AE62539071@humorous-hawk.rooster465.autos:443?allowInsecure=1&sni=humorous-hawk.rooster465.autos#US 🇺🇸 | @Raydikalx | 5CFAB8
 trojan://AE62539071@humorous-llama.rooster465.autos:443?sni=humorous-llama.rooster465.autos&fp=chrome&type=tcp&path=/#AU 🇦🇺 | @Raydikalx | 22251D
 trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&sni=humorous-llama.rooster465.autos#AU 🇦🇺 | @Raydikalx | 187F3D
 trojan://AE62539071@humorous-parakeet.rooster465.autos:443?sni=humorous-parakeet.rooster465.autos&fp=chrome&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | 243151
@@ -497,6 +498,7 @@ trojan://AE62539071@worthy-labrador.rooster465.autos:443?#IE 🇮🇪 | @Raydika
 trojan://AE62539071@worthy-labrador.rooster465.autos:443?security=tls&path=/#IE 🇮🇪 | @Raydikalx | 62802D
 trojan://AE62539071@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&fp=chrome&type=tcp&path=/#IE 🇮🇪 | @Raydikalx | BB8AEA
 trojan://Aimer@167.68.4.199:2053?allowInsecure=1&host=epge.muarua.filegear-sg.me&path=/&sni=epge.muarua.filegear-sg.me&type=ws#US 🇺🇸 | @Raydikalx | D417E8
+trojan://atKbXl2I4rKzHGiRybV7fOp+OCYPz+bO@vip-us-6.hkd4fwmg.xyz:13758?allowInsecure=1&fp=chrome#US 🇺🇸 | @Raydikalx | 892C3E
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1&path=/argox-tr#CA 🇨🇦 | @Raydikalx | 8DFAE8
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&sni=87.121.218.169&type=tcp&headerType=none#DE 🇩🇪 | @Raydikalx | 938B7F
 trojan://BxceQaOe@16.162.121.244:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | 4B9309
