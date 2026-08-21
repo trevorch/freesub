@@ -1,3 +1,5 @@
+anytls://b7634b80-18e1-4dde-98f7-079b03e5a7e1@akr1.jueduibupao.top:7000?security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR009%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+anytls://b7634b80-18e1-4dde-98f7-079b03e5a7e1@asg3.jueduibupao.top:7000?security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG022%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 anytls://dongtaiwang.com@45.221.98.14:59901?security=none&type=tcp&alpn=h2&allowInsecure=1&insecure=1&udp=1#%E5%B9%BF%E6%92%AD%E6%9C%BA%E6%88%BF%2001
 anytls://fanvpn.net@anytls.864106.xyz:18001?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_375%7C278KB%2Fs%7CR002-260618%2001
 anytls://13f0acfa-38c1-4e82-a758-583aa31740df@svip.skycon808.com:60005?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=xjp18.2uuzhe.com&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%B8%F0%9F%87%AASE_17%7C242KB%2Fs%7CR002-260618%2001
