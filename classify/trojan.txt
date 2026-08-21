@@ -562,7 +562,7 @@ trojan://EQ30679154@intimate-hog.rooster465.autos:443?sni=intimate-hog.rooster46
 trojan://EQ30679154@kind-unicorn.rooster465.autos:443?security=tls&sni=kind-unicorn.rooster465.autos&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | 9068D1
 trojan://EQ30679154@liked-eft.rooster465.autos:443?sni=liked-eft.rooster465.autos&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | D65A60
 trojan://EQ30679154@modest-bat.rooster465.autos:443?allowInsecure=0&sni=modest-bat.rooster465.autos#Global 🌐 | @Raydikalx | 44CF9F
-trojan://EQ30679154@moved-bass.rooster465.autos:443?allowInsecure=0&sni=moved-bass.rooster465.autos#SG 🇸🇬 | @Raydikalx | 3B56F1
+trojan://EQ30679154@moved-bass.rooster465.autos:443?allowInsecure=0&sni=moved-bass.rooster465.autos#Global 🌐 | @Raydikalx | 3B56F1
 trojan://EQ30679154@normal-cow.rooster465.autos:443?security=tls&type=tcp&path=/#DE 🇩🇪 | @Raydikalx | D33155
 trojan://EQ30679154@normal-cow.rooster465.autos:443?sni=normal-cow.rooster465.autos&fp=chrome&type=tcp&path=/#DE 🇩🇪 | @Raydikalx | A81D3C
 trojan://EQ30679154@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 22111F
