@@ -3181,9 +3181,9 @@ trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&insecure=0&
 trojan://eb6fb64d-18c0-44d0-9ee5-f29c29194083@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?allowInsecure=1&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%E6%9C%AA%E7%9F%A5%20TROJAN-381%20%7C%20free-nodes
 trojan://eb6fb64d-18c0-44d0-9ee5-f29c29194083@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%E6%9C%AA%E7%9F%A5%20TROJAN-382%20%7C%20free-nodes
 trojan://fg20mtCFHy@128.14.181.220:5555?allowInsecure=1&sni=www.bing.com#%E6%9C%AA%E7%9F%A5%20TROJAN-383%20%7C%20free-nodes
-trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?allowInsecure=0&type=grpc#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.8MB/s
-trojan://MiTiVPN@156.243.83.240:443?sni=8373638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&allowInsecure=1&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ff-l%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8US_3%7C2.3MB/s
-trojan://humanity@104.18.152.230:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.0MB/s
+trojan://fg20mtCFHy@172.237.3.17:5443?sni=www.bing.com&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.0MB/s
+trojan://humanity@104.18.152.143:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.1MB/s
+trojan://humanity@104.16.7.70:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.3MB/s
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net

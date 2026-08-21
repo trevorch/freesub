@@ -1,5 +1,3 @@
 socks5://45.144.54.40:1080#DE 🇩🇪 | @Raydikalx | FA2724
 socks5://47.250.211.53:1080#MY 🇲🇾 | @Raydikalx | 00F223
 socks5://aed1cc24-351d-11ef-ba52-f23c9164ca5d:aed1cc24-351d-11ef-ba52-f23c9164ca5d@d7649b4f-tk7400-tlbcwm-1rfon.sj.oshuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS260%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
-socks5://144.24.111.128:1088#%F0%9F%87%AE%F0%9F%87%B3IN_1%7C1.4MB/s
-socks5://N9cyF6jvgy3ZEmCNKe04zBIR:1Telegram_MojiVPN@ch-zur.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.7MB/s
