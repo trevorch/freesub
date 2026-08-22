@@ -3,7 +3,6 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.137:8443?sni=grape
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443?sni=olp.crsmaps.com&insecure=0&allowInsecure=0#NL荷兰(ProxyGo免费节点分享)
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.137:8080?sni=grape-turbo-fr.roxa.org&insecure=0&allowInsecure=0#(ProxyGo免费节点分享)
 hysteria2://5ca83936-136d-4314-8453-4ba10a86cf60@31.76.70.78:8443?sni=quic.tyr-agentstvo.tech&insecure=0&allowInsecure=0#US美国(ProxyGo免费节点分享)
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1&sni=150.241.102.127#US 🇺🇸 | @Raydikalx | EE11CB
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | DD0EC6
 hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | 432B39
 hysteria2://085178e12d2211ec@nl.prisma-access.club:8445?sni=nl.prisma-access.club#NL 🇳🇱 | @Raydikalx | C2D4D4
@@ -20,7 +19,6 @@ hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@xby.mangshe.xyz:2056?insecure=1
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#DE 🇩🇪 | @Raydikalx | B21B99
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?sni=swe.frkn.org#SE 🇸🇪 | @Raydikalx | 62F417
 hysteria2://4e756809@92.4.68.18:12694?insecure=1&sni=www.bing.com#IN 🇮🇳 | @Raydikalx | 12FFAC
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.22.41.10:443?insecure=1#PL 🇵🇱 | @Raydikalx | 4D1D4E
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443?sni=at133.mechvpn.online#AT 🇦🇹 | @Raydikalx | 8CFCA2
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#FR 🇫🇷 | @Raydikalx | 3B7972
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443?insecure=1&sni=nl174.mechvpn.online#NL 🇳🇱 | @Raydikalx | 36C226
