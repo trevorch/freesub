@@ -846,13 +846,7 @@ hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443?insecure=1&
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.170:8443?insecure=1&sni=hopp-romania-new.roxa.org#%F0%9F%87%B7%F0%9F%87%B4RO_370%7C152KB%2Fs%7CR002-260618%2001
 hysteria2://41f4cb15-5a3f-3934-89fe-b4177146adf4@s785.sspcccdn.xyz:443?sni=u643766uc7e5bec1s783.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1544%20%7C%20free-nodes
 hysteria2://41f4cb15-5a3f-3934-89fe-b4177146adf4@[2400:e920:0:a::52]:443?sni=u643766uc7e5bec1s783.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1580%20%7C%20free-nodes
-hysteria2://Germany2026hy@45.128.99.14:8443?sni=de.nobelchat.ru&insecure=1&obfs=salamander&obfs-password=SalamanderDE2026#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.3MB/s
-hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?sni=vps.vpsv.cc&insecure=1#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.5MB/s
-hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&insecure=1&obfs=salamander&obfs-password=SalamanderNL2026#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C3.9MB/s
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?sni=che01plrhy01.tcp-reset-club.net&insecure=1#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.4MB/s
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de87.mechvpn.online:443?sni=de87.mechvpn.online&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_6%7C1.1MB/s
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443?sni=hopp-legend-se.roxa.org&insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_10%7C3.6MB/s
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?insecure=1#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C4.2MB/s
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.39.214.95:8080?sni=hopp-us.yyuyy.com&insecure=1#%F0%9F%87%B5%F0%9F%87%A6PA_1%7C4.2MB/s
 hysteria2://8f5d14ab-5baf-4d01-be50-44149497f49c@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://8f5d14ab-5baf-4d01-be50-44149497f49c@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://8f5d14ab-5baf-4d01-be50-44149497f49c@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
