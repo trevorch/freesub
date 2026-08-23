@@ -289,7 +289,7 @@ trojan://FH72359861@89.39.70.120:443?sni=pro-crane.rooster465.autos#NL 🇳🇱 
 trojan://FH72359861@alive-snapper.rooster465.autos:443?#NL 🇳🇱 | @Raydikalx | FB0D1B
 trojan://FH72359861@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | 66677C
 trojan://FH72359861@choice-worm.rooster465.autos:443?sni=choice-worm.rooster465.autos&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | 304D9F
-trojan://FH72359861@epic-iguana.rooster465.autos:443?#DE 🇩🇪 | @Raydikalx | FEE777
+trojan://FH72359861@epic-iguana.rooster465.autos:443?#Global 🌐 | @Raydikalx | FEE777
 trojan://FH72359861@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&type=tcp&path=/#PL 🇵🇱 | @Raydikalx | E620C1
 trojan://FH72359861@growing-oyster.rooster465.autos:443?sni=growing-oyster.rooster465.autos&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | F01F9F
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1#PL 🇵🇱 | @Raydikalx | C0204E
@@ -371,7 +371,7 @@ trojan://PQ05174892@87.121.33.82:443?sni=darling-mutt.rooster465.autos&type=tcp&
 trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome#NL 🇳🇱 | @Raydikalx | 623660
 trojan://PQ05174892@alert-fish.rooster465.autos:443?#DE 🇩🇪 | @Raydikalx | EFC9E2
 trojan://PQ05174892@casual-bullfrog.rooster465.autos:443?fp=chrome#NL 🇳🇱 | @Raydikalx | EA9FF6
-trojan://PQ05174892@casual-quail.rooster465.autos:443?fp=chrome#DE 🇩🇪 | @Raydikalx | 047BDD
+trojan://PQ05174892@casual-quail.rooster465.autos:443?fp=chrome#Global 🌐 | @Raydikalx | 047BDD
 trojan://PQ05174892@powerful-squid.rooster465.autos:443?fp=chrome#NL 🇳🇱 | @Raydikalx | A89E8A
 trojan://PQ05174892@rapid-firefly.rooster465.autos:443?fp=chrome#DE 🇩🇪 | @Raydikalx | 935FF9
 trojan://PQ05174892@suitable-feline.rooster465.autos:443?fp=chrome#PL 🇵🇱 | @Raydikalx | 118D44
