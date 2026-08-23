@@ -9,9 +9,6 @@ anytls://3b32eb1c-150e-4eb4-8323-370844489508@svip.skycon808.com:60005?security=
 anytls://3b32eb1c-150e-4eb4-8323-370844489508@sivp555.ascwt179.com:64088?security=tls&sni=yz13.jdddyy01.cc&insecure=1&allowInsecure=1&type=tcp&headerType=none#KR韩国(ProxyGo免费节点分享)
 anytls://3b32eb1c-150e-4eb4-8323-370844489508@xjp200.cybergalaxy.me:443?security=tls&sni=xjp200.cybergalaxy.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)
 anytls://3b32eb1c-150e-4eb4-8323-370844489508@jd-us78.y1static-content-distribution.shop:443?security=tls&sni=jd-us78.y1static-content-distribution.shop&insecure=1&allowInsecure=1&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)
-anytls://3b32eb1c-150e-4eb4-8323-370844489508@yazhouany02.downapptwo.cc:25135?security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK006%202.56MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
-anytls://3b32eb1c-150e-4eb4-8323-370844489508@yazhouany02.downapptwo.cc:41453?security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG022%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-anytls://3b32eb1c-150e-4eb4-8323-370844489508@yazhouany02.downapptwo.cc:37236?security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW005%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 anytls://3QZglKmlgzc9zBCDD5W8tQ==@45.144.136.244:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.bing.com&insecure=1&sub_tag=R002-260618&udp=1#%E9%A6%99%E6%B8%AF%20145
 anytls://dongtaiwang.com@45.221.98.14:59901?security=none&type=tcp&alpn=h2&allowInsecure=1&insecure=1&udp=1#%E5%B9%BF%E6%92%AD%E6%9C%BA%E6%88%BF%2001
 anytls://fanvpn.net@anytls.864106.xyz:18001?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%E2%9D%93Other_30%7C233KB%2Fs%7CR002-260618%2001
