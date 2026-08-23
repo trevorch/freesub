@@ -216,7 +216,6 @@ trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xijinping.19890604.day:10817?type=
 trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?type=grpc&sni=channel.v2bamdad.tech&allowInsecure=1&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX#CA 🇨🇦 | @Raydikalx | 41D694
 trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443?type=tcp&allowInsecure=1#DE 🇩🇪 | @Raydikalx | 025BE6
 trojan://6685b4eb-aa84-454a-8049-5f5d39f0d9a0@dx.xxmd.online:7004?type=tcp&allowInsecure=1#Global 🌐 | @Raydikalx | 564B13
-trojan://6fbda1e2-85e5-48dc-9fa0-21be0651aa47@gfw.cmcuct.com:22226?allowInsecure=1&sni=cos.ap-hongkong.myqcloud.com#SG 🇸🇬 | @Raydikalx | 786317
 trojan://7b0ed263-ed4d-375f-9002-a932b1da098a@19249tj.matrixxx888.com:19249?security=tls&sni=eplcgame.com#Global 🌐 | @Raydikalx | 1B763D
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&host=space.byu.id.yxls.eu.cc&path=/sg-orcl#CA 🇨🇦 | @Raydikalx | 335C1B
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=/sg-orcl&type=ws#CA 🇨🇦 | @Raydikalx | 7FCD6C
