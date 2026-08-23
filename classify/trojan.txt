@@ -977,9 +977,9 @@ trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&insecure=0&
 trojan://PQ05174892@well-jennet.rooster465.autos:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-405%20%7C%20free-nodes
 trojan://eb6fb64d-18c0-44d0-9ee5-f29c29194083@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?allowInsecure=1&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%E6%9C%AA%E7%9F%A5%20TROJAN-406%20%7C%20free-nodes
 trojan://eb6fb64d-18c0-44d0-9ee5-f29c29194083@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%E6%9C%AA%E7%9F%A5%20TROJAN-407%20%7C%20free-nodes
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20006?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C2.0MB/s
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20056?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%A9ID_1%7C3.1MB/s
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20022?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_4%7C2.9MB/s
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20006?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C2.9MB/s
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20006?sni=hk.catxstar.com&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%ADTH_3%7C2.1MB/s
+trojan://6fbda1e2-85e5-48dc-9fa0-21be0651aa47@gfw.cmcuct.com:22226?sni=cos.ap-hongkong.myqcloud.com&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C3.3MB/s
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
