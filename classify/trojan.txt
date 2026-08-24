@@ -230,6 +230,7 @@ trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?securi
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=/sg-orcl&type=ws#CA 🇨🇦 | @Raydikalx | 7FCD6C
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#NL 🇳🇱 | @Raydikalx | 8EAFB5
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | 1A1310
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20068?allowInsecure=1&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | 4C8021
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#US 🇺🇸 | @Raydikalx | 29B6B2
 trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#US 🇺🇸 | @Raydikalx | 0B5013
 trojan://acacbab-baac-abac-dcab-aacabcbcabcb@127.0.0.1:8080?security=tls&type=tcp#US 🇺🇸 | @Raydikalx | 1F08D0
@@ -282,6 +283,7 @@ trojan://MiTiVPN@104.16.117.43:443?security=tls&sni=3865udueu895-mitivpn--mitivp
 trojan://MITIVPN@104.18.152.225:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e&security=tls&alpn=http/1.1&insecure=1&host=d-e-mitivpn---MiTiVPN---MiTiVPN.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=Dee---7-MiTiVPN----o.aPp-cLoud.IR#CA 🇨🇦 | @Raydikalx | F10B75
 trojan://MiTiVPN@104.18.32.47:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/F-ls&security=tls&alpn=http/1.1&insecure=1&host=Fl--mitivpn-MiTiVPN---MiTiVPN-s-.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=fls-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR#CA 🇨🇦 | @Raydikalx | C550DE
 trojan://M%69TiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 09D667
+trojan://MiTiVPN@188.42.145.180:443?allowInsecure=1&sni=8292hjicc9473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&alpn=http/1.1&type=ws&host=8292hjicc9473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sg@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#NL 🇳🇱 | @Raydikalx | 46C2E9
 trojan://ND91608427@44.246.163.102:443?sni=fleet-bonefish.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 26272D
 trojan://ND91608427@44.246.163.102:443?fp=chrome&sni=fleet-bonefish.rooster465.autos#US 🇺🇸 | @Raydikalx | 7E7A7C
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?sni=fleet-bonefish.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | B0E922
