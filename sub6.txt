@@ -121,7 +121,7 @@ wireguard://yNyRSGV2yPsyUjLf8hP%2FatC7aWDb6GkPRlV9ShD9yX8%3D@8.6.112.111:864?add
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — LIGHT — 2253 unique configs
+# @Raydikalx — LIGHT — 2255 unique configs
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | 2373E1
 hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | 8843C6
 hysteria2://08794874-93d0-4cf2-b9d6-1f2774cdffeb@144.31.5.9:2101?insecure=1&sni=panel.vlessbotkey.ru#PL 🇵🇱 | @Raydikalx | D31C32
@@ -135,7 +135,7 @@ hysteria2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173?sni=
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808?sni=nl7.unlockvpn.online#NL 🇳🇱 | @Raydikalx | 96F3FA
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@db1.mangshe.xyz:2056?sni=db1.mangshe.xyz#AE 🇦🇪 | @Raydikalx | AB04FC
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@lsj1.mangshe.xyz:2056?insecure=1&sni=lsj1.mangshe.xyz#DK 🇩🇰 | @Raydikalx | B18A6E
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#ES 🇪🇸 | @Raydikalx | 61BF1D
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#CN 🇨🇳 | @Raydikalx | 61BF1D
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#DE 🇩🇪 | @Raydikalx | B21B99
 hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443?insecure=1&sni=node.embrofree.org#US 🇺🇸 | @Raydikalx | 370FED
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?sni=swe.frkn.org#SE 🇸🇪 | @Raydikalx | 62F417
@@ -1247,8 +1247,8 @@ vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?type=tcp&encrypt
 vless://92a4cb10-228f-4239-8c63-c566b20a9167@104.16.100.66:8880?encryption=none&host=square-waterfall-c1de.199-82d.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | 38EBF8
 vless://934f2038-17f8-4ec5-9204-8381e19fc6e3@188.114.97.6:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=TIGHT-busH-0Bb4.BSHXYyXhDJdGGb.wOrkERS.DEV&path=/eyJqdW5rIjoiVXFEMlhKZVY4dzNoTUtpZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&sni=TIGHT-busH-0Bb4.BSHXYyXhDJdGGb.wOrkERS.DEV&type=ws#CA 🇨🇦 | @Raydikalx | 3BCAAD
 vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&fp=firefox&security=tls&sni=deproxy2.lckdwn.ru&type=tcp#DE 🇩🇪 | @Raydikalx | 5C3824
-vless://93e37208-ef50-47cf-97cc-8a099b16311c@let2.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#LV 🇱🇻 | @Raydikalx | F32529
-vless://93e37208-ef50-47cf-97cc-8a099b16311c@trone.soundfiy.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#TR 🇹🇷 | @Raydikalx | 503593
+vless://93e37208-ef50-47cf-97cc-8a099b16311c@let2.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Global 🌐 | @Raydikalx | F32529
+vless://93e37208-ef50-47cf-97cc-8a099b16311c@trone.soundfiy.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Global 🌐 | @Raydikalx | 503593
 vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@104.27.82.154:8880?encryption=none&host=gentle-surf-cc74.345-604.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | C2C6CF
 vless://95994417-34bb-43e2-83f3-e5f5c2d3dad4@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#GB 🇬🇧 | @Raydikalx | FEEB53
 vless://95994417-34bb-43e2-83f3-e5f5c2d3dad4@81.163.22.15:443?encryption=none&fp=firefox&mode=gun&pbk=nc5dunLF2knU5PkMbQlklbp_tZPfOx6xuHu4mkdYPBc&security=reality&sni=max.ru&type=grpc#RU 🇷🇺 | @Raydikalx | 3F65BB
@@ -1290,7 +1290,7 @@ vless://aa9f23bc-7f19-40b5-9975-3c31b5f08892@37.9.4.128:443?alpn=h2,http/1.1&enc
 vless://acba684c-4098-4eca-f519-828b09f96464@134.33.73.249:54254?sni=apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | B57E8F
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#DE 🇩🇪 | @Raydikalx | B5C7FA
 vless://ad40a583-2d59-44ff-88cf-b5db0e1e00a7@188.114.97.6:8080?type=ws&host=edgetunnel.kalmevebto.workers.dev&path=/#CA 🇨🇦 | @Raydikalx | 1AEE7D
-vless://adc1e45e-78f9-4c4c-a127-d27401c40432@sv33.lithiumhost.ir:41722?security=&encryption=none&headerType=&type=tcp#IR 🇮🇷 | @Raydikalx | 3198D6
+vless://adc1e45e-78f9-4c4c-a127-d27401c40432@sv33.lithiumhost.ir:41722?security=&encryption=none&headerType=&type=tcp#Global 🌐 | @Raydikalx | 3198D6
 vless://af5c795d-2358-c3fd-5ece-719eebfcfb93@69.46.46.32:443?path=%2Fws%2Faf5c795d-2358-c3fd-5ece-719eebfcfb93&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=toysar-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=toysar-production.up.railway.app#US 🇺🇸 | @Raydikalx | B9C4A5
 vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=%2F145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#CA 🇨🇦 | @Raydikalx | 1149F7
 vless://af8c4c45-ed83-4d32-83af-da720be0fbef@hazel-otter-95e4.oa225cbhm3.workers.dev:443?path=%2F145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#CA 🇨🇦 | @Raydikalx | 0BB4A8
@@ -1444,6 +1444,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=g
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&type=grpc#US 🇺🇸 | @Raydikalx | 6F460B
 vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?encryption=none&host=cold-shadow-66a0.278.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#CA 🇨🇦 | @Raydikalx | 08C874
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#CA 🇨🇦 | @Raydikalx | F64C3F
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&ech=encryptedsni.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#CA 🇨🇦 | @Raydikalx | 909BC0
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%3Fed%3D512&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&ech=encryptedsni.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#CA 🇨🇦 | @Raydikalx | 7F4FC1
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=random&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#US 🇺🇸 | @Raydikalx | EF9461
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#CA 🇨🇦 | @Raydikalx | 2658BD
@@ -1696,6 +1697,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgOUI0NTRDIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgOUI5RERBIiwiYWRkIjoiMTA0LjI2LjcuMTUyIiwicG9ydCI6IjIwNTIiLCJ0eXBlIjoiYXV0byIsImlkIjoiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiY2RuMy5mcmVlZ3JhZGVseS54eXoiLCJ0bHMiOiIifQ==
 vmess://eyJhZGQiOiIxMDcuMTc1LjI0LjE0MyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Jsb2ciLCJwb3J0IjoiOTQ0NCIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgRUJCMTAwIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoidjJwLXVzLWQueXdhbmR5LnRvcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhbGxvd0luc2VjdXJlIjoxfQ==
 vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgQzgzRTUxIiwiYWRkIjoiMTA4LjE4MS4yMy4xNjEiLCJwb3J0Ijo4MDgwLCJpZCI6Ijk2OWYxOTA5LWMwZDMtNGMzMC04MTNkLTNhZWM1YzgzOGI3ZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwicGF0aCI6Ii8xSUtZalYwci8iLCJ0bHMiOiIifQ==
+vmess://eyJhZGQiOiIxMDkuMjQ4LjE2Mi4xOTQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYmQ5YjllYjUtMmIyMS00MzAzLThiZGItMjFjNmU3MTY2M2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MTkyNSIsInBzIjoiTkwg8J+Hs/Cfh7EgfCBAUmF5ZGlrYWx4IHwgRjI2ODZCIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxMDkuMjQ4LjE2Mi4xOTQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOTRlMzJiYzQtOWQzYy00ZDM5LTk4NTgtN2FkYjNhYTVjNzU0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ik5MIPCfh7Pwn4exIHwgQFJheWRpa2FseCB8IDg5ODQ2QSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxMTIuMTMyLjIxNS4xMDgiLCJhaWQiOjY0LCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDAyIiwicHMiOiJDTiDwn4eo8J+HsyB8IEBSYXlkaWthbHggfCA2RTAyRkYiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgMzg2NDNGIiwiYWRkIjoiMTIwLjIzMi4xNTMuMjciLCJwb3J0IjoiMzQwMDIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
