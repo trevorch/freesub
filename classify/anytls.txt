@@ -1,4 +1,5 @@
-anytls://3QZglKmlgzc9zBCDD5W8tQ==@45.144.136.244:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.bing.com&insecure=1&sub_tag=R002-260618&udp=1#%E9%A6%99%E6%B8%AF%20145
-anytls://dongtaiwang.com@45.221.98.14:59901?security=none&type=tcp&alpn=h2&allowInsecure=1&insecure=1&udp=1#%E5%B9%BF%E6%92%AD%E6%9C%BA%E6%88%BF%2001
-anytls://fanvpn.net@anytls.864106.xyz:18001?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%E2%9D%93Other_30%7C233KB%2Fs%7CR002-260618%2001
-anytls://13f0acfa-38c1-4e82-a758-583aa31740df@svip.skycon808.com:60005?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=xjp18.2uuzhe.com&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%B8%F0%9F%87%AASE_8%7C153KB%2Fs%7CR002-260618%2001
+anytls://29204996-a723-4291-8c70-30843b592d40@xjp200.cybergalaxy.me:443?security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%2010MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
+anytls://29204996-a723-4291-8c70-30843b592d40@tw72.cybergalaxy.me:443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW001%207.62MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
+anytls://29204996-a723-4291-8c70-30843b592d40@tw58.cybergalaxy.me:443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW002%207.61MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
+anytls://29204996-a723-4291-8c70-30843b592d40@tw71.cybergalaxy.me:443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW003%207.28MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
+anytls://29204996-a723-4291-8c70-30843b592d40@tw35.cybergalaxy.me:443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW004%206.96MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
