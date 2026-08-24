@@ -334,7 +334,7 @@ trojan://FH72359861@choice-worm.rooster465.autos:443?sni=choice-worm.rooster465.
 trojan://FH72359861@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&type=tcp&path=/#PL 🇵🇱 | @Raydikalx | E620C1
 trojan://FH72359861@growing-oyster.rooster465.autos:443?sni=growing-oyster.rooster465.autos&type=tcp&path=/#HK 🇭🇰 | @Raydikalx | F01F9F
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1#PL 🇵🇱 | @Raydikalx | C0204E
-trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#JP 🇯🇵 | @Raydikalx | 66BAB6
+trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#Global 🌐 | @Raydikalx | 66BAB6
 trojan://FH72359861@modern-bedbug.rooster465.autos:443?#HK 🇭🇰 | @Raydikalx | E8EDE8
 trojan://FH72359861@national-stingray.rooster465.autos:443?allowInsecure=1&sni=national-stingray.rooster465.autos#AU 🇦🇺 | @Raydikalx | BCF9EB
 trojan://FH72359861@national-stingray.rooster465.autos:443?security=tls&sni=national-stingray.rooster465.autos&path=/#AU 🇦🇺 | @Raydikalx | F0DA2F
