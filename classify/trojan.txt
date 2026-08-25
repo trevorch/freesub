@@ -235,11 +235,11 @@ trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tc
 trojan://acacbab-baac-abac-dcab-aacabcbcabcb@127.0.0.1:8080?security=tls&type=tcp#US 🇺🇸 | @Raydikalx | 1F08D0
 trojan://Aimer@167.68.4.199:2053?allowInsecure=1&host=epge.muarua.filegear-sg.me&path=/&sni=epge.muarua.filegear-sg.me&type=ws#US 🇺🇸 | @Raydikalx | D417E8
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1&path=/argox-tr#CA 🇨🇦 | @Raydikalx | 8DFAE8
-trojan://BxceQaOe@13.214.209.40:3878?allowInsecure=1&sni=t.me%252Fripaojiedian#SG 🇸🇬 | @Raydikalx | 903860
-trojan://BxceQaOe@18.166.63.119:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | 78A8CB
-trojan://BxceQaOe@18.183.103.86:4117?allowInsecure=1&sni=t.me%2Fripaojiedian#JP 🇯🇵 | @Raydikalx | 81CD32
-trojan://BxceQaOe@18.183.103.86:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#JP 🇯🇵 | @Raydikalx | D3C151
-trojan://BxceQaOe@54.179.227.94:34039?allowInsecure=1&sni=t.me%2Fripaojiedian#SG 🇸🇬 | @Raydikalx | 4D7B94
+trojan://BxceQaOe@18.163.118.157:10418?allowInsecure=1&sni=t.me%2Fripaojiedian#HK 🇭🇰 | @Raydikalx | FA13E8
+trojan://BxceQaOe@18.181.83.46:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#JP 🇯🇵 | @Raydikalx | 4F0A92
+trojan://BxceQaOe@43.206.117.36:1103?allowInsecure=1&sni=t.me%2Fripaojiedian#JP 🇯🇵 | @Raydikalx | BBD509
+trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#HK 🇭🇰 | @Raydikalx | D42E43
+trojan://BxceQaOe@95.40.27.43:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#HK 🇭🇰 | @Raydikalx | B30195
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?type=tcp&allowInsecure=1#GB 🇬🇧 | @Raydikalx | BA6EA0
 trojan://dT6h9HBwQO@139.59.108.29:31313?security=tls&sni=m.linkedin.us&type=tcp#SG 🇸🇬 | @Raydikalx | DD17F3
 trojan://e2486b91-71a6-421b-9d53-3c080fb0edb8@es-full.privateip.net:443?type=tcp&allowInsecure=1#DE 🇩🇪 | @Raydikalx | F62BCD
