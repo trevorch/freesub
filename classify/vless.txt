@@ -753,7 +753,7 @@ vless://27315937-5479-49fd-867d-6b2f17246708@199.232.78.159:443?encryption=none&
 vless://27315937-5479-49fd-867d-6b2f17246708@199.232.78.159:443?sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053fp=chrome&security=tls#US 🇺🇸 | @Raydikalx | 295175
 vless://283665ab-54c2-4c59-ac55-5e8388558eba@188.114.97.6:8080?type=ws&host=27l432tlhnpcojr6u0d3.adfasdfadfasdf.workers.dev&path=/vl/oCCSZfAWhGqcVO3WOEnIPj9Z9ke?ed#CA 🇨🇦 | @Raydikalx | 74A95C
 vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@91.227.77.126:2087?encryption=none&security=none&type=tcp&headerType=http&host=/#BG 🇧🇬 | @Raydikalx | FFA34A
-vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encryption=none&headerType=http&host=/&security=none&type=tcp#BG 🇧🇬 | @Raydikalx | 593702
+vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encryption=none&headerType=http&host=/&security=none&type=tcp#US 🇺🇸 | @Raydikalx | 593702
 vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@170.168.99.5:8443?mode=gun&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#DE 🇩🇪 | @Raydikalx | 756FC4
 vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?mode=gun&security=reality&encryption=none&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=grpc&serviceName=TunService&sni=download.nvidia.com#FI 🇫🇮 | @Raydikalx | 97B3E0
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#MY 🇲🇾 | @Raydikalx | BACC24
