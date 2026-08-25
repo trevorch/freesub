@@ -34,7 +34,6 @@ hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.n
 hysteria2://91283e34-8674-4961-b202-c3491b72eeb9@144.24.109.215:51000?insecure=1&sni=cn.cremedelamer.com#IN 🇮🇳 | @Raydikalx | 3EE9F2
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@143.246.208.86:8443?insecure=1&sni=iq5ny.pleiades.codes#US 🇺🇸 | @Raydikalx | A836A5
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443?insecure=1&sni=iq5ny.pleiades.codes#SG 🇸🇬 | @Raydikalx | C948FD
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?insecure=1&sni=iq5ny.pleiades.codes#SG 🇸🇬 | @Raydikalx | F56E58
 hysteria2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#SG 🇸🇬 | @Raydikalx | 0D1639
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.105:8080?insecure=1&sni=mercedes-grape.yyuyy.com#GB 🇬🇧 | @Raydikalx | 3196AD
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.108:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#GB 🇬🇧 | @Raydikalx | 401FD0
