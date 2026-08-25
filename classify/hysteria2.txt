@@ -38,7 +38,7 @@ hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@str
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@185.191.238.202:443?insecure=1&sni=che01plrhy01.tcp-reset-club.net#CH 🇨🇭 | @Raydikalx | CEC36D
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@37.46.199.229:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#DE 🇩🇪 | @Raydikalx | 63B58D
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?insecure=1&sni=che01plrhy01.tcp-reset-club.net#CH 🇨🇭 | @Raydikalx | 791737
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#DE 🇩🇪 | @Raydikalx | A05396
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#Global 🌐 | @Raydikalx | A05396
 hysteria2://91283e34-8674-4961-b202-c3491b72eeb9@144.24.109.215:51000?insecure=1&sni=cn.cremedelamer.com#IN 🇮🇳 | @Raydikalx | 3EE9F2
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@143.246.208.86:8443?insecure=1&sni=iq5ny.pleiades.codes#US 🇺🇸 | @Raydikalx | A836A5
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443?insecure=1&sni=iq5ny.pleiades.codes#SG 🇸🇬 | @Raydikalx | C948FD
