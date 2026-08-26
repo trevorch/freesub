@@ -94,8 +94,6 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080?insecure=
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#DE 🇩🇪 | @Raydikalx | 480435
 hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&sni=www.cloudflare.com#DE 🇩🇪 | @Raydikalx | 5BAA79
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#DE 🇩🇪 | @Raydikalx | CE4C6B
-hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52009?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt#FI 🇫🇮 | @Raydikalx | 86171E
-hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=txwr28j1lntoy0sj#FI 🇫🇮 | @Raydikalx | 506ACB
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?insecure=1&sni=germany3.h2corp.local#DE 🇩🇪 | @Raydikalx | BC4ABB
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=germany3.h2corp.local#DE 🇩🇪 | @Raydikalx | 8EB60A
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#DE 🇩🇪 | @Raydikalx | F4B200
