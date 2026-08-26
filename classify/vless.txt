@@ -920,7 +920,7 @@ vless://dad0e98e-0671-4c76-bf07-e2d38d1c96ed@5.42.120.224:7443?type=xhttp&securi
 vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@128.1.12.19:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#HK 🇭🇰 | @Raydikalx | 0BCB4A
 vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@109.69.17.228:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&security=reality&sid=b2ba734eff38baa9&sni=bzzru.hat.apruxdomain.space&type=raw#RU 🇷🇺 | @Raydikalx | C9A050
 vless://dda40179-f8b0-44a1-9926-bb64e7a767a7@170.64.154.27:20651?security=none&encryption=none&headerType=none&type=tcp#AU 🇦🇺 | @Raydikalx | 45BDB9
-vless://de221fe4-be98-4e42-a9e3-1a373dfa8662@iman.dexterr.ir:42314?security=reality&encryption=none&pbk=LPViwfCMM74xqoaSY7ZIO38CYQrLIlDgRMowiuhyKWs&headerType=none&fp=firefox&spx=%2F83435e744b592a5&type=tcp&sni=play.google.com&sid=52bdf8ea99#Global 🌐 | @Raydikalx | 992756
+vless://de221fe4-be98-4e42-a9e3-1a373dfa8662@iman.dexterr.ir:42314?security=reality&encryption=none&pbk=LPViwfCMM74xqoaSY7ZIO38CYQrLIlDgRMowiuhyKWs&headerType=none&fp=firefox&spx=%2F83435e744b592a5&type=tcp&sni=play.google.com&sid=52bdf8ea99#DE 🇩🇪 | @Raydikalx | 992756
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#FR 🇫🇷 | @Raydikalx | B17691
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#FR 🇫🇷 | @Raydikalx | 2B9AC3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40PLANB_PROXY&fp=chrome&type=grpc#DE 🇩🇪 | @Raydikalx | 7E1701
