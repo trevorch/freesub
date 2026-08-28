@@ -658,8 +658,7 @@ trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&ty
 trojan://eb6fb64d-18c0-44d0-9ee5-f29c29194083@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?allowInsecure=1&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%E6%9C%AA%E7%9F%A5%20TROJAN-437%20%7C%20free-nodes
 trojan://eb6fb64d-18c0-44d0-9ee5-f29c29194083@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%E6%9C%AA%E7%9F%A5%20TROJAN-438%20%7C%20free-nodes
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#%E6%9C%AA%E7%9F%A5%20TROJAN-439%20%7C%20free-nodes
-trojan://e20fd145-65f1-4aa3-96be-da0524bbb16e@us003.421421.xyz:20230?sni=www.alibaba.com&allowInsecure=1&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8US_14%7C2.5MB/s
-trojan://ba19c9d6-3fc0-4085-9f47-465c5d7cceef@108.162.198.99:443?sni=ajp.hyas.space&allowInsecure=0&type=ws&path=%2Fx7f9k2m4p8#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.0MB/s
+trojan://HOrViv@209.248.32.117:28102?sni=ctldl.windowsupdate.com&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C1.3MB/s
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://8f5d14ab-5baf-4d01-be50-44149497f49c@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
