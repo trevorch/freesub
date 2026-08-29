@@ -1125,6 +1125,7 @@ trojan://HOrViv@209.248.32.117:28104?sni=ctldl.windowsupdate.com&allowInsecure=1
 trojan://HOrViv@209.248.32.117:28105?sni=ctldl.windowsupdate.com&type=tcp#HK 🇭🇰 | @Raydikalx | 8463AC
 trojan://HOrViv@209.248.32.117:28110?sni=download.windowsupdate.com&allowInsecure=1&type=tcp#HK 🇭🇰 | @Raydikalx | BB318F
 trojan://HOrViv@209.248.32.117:28126?sni=ctldl.windowsupdate.com&type=tcp#HK 🇭🇰 | @Raydikalx | CFF60B
+trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | F04C3F
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 4CF504
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 736B50
 trojan://humanity@104.16.7.70:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#CA 🇨🇦 | @Raydikalx | D3E0F2
@@ -1152,17 +1153,16 @@ trojan://humanity@166.1.36.83:443?type=ws&host=www.calmlunch.com&path=/assignmen
 trojan://humanity@168.100.9.178:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#NL 🇳🇱 | @Raydikalx | 0DEDDB
 trojan://humanity@172.64.150.28:443?sni=www.calmlunch.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#CA 🇨🇦 | @Raydikalx | 90531C
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#CA 🇨🇦 | @Raydikalx | 81B423
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 998BAD
 trojan://humanity@172.67.200.219:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#CA 🇨🇦 | @Raydikalx | 1152D1
 trojan://humanity@172.67.221.242:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | F38DE8
 trojan://humanity@185.114.72.31:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ES 🇪🇸 | @Raydikalx | EF4486
 trojan://humanity@185.18.250.245:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=random#ES 🇪🇸 | @Raydikalx | 378280
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ES 🇪🇸 | @Raydikalx | D6C206
 trojan://humanity@185.220.100.168:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#DE 🇩🇪 | @Raydikalx | 23DF85
 trojan://humanity@185.225.68.232:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#HU 🇭🇺 | @Raydikalx | 589D32
 trojan://humanity@185.36.141.81:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EE 🇪🇪 | @Raydikalx | 247103
 trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#CA 🇨🇦 | @Raydikalx | 9BA09D
 trojan://humanity@188.114.97.6:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#CA 🇨🇦 | @Raydikalx | ADE861
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 0B0F91
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | 40DA7F
 trojan://humanity@191.96.94.226:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#DE 🇩🇪 | @Raydikalx | 219924
 trojan://humanity@193.239.160.134:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#BG 🇧🇬 | @Raydikalx | 49530A
