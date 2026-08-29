@@ -108,12 +108,12 @@ trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@43.165.185.191:50000?sni=jp200m.ji
 trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | C58E82
 trojan://24ef7cf6-9997-4886-9ef7-9e8233c6766f@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | D66F13
 trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 836748
-trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=android#JP 🇯🇵 | @Raydikalx | 0BFA75
+trojan://5259333f-7f21-47a1-80fa-2a0c23db8e4f@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 0BFA75
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net&allowInsecure=1&type=tcp&fp=chrome#MY 🇲🇾 | @Raydikalx | 7F07F8
 trojan://d9ac7c6d-9ca8-4e1b-af9f-d268f69249b5@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | B0218E
 trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=/tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#CA 🇨🇦 | @Raydikalx | 40547F
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=%2Fsync&fp=chrome#IR 🇮🇷 | @Raydikalx | 51B2BD
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@89.116.180.49:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=%2Fsync&fp=chrome#UA 🇺🇦 | @Raydikalx | 2BFCF2
+trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=/sync&fp=chrome#IR 🇮🇷 | @Raydikalx | 51B2BD
+trojan://f18d6149-e214-8554-e737-f7523c8b2eea@89.116.180.49:443?sni=0403.infinityconfig4.workers.dev&type=ws&path=/sync&fp=chrome#UA 🇺🇦 | @Raydikalx | 2BFCF2
 trojan://fd3f82cc-bf25-4d3a-a379-09834800ade9@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | CF3B99
 trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#CA 🇨🇦 | @Raydikalx | 8BEFD8
 trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#US 🇺🇸 | @Raydikalx | FB0008
@@ -124,6 +124,8 @@ trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | 40DA7F
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#SC 🇸🇨 | @Raydikalx | 0EF0CF
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment&allow_insecure=0#CA 🇨🇦 | @Raydikalx | 2D6307
+trojan://MITIVPN@104.18.42.68:443?security=tls&sni=Ussa1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#CA 🇨🇦 | @Raydikalx | A250A4
+trojan://MITIVPN@151.101.243.172:80?#IT 🇮🇹 | @Raydikalx | E6F6D4
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&encryption=none&sni=russiapower.accesscam.org&fp=chrome&type=tcp&path=/&allow_insecure=0#EE 🇪🇪 | @Raydikalx | 762931
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com&type=tcp&headerType=none#KZ 🇰🇿 | @Raydikalx | 44ED47
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87

@@ -20,12 +20,18 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.111:8443?insecure=1
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#US 🇺🇸 | @Raydikalx | 71EE3B
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.2#US 🇺🇸 | @Raydikalx | D8B0B3
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#US 🇺🇸 | @Raydikalx | 515331
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#US 🇺🇸 | @Raydikalx | EDF52E
+hysteria2://BWAFlp8g53@72.56.102.31:443?insecure=1#NL 🇳🇱 | @Raydikalx | E7F90A
+hysteria2://BWAFlp8g53@72.56.102.31:443?insecure=1&sni=72.56.102.31#NL 🇳🇱 | @Raydikalx | E600C1
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1&sni=hys28.wba-pn.ru#NL 🇳🇱 | @Raydikalx | 199F42
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#FI 🇫🇮 | @Raydikalx | D3E813
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1#NL 🇳🇱 | @Raydikalx | 1316BB
+hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#NL 🇳🇱 | @Raydikalx | 874A31
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | B50285
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#FR 🇫🇷 | @Raydikalx | A8689B
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | 82CA57
+hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443?insecure=1&sni=kaz0001hy01.packet-drop-society.net#KZ 🇰🇿 | @Raydikalx | 863626
+hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@kaz0001hy01.packet-drop-society.net:443?insecure=1&sni=kaz0001hy01.packet-drop-society.net#KZ 🇰🇿 | @Raydikalx | 21803A
 hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443?insecure=1&sni=hys34.wba-pn.ru#NL 🇳🇱 | @Raydikalx | EAA958
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443?insecure=1&sni=hy2-germany.unlimited-access.ru#UA 🇺🇦 | @Raydikalx | CD8201
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443?insecure=1&sni=hy2-germany.unlimited-access.ru#UA 🇺🇦 | @Raydikalx | 7A7064
@@ -76,7 +82,8 @@ hysteria2://wrSuBorIlf@hys9.wba-pn.ru:443?sni=hys9.wba-pn.ru#NL 🇳🇱 | @Rayd
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#PL 🇵🇱 | @Raydikalx | A6D963
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1#PL 🇵🇱 | @Raydikalx | FB4FB7
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#RU 🇷🇺 | @Raydikalx | 2BFDAD
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https%253a%252f%252fwww.calmloud.com#DE 🇩🇪 | @Raydikalx | A3ECD1
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1#DE 🇩🇪 | @Raydikalx | A3ECD1
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | C4F82A
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=www.calmloud.com#DE 🇩🇪 | @Raydikalx | 91EC3F
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
