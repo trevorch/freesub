@@ -1,5 +1,6 @@
-hysteria2://a34f3990b69f44bfa0d32385@152.69.173.189:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385&mport=20000-30000#AU澳大利亚(ProxyGo免费节点分享)
+hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443?sni=fin14qr.wwwinternetvideo.click#US美国(ProxyGo免费节点分享)
 hysteria2://523486c6-c0b5-4e5b-8896-4af2375b41cc@31.76.70.107:8443?sni=quic.tyr-agentstvo.tech&insecure=1#US美国(ProxyGo免费节点分享)
+hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?sni=150-230-252-217.liao.kdns.fr&insecure=1#KR韩国(ProxyGo免费节点分享)
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | 2373E1
 hysteria2://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.76.4.128:5002?sni=fi.aeternavpn.space#CH 🇨🇭 | @Raydikalx | D793E3
 hysteria2://1206bad5-dcc9-410e-9595-d9fe9ee54085@80.96.109.223:5001?sni=special.aeternavpn.space#MD 🇲🇩 | @Raydikalx | 6C95C0
