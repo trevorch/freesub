@@ -1,9 +1,11 @@
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click&insecure=1#US美国(ProxyGo免费节点分享)
 hysteria2://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.76.4.128:5002?sni=fi.aeternavpn.space#US美国(ProxyGo免费节点分享)
-hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52020?obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&sni=giftcard.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 4E1711
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52024?obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&sni=giftcard.gateway-stream.com#FI 🇫🇮 | @Raydikalx | 77649B
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#US 🇺🇸 | @Raydikalx | 71EE3B
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.2#US 🇺🇸 | @Raydikalx | D8B0B3
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#US 🇺🇸 | @Raydikalx | D31C11
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#US 🇺🇸 | @Raydikalx | 515331
-hysteria2://bfab079f-6028-4e80-b4d8-f7ba0871cbf8@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#JP 🇯🇵 | @Raydikalx | 72EE6C
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#US 🇺🇸 | @Raydikalx | EDF52E
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#US 🇺🇸 | @Raydikalx | 6BCE08
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=159.223.157.129#US 🇺🇸 | @Raydikalx | 045CA2
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#US 🇺🇸 | @Raydikalx | EDC48F
