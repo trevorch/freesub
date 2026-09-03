@@ -1,5 +1,6 @@
-anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@jpglobal-identity-federation-auth.younai-ytl.shop:12791?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp10.pulsarcore.site&insecure=1&udp=1#JP 🇯🇵 | @Raydikalx | F5D5D3
-anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@tw73.cybergalaxy.me:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=tw73.cybergalaxy.me&insecure=1&udp=1#TW 🇹🇼 | @Raydikalx | 45C3DE
+anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@as-de003.y1static-content-distribution.shop:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=as-de003.y1static-content-distribution.shop&insecure=1&udp=1#DE 🇩🇪 | @Raydikalx | 729442
+anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@tw73.cybergalaxy.me:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=tw73.cybergalaxy.me&insecure=1&udp=1&username=bd54ceae-9b5c-477d-b364-ffd8e5c734a7#TW 🇹🇼 | @Raydikalx | 45C3DE
+anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30&insecure=1&udp=1#DE 🇩🇪 | @Raydikalx | 66E6DE
 anytls://29204996-a723-4291-8c70-30843b592d40@yzany01.downapptwo.cc:27631?security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%2012.79MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 anytls://29204996-a723-4291-8c70-30843b592d40@jpglobal-identity-federation-auth.younai-ytl.shop:12791?security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP001%206.27MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 anytls://29204996-a723-4291-8c70-30843b592d40@test01.y1static-content-distribution.shop:56726?security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK002%204.21MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
