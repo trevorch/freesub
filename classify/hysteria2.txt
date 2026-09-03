@@ -840,11 +840,8 @@ hysteria2://036c648f927d4d86a82dcf629db8cbe1@jackvpn21.mooo.com:31603?sni=jackvp
 hysteria2://roHGfFC3taQI2TDiW6n_WRIcT76jAHVM@144.172.68.131:1995?insecure=1&sni=ios.drujbapark.site#%F0%9F%87%B3%F0%9F%87%B1NL_357%7C698KB%2Fs%7CA004-260618%2001
 hysteria2://41f4cb15-5a3f-3934-89fe-b4177146adf4@[2400:e920:0:a::52]:18153?sni=u643766u1fcc598es783.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1428%20%7C%20free-nodes
 hysteria2://41f4cb15-5a3f-3934-89fe-b4177146adf4@s785.uugfw.top:18153?sni=u643766u1fcc598es783.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-1437%20%7C%20free-nodes
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?sni=hopp-germany-new.ddnsguru.com&insecure=1#%F0%9F%87%B7%F0%9F%87%B4RO_1%7C3.5MB/s
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@msjp.mangshe.xyz:20562?sni=www.microsoft.com&insecure=1#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.4MB/s
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.149:8443?sni=grape-turbo-fr.roxa.org&insecure=1#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C2.7MB/s
-hysteria2://tnnls%3Ab735eacd-3ca7-4019-b98c-3559918100e6@bwdf2fnt.xn--e1aatfr8bwa.online:30000?sni=bwdf2fnt.xn--e1aatfr8bwa.online&insecure=0&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81#%F0%9F%87%BA%F0%9F%87%B8US_18%7C1016KB/s
-hysteria2://dffb4c3d-1e84-4938-8881-cad917e8efb2@de1.apexvpn.space:443?sni=de1.apexvpn.space&insecure=0#%F0%9F%87%A9%F0%9F%87%AADE_3%7C2.0MB/s
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?sni=hopp-germany-new.ddnsguru.com&insecure=1#%F0%9F%87%B7%F0%9F%87%B4RO_3%7C3.4MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?sni=vpn-uk-001.fastervpn.world&insecure=1#%F0%9F%87%AC%F0%9F%87%A7GB_8%7C4.8MB/s
 hysteria2://8f5d14ab-5baf-4d01-be50-44149497f49c@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://8f5d14ab-5baf-4d01-be50-44149497f49c@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://8f5d14ab-5baf-4d01-be50-44149497f49c@v4sg6.stableq.top:45103?sni=v4sg6.stableq.top&insecure=0&obfs=salamander&obfs-password=9noYJA0bODeBONED#%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%82%E7%82%B90601%20%7C%201%E5%80%8D%E7%8E%87
