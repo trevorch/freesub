@@ -341,19 +341,18 @@ trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v1in2.stableq.top:24408?allowInsec
 trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
 trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@vf3us9.stableq.top:24422?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90902%20%7C%201%E5%80%8D%E7%8E%87
 trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@vf3us9.stableq.top:24413?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90903%20%7C%201%E5%80%8D%E7%8E%87
-trojan://136a3686-892c-4d09-8937-eacdf688810d@38.55.199.26:50000?type=tcp&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 70C94B
-trojan://136a3686-892c-4d09-8937-eacdf688810d@hk200m.jiasu.asia:50000?type=tcp&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | DA78B3
-trojan://1c4c996a-b2a7-48d9-a0d6-1e55f684ea71@hk200m.jiasu.asia:50000?#HK 🇭🇰 | @Raydikalx | AB6F91
-trojan://25b257e3-5d7b-47e8-af9d-1925e032196f@38.55.199.26:50000?type=tcp&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 485FE1
-trojan://2824a319-79c7-4c31-84b7-6455c58fa1b7@hk200m.jiasu.asia:50000?type=tcp&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 092777
-trojan://385f4df4-2fef-4d24-82d2-bb73eb9c1506@38.55.199.26:50000?type=tcp&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | B2CE6A
-trojan://a1025bfc-209b-4e03-9a07-17ec498e630b@38.55.199.26:50000?type=tcp&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 74336A
-trojan://a1025bfc-209b-4e03-9a07-17ec498e630b@hk200m.jiasu.asia:50000?type=tcp&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | 1E74BE
-trojan://a159cf23-8f9b-4ecb-a7c5-4658b4161627@hk200m.jiasu.asia:50000?#HK 🇭🇰 | @Raydikalx | A2EE59
+trojan://481b5768-a154-4086-9a48-b2b3e787c9dc@43.165.185.191:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | B1593F
+trojan://481b5768-a154-4086-9a48-b2b3e787c9dc@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia#JP 🇯🇵 | @Raydikalx | B08F8D
+trojan://5cd930f7-0c06-4b52-90e4-977c3e7720bc@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 592DDD
+trojan://5cd930f7-0c06-4b52-90e4-977c3e7720bc@jp200m.jiasu.asia:50000?type=tcp&sni=jp200m.jiasu.asia#JP 🇯🇵 | @Raydikalx | 807A33
+trojan://a68f2c6c-3525-4050-9129-8759e4327660@43.165.185.191:50000?sni=jp200m.jiasu.asia&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | F67ACD
+trojan://a68f2c6c-3525-4050-9129-8759e4327660@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 320CE8
+trojan://acaadfd9-629d-499d-88b6-d5bc1a3f6337@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=/#JP 🇯🇵 | @Raydikalx | 215098
+trojan://acaadfd9-629d-499d-88b6-d5bc1a3f6337@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | FB2DDA
 trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#HU 🇭🇺 | @Raydikalx | 7B56F3
 trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#HU 🇭🇺 | @Raydikalx | 6282CA
 trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#HU 🇭🇺 | @Raydikalx | 95ADE3
-trojan://fffad0cc-24dd-4398-a80f-949632a1f153@hk200m.jiasu.asia:50000?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=hk200m.jiasu.asia#HK 🇭🇰 | @Raydikalx | DF0DDF
+trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#CA 🇨🇦 | @Raydikalx | DE5155
 trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | F04C3F
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 4CF504
 trojan://humanity@104.16.174.14:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | 46DF01
@@ -361,6 +360,7 @@ trojan://humanity@104.16.174.34:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 736B50
 trojan://humanity@104.16.174.37:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#CA 🇨🇦 | @Raydikalx | CECC4E
 trojan://humanity@104.16.174.46:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | B1B507
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | 8B60FE
 trojan://humanity@104.17.111.1:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | 189545
 trojan://humanity@104.18.152.108:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 572F02
 trojan://humanity@104.18.152.140:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | B7F596
@@ -370,25 +370,43 @@ trojan://humanity@104.18.152.219:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | BC7FA4
 trojan://humanity@104.18.152.50:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | 7CAC38
 trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | 772F3B
+trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | BC3972
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA 🇨🇦 | @Raydikalx | 8BEFD8
+trojan://humanity@104.21.103.254:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&alpn=http/1.1#CA 🇨🇦 | @Raydikalx | FEA7B7
+trojan://humanity@104.21.33.59:443?security=tls&sni=www.pleadcourt.org&fp=unsafe&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&type=ws&host=www.pleadcourt.org&path=/assignment#CA 🇨🇦 | @Raydikalx | 21CB16
 trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | CB46D2
 trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | 28152B
+trojan://humanity@165.215.250.14:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#US 🇺🇸 | @Raydikalx | 5DCA9D
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#US 🇺🇸 | @Raydikalx | 53A455
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#US 🇺🇸 | @Raydikalx | 4302AF
+trojan://humanity@168.100.9.178:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#NL 🇳🇱 | @Raydikalx | 0DEDDB
+trojan://humanity@185.114.72.31:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ES 🇪🇸 | @Raydikalx | EF4486
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#DE 🇩🇪 | @Raydikalx | 23DF85
+trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#DE 🇩🇪 | @Raydikalx | 16D660
 trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&fp=android#AL 🇦🇱 | @Raydikalx | DAD551
+trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#CA 🇨🇦 | @Raydikalx | 40DA7F
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#NL 🇳🇱 | @Raydikalx | 04B0F1
+trojan://humanity@212.227.144.37:8443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ES 🇪🇸 | @Raydikalx | CE7F70
+trojan://humanity@213.182.199.137:443?alpn=http/1.1&fp=chrome&host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws#ES 🇪🇸 | @Raydikalx | E06463
+trojan://humanity@45.205.0.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#US 🇺🇸 | @Raydikalx | 31C110
+trojan://humanity@46.102.156.144:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#AT 🇦🇹 | @Raydikalx | 31DFD4
+trojan://humanity@5.78.92.27:8443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#US 🇺🇸 | @Raydikalx | 137835
+trojan://humanity@80.77.25.142:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EE 🇪🇪 | @Raydikalx | 41F09C
+trojan://humanity@82.117.245.125:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#DE 🇩🇪 | @Raydikalx | 11F582
+trojan://humanity@88.99.189.60:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#DE 🇩🇪 | @Raydikalx | 0E10CF
+trojan://humanity@91.245.225.79:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#CH 🇨🇭 | @Raydikalx | 85CFB5
+trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#CA 🇨🇦 | @Raydikalx | 5D7CA9
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&alpn=http/1.1&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | 721591
 trojan://humanity@www.speedtest.org:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#CA 🇨🇦 | @Raydikalx | E377F1
 trojan://M7v%w11Se*@34.131.228.210:443?allowInsecure=1&sni=hyfuuf6.wsone.icu#IN 🇮🇳 | @Raydikalx | 2FFEAB
-trojan://M7v%w11Se*@34.94.125.227:443?type=tcp&security=tls&fp=chrome&sni=mxlo.wsone.icu#US 🇺🇸 | @Raydikalx | 0482D8
-trojan://MiTiVPN@151.101.56.7:443?alpn=http/1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=@mehrosaboran&sni=ssl.fastly.com&type=ws#US 🇺🇸 | @Raydikalx | 6CDE58
+trojan://MiTiVPN@151.101.56.7:443?alpn=http/1.1&fp=firefox&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=@mehrosaboran&sni=ssl.fastly.com&type=ws#US 🇺🇸 | @Raydikalx | 6CDE58
 trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 680D5D
-trojan://MiTiVPN@151.101.56.7:443?fp=chrome&sni=ssl.fastly.com&alpn=http/1.1&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=@VPNine1&type=ws&insecure=0&security=tls&allowInsecure=0#US 🇺🇸 | @Raydikalx | 6A0013
-trojan://MiTiVPN@151.101.56.7:443?path=@bored_vpn&security=tls&alpn=http/1.1&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 9190B8
+trojan://MiTiVPN@151.101.56.7:443?path=/---TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 2F188E
 trojan://M%69TiVPN@151.101.56.7:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=m%69tivpn-m%69tivpn-m%69tivpn--m%69tivpn-m%69tivpn--m%69tivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | AB05C2
 trojan://MiTiVPN@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | F01972
 trojan://MiTiVPN@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 6A0F72
 trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http/1.1&path=/#GB 🇬🇧 | @Raydikalx | 6F7D86
 trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&alpn=http/1.1&fp=firefox#GB 🇬🇧 | @Raydikalx | 68F31F
-trojan://tsuchiya@161.34.39.108:443?fp=chrome&security=tls&sni=aa.ccmusic.jp&type=raw#JP 🇯🇵 | @Raydikalx | 3BBD99
-trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&sni=aa.ccmusic.jp#JP 🇯🇵 | @Raydikalx | E54CDD
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.2MB/s
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
