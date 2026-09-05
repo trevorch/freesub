@@ -13,6 +13,7 @@ anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@svip.skycon808.com:35311?security=
 anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@jpglobal-identity-federation-auth.younai-ytl.shop:13483?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=kr02.lunartrace.io&insecure=1&sub_tag=P002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_979%7C414KB%2Fs%7CP002-260618%2001
 anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@svip.skycon808.com:49380?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=us08.pulsarcore.site&insecure=1&sub_tag=P002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_1003%7C192KB%2Fs%7CP002-260618%2001
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%204.71MB%2Fs%20TG%40jcnode
+anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30&insecure=1&udp=1#DE 🇩🇪 | @Raydikalx | 66E6DE
 anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@yazhouany02.downapptwo.cc:37236?insecure=1&security=tls&sni=tw16.swiftrelay.cc&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)
 anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@yazhouany02.downapptwo.cc:16955?insecure=1&security=tls&sni=taiguo02.swiftrelay.cc&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)
 anytls://bd54ceae-9b5c-477d-b364-ffd8e5c734a7@yazhouany02.downapptwo.cc:53991?insecure=1&security=tls&sni=jp03.pulsarcore.site&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)
