@@ -5,4 +5,3 @@ anytls://9e98496a-0036-4cc6-8302-3929c29ba772@iijjp.mggl.wang:35791?security=tls
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%A9%F0%9F%87%AADE_134%7C1.1MB%2Fs%7CR002-260618%2001
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%204.71MB%2Fs%20TG%40jcnode
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30&insecure=1&udp=1#DE 🇩🇪 | @Raydikalx | 66E6DE
-anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?insecure=1&security=tls&sni=cn.bing.com&type=tcp&headerType=none#DE德国(ProxyGo免费节点分享)
