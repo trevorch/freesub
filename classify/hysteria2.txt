@@ -775,9 +775,10 @@ hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45607?sni=v
 hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45703?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=Jp47s2DVexsPg1Lt#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93007%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45802?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=T3n2MIpDvdZn16TQ#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93008%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45902?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=hvhFznkNqHceM7ct#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93009%20%7C%201%E5%80%8D%E7%8E%87
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#US 🇺🇸 | @Raydikalx | 6BCE08
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=159.223.157.129#US 🇺🇸 | @Raydikalx | 045CA2
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https%2525253a%2525252f%2525252fwww.calmloud.com#DE 🇩🇪 | @Raydikalx | A3ECD1
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#US 🇺🇸 | @Raydikalx | EDF52E
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#FR 🇫🇷 | @Raydikalx | 99DEFF
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https%25253a%25252f%25252fwww.calmloud.com#DE 🇩🇪 | @Raydikalx | A3ECD1
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | C4F82A
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?sni=google.com&insecure=1#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C1.4MB/s
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@msjp.mangshe.xyz:20562?sni=www.microsoft.com&insecure=1#%E2%9D%93Other_1%7C1.2MB/s
 hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&insecure=0&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C1.3MB/s
