@@ -406,9 +406,10 @@ trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&a
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#CA 🇨🇦 | @Raydikalx | E377F1
 trojan://M7v%w11Se*@34.131.228.210:443?sni=hyfuuf6.wsone.icu&allowInsecure=1&type=tcp#IN 🇮🇳 | @Raydikalx | 2FFEAB
 trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?allowInsecure=1&sni=hyfuuf6.wsone.icu#IN 🇮🇳 | @Raydikalx | 77909E
-trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?sni=taobao.com&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.3MB/s
-trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10009?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%ABAF_1%7C3.3MB/s
-trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-sg2.6send.com:10046?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%B2%F0%9F%87%B2MM_1%7C4.7MB/s
+trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10012?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%A9SD_1%7C3.5MB/s
+trojan://humanity@216.24.57.7:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.4MB/s
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?sni=taobao.com&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C4.0MB/s
+trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10009?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%ABAF_1%7C3.5MB/s
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@fr1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
