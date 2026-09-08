@@ -629,10 +629,6 @@ trojan://Telegram_healer_config@188.114.97.8:443?path=/tr/SniOCmVMzIWOA1FDZDeGOD
 trojan://Telegram_healer_config@uh-e03ojzgq4ev7yy7b.6v46fk4wd2y8l5p2xtd.workers.dev:443?alpn=http/1.1&fp=chrome&path=/tr/iXLpDGAew6fKEQeQY84txlnklnRciaQ?ed=2560&security=tls&sni=uH-E03OjZGQ4EV7yy7b.6V46fk4wd2Y8l5p2XTD.WORkErS.Dev&type=ws#CA 🇨🇦 | @Raydikalx | C25B04
 trojan://Telegram_healer_config@www.speedtest.net:443?sni=jfw5Fii30i7-sc560AVFNfNH613.i6JSQ7Mr66E-e14trd.wOrkeRs.dev&type=ws&path=%2Ftr%2FWBxqItFfodwwd5KkhKtK2o%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#CA 🇨🇦 | @Raydikalx | 00B752
 trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@bright.bitgas.org:443?security=tls&fp=chrome#US 🇺🇸 | @Raydikalx | 7C027A
-trojan://humanity@188.114.97.7:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.5MB/s
-trojan://humanity@198.41.223.96:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C3.1MB/s
-trojan://humanity@104.16.174.14:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C3.3MB/s
-trojan://humanity@ip.myip2.qzz.io:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_4%7C1.8MB/s
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@fr1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
