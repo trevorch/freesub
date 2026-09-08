@@ -6,6 +6,4 @@ anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?security
 anytls://9e98496a-0036-4cc6-8302-3929c29ba772@iijjp.mggl.wang:35791?security=tls&type=tcp&packetEncoding=none&alpn=h2&allowInsecure=1&sni=www.apple.com&fp=chrome&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%AF%F0%9F%87%B5JP_78%7C686KB%2Fs%7CR002-260618%2001
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%A9%F0%9F%87%AADE_128%7C856KB%2Fs%7CR002-260618%2001
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&insecure=1&sub_tag=M003-260806&udp=1&username=e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401#%F0%9F%87%A9%F0%9F%87%AADE_141%7C704KB%2Fs%7CM003-260806%2001
-anytls://7d7344aa-ba22-42ae-83c8-e3b8331144d4@asg2.jueduibupao.top:7000?security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG002%209.42MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
-anytls://7d7344aa-ba22-42ae-83c8-e3b8331144d4@dafeizhu.xxxyun.top:55001?security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%206.95MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
-anytls://7d7344aa-ba22-42ae-83c8-e3b8331144d4@ajp2.jueduibupao.top:7000?security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP004%205.61MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
+anytls://dCwrni@api.meituan88.com:7008?security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%2011.42MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
