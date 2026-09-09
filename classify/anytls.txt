@@ -1,3 +1,4 @@
 anytls://dongtaiwang.com@45.221.98.14:59901?security=none&type=tcp&alpn=h2&allowInsecure=1&insecure=1&udp=1#%E5%B9%BF%E6%92%AD%E6%9C%BA%E6%88%BF%2001
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&insecure=1&sub_tag=M003-260806&udp=1&username=e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401#%F0%9F%87%A9%F0%9F%87%AADE_37%7C627KB%2Fs%7CM003-260806%2001
+anytls://b652305a-0c63-4527-8cb3-0ea582076124@173.208.50.220:1443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=lon3.freeguard.org&insecure=1&udp=1&username=b652305a-0c63-4527-8cb3-0ea582076124#GB 🇬🇧 | @Raydikalx | FB700B
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30&insecure=1&udp=1#DE 🇩🇪 | @Raydikalx | 66E6DE
