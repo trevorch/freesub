@@ -1063,7 +1063,8 @@ vless://Telegramjoin%3ATurboConfigs%20@82.40.62.178:9090?encryption=none&type=tc
 vless://XpnTeam-10@199.232.78.160:443?alpn=http%2F1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&sni=ssl.fastly.com&path=%2F&security=tls&fp=chrome#US 🇺🇸 | @Raydikalx | AB69CD
 vless://XpnTeam-14@199.232.78.160:443?security=tls&type=ws&path=%2F&host=Appxdn.global.ssl.fastly.net&alpn=http%2F1.1&sni=ssl.fastly.com&fp=chrome&encryption=none#US 🇺🇸 | @Raydikalx | 601B15
 vless://XpnTeam-9@199.232.78.160:443?alpn=http%2F1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&sni=ssl.fastly.com&path=%2F&security=tls&fp=chrome#US 🇺🇸 | @Raydikalx | 88FACF
-vless://bca65ce5-3208-4211-a5f9-2f6abd4ae7c2@69.46.46.80:443?encryption=none&security=tls&sni=spiderpanel-production-6899.up.railway.app&fp=chrome&type=ws&host=spiderpanel-production-6899.up.railway.app&path=%2Fws%2Fbca65ce5-3208-4211-a5f9-2f6abd4ae7c2#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.2MB/s
+vless://682300d9-74d0-4dae-923c-09cb5d5e9951@103.75.119.11:443?encryption=none&security=reality&sni=sberbank.ru&fp=chrome&pbk=OvlkCDO6YdWR0ec3kVHW-Ul7I9TuEmJVfxXdaZiy5Ug&sid=2cbe511ff1f9200b&type=xhttp#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C1.9MB/s
+vless://XpnTeam-14@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&type=ws&host=Appxdn.global.ssl.fastly.net&path=%2F#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.7MB/s
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?&security=none&type=ws&headerType=&host=3h-unitedstates1.09vpn.com&path=%2Fvless%2F#【美国(3h-unitedstates1.09vpn.com:80)】9月12日
 vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.238.49:8080?&type=ws&headerType=none&path=%2F%3Fed%3D2048#【荷兰(51.158.238.49:8080)】9月12日
 vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#【意大利(ov-italy1.09vpn.com:80)】9月12日
