@@ -903,4 +903,5 @@ hysteria2://8a05860b-5a5e-4a69-ae4b-a4a0244017f2@v10hk30.stableq.top:45607?sni=v
 hysteria2://8a05860b-5a5e-4a69-ae4b-a4a0244017f2@v10hk30.stableq.top:45703?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=Jp47s2DVexsPg1Lt#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93007%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://8a05860b-5a5e-4a69-ae4b-a4a0244017f2@v10hk30.stableq.top:45802?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=T3n2MIpDvdZn16TQ#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93008%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://8a05860b-5a5e-4a69-ae4b-a4a0244017f2@v10hk30.stableq.top:45902?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=hvhFznkNqHceM7ct#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93009%20%7C%201%E5%80%8D%E7%8E%87
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#GB英国(ProxyGo免费节点分享)
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?sni=gta.internet-card.sbs&insecure=1#US美国(ProxyGo免费节点分享)
