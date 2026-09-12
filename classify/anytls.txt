@@ -1,2 +1,1 @@
-anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.864106.xyz:19000?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%202.91MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30&insecure=1&udp=1#DE 🇩🇪 | @Raydikalx | 66E6DE
