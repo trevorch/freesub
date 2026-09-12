@@ -96,12 +96,21 @@ trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v1in2.stableq.top:24408?allowInsec
 trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
 trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@vf3us9.stableq.top:24422?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90902%20%7C%201%E5%80%8D%E7%8E%87
 trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@vf3us9.stableq.top:24413?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90903%20%7C%201%E5%80%8D%E7%8E%87
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http%2F1.1&type=ws&host=www.volumeroot.com&path=%2Fassignment#NL 🇳🇱 | @Raydikalx | 04B0F1
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.96.3:443?sni=mfyousheng.nl.eu.org&allowInsecure=1&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#CA 🇨🇦 | @Raydikalx | B4FB77
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?sni=mfyousheng.nl.eu.org&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#CA 🇨🇦 | @Raydikalx | 2E9335
+trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?sni=ot2.hyas.space&type=ws&path=%2Fx7f9k2m4p8&fp=chrome#CA 🇨🇦 | @Raydikalx | 8C97D3
+trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@162.159.38.58:443?sni=ot.hyas.space&type=ws&path=%2Fx7f9k2m4p8&fp=chrome#US 🇺🇸 | @Raydikalx | D12CD9
+trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@172.64.229.84:443?sni=ot.hyas.space&type=ws&path=%2Fx7f9k2m4p8&fp=chrome#CA 🇨🇦 | @Raydikalx | E1A614
+trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=/tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#CA 🇨🇦 | @Raydikalx | 40547F
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#NL 🇳🇱 | @Raydikalx | 04B0F1
+trojan://LcICDcp!jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#CA 🇨🇦 | @Raydikalx | 17A838
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?sni=mfyousheng.nl.eu.org&allowInsecure=1&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#CA 🇨🇦 | @Raydikalx | A01639
+trojan://QpNH_nu0+wWmXFvF@172.67.130.7:443?path=/tr/CX8cdDNl20JS1rylKmNr0qLb8y?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=dvznjmu8wbcwfwg6.4dhat6zqjxcxi6yxmx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=DvZnjmU8WBcwFWG6.4DhAt6ZqjXCxI6YxmX.wORkeRS.DEV#CA 🇨🇦 | @Raydikalx | C29C50
 trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 2F3085
-trojan://Telegram_healer_config@188.114.97.3:443?sni=N19HYbk46HtAL-mvnTu149WCU-H.bKcZgnqOdLQtM6enDLZ3VS4f2KzQ.wOrkeRS.Dev&type=ws&path=%2Ftr%2FQjO9GZbQ41dJ7RJJykX%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#CA 🇨🇦 | @Raydikalx | C7BF1D
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10012?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | BBDE1A
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | B9E64D
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10012?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 86CDDC
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 8AEF13
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg2.6send.com:10044?sni=www.cloudflare.com&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 6DE858
+trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@bright.bitgas.org:443?security=tls&fp=chrome&path=/#US 🇺🇸 | @Raydikalx | E4BE4A
 trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?sni=z-jp2.1card.cc&allowInsecure=1&type=tcp#%F0%9F%87%B6%F0%9F%87%A6QA_1%7C4.7MB/s
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
