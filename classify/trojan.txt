@@ -320,9 +320,12 @@ trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?sni=ot2.hyas.sp
 trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@162.159.38.58:443?sni=ot.hyas.space&type=ws&path=%2Fx7f9k2m4p8&fp=chrome#US 🇺🇸 | @Raydikalx | D12CD9
 trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@172.64.229.84:443?sni=ot.hyas.space&type=ws&path=%2Fx7f9k2m4p8&fp=chrome#CA 🇨🇦 | @Raydikalx | E1A614
 trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#NL 🇳🇱 | @Raydikalx | 04B0F1
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#US 🇺🇸 | @Raydikalx | 9E825B
 trojan://MiTiVPN@151.101.56.101:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 331FDE
-trojan://MiTiVPN@167.82.76.7:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&path=%2F#US 🇺🇸 | @Raydikalx | F0FD0F
-trojan://MiTiVPN@199.232.78.101:443?path=---@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 952557
+trojan://MiTiVPN@167.82.76.7:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&path=/#US 🇺🇸 | @Raydikalx | F0FD0F
+trojan://M%69TiVPN@199.232.78.101:443?path=---%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=m%69tivpn---ss--s---m%69tivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 952557
+trojan://MiTiVPN@199.232.78.101:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 528A6F
+trojan://MiTiVPN@199.232.78.160:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 37F728
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?sni=mfyousheng.nl.eu.org&allowInsecure=1&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#CA 🇨🇦 | @Raydikalx | A01639
 trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 8AEF13
 trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg2.6send.com:10046?sni=z-sg2.6send.com&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 61BDB5
