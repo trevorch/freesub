@@ -334,10 +334,8 @@ trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?sni=www.cloudflare.
 trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?sni=z-jp2.1card.cc&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | D09D88
 trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10012?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 86CDDC
 trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg2.6send.com:10044?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 6DE858
-trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10008?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%B6%F0%9F%87%A6QA_1%7C4.1MB/s
-trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%B6%F0%9F%87%A6QA_2%7C3.6MB/s
-trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10009?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%ABAF_1%7C2.5MB/s
-trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?sni=z-jp2.1card.cc&allowInsecure=1&type=tcp#%F0%9F%87%B6%F0%9F%87%A6QA_3%7C2.9MB/s
+trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%B6%F0%9F%87%A6QA_1%7C1.7MB/s
+trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-sg2.6send.com:10045?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%B1%F0%9F%87%A6LA_1%7C3.7MB/s
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@fr1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
