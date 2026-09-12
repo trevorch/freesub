@@ -1,1 +1,1 @@
-anytls://b652305a-0c63-4527-8cb3-0ea582076124@173.208.50.220:1443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=lon3.freeguard.org&insecure=1&udp=1&username=b652305a-0c63-4527-8cb3-0ea582076124#GB 🇬🇧 | @Raydikalx | FB700B
+anytls://b652305a-0c63-4527-8cb3-0ea582076124@178.162.221.200:1443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=fra.freeguard.org&insecure=1&udp=1&username=b652305a-0c63-4527-8cb3-0ea582076124#DE 🇩🇪 | @Raydikalx | 1D45E0

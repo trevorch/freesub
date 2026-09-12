@@ -92,24 +92,17 @@ trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v1in2.stableq.top:24408?allowInsec
 trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@vf3us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
 trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@vf3us9.stableq.top:24422?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90902%20%7C%201%E5%80%8D%E7%8E%87
 trojan://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@vf3us9.stableq.top:24413?allowInsecure=0#%E7%BE%8E%E5%9B%BD%E8%8A%82%E7%82%B90903%20%7C%201%E5%80%8D%E7%8E%87
-trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@172.67.177.105:443?sni=app-538961.user-y0o4gm.workers.dev&allowInsecure=1&type=ws&path=%2Fcmh&fp=chrome#CA 🇨🇦 | @Raydikalx | D927F7
+trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?sni=ot2.hyas.space&type=ws&path=%2Fx7f9k2m4p8&fp=chrome#CA 🇨🇦 | @Raydikalx | 8C97D3
 trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@172.64.229.84:443?sni=ot.hyas.space&type=ws&path=%2Fx7f9k2m4p8&fp=chrome#CA 🇨🇦 | @Raydikalx | E1A614
-trojan://A4u^p(_UR*F6@104.17.147.22:443?sni=027.electrocellco-cf-027.workers.dev&type=ws&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#CA 🇨🇦 | @Raydikalx | 8DB559
-trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@172.67.143.54:2096?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=%2Ftaha3&fp=chrome#CA 🇨🇦 | @Raydikalx | 837EE9
-trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@172.67.143.54:443?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=%2Ftaha3&fp=chrome#CA 🇨🇦 | @Raydikalx | 42CB9E
-trojan://eabf1999fefbb7d2@waysi.waysi6688.workers.dev:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=ios&host=waysi.waysi6688.workers.dev&path=/tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#CA 🇨🇦 | @Raydikalx | 40547F
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#NL 🇳🇱 | @Raydikalx | 04B0F1
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.96.3:443?sni=mfyousheng.nl.eu.org&allowInsecure=1&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#CA 🇨🇦 | @Raydikalx | B4FB77
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?sni=mfyousheng.nl.eu.org&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#CA 🇨🇦 | @Raydikalx | 2E9335
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@chatgpt.com:443?sni=mfyousheng.nl.eu.org&allowInsecure=1&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#CA 🇨🇦 | @Raydikalx | A6A16F
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?sni=mfyousheng.nl.eu.org&allowInsecure=1&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#CA 🇨🇦 | @Raydikalx | A01639
-trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&path=/#SG 🇸🇬 | @Raydikalx | 2F3085
-trojan://Telegram_healer_config@172.67.152.243:443?sni=3W2hk6ZJ92orjcjEdmI77hzC.Ny49nUZ6G33RYkoWAZquNl-b9GuN5T.WoRKERs.dEv&type=ws&path=%2Ftr%2Fe2X4F8y1t8YGOWfIV2ImzqxmdmGEpf%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#CA 🇨🇦 | @Raydikalx | 04802D
-trojan://Telegram_healer_config@30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev:443?sni=30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev&type=ws&path=%2Ftr%2FMBHDTiG2ZHfgBBj9iEpRFkse0tafJ%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#CA 🇨🇦 | @Raydikalx | 4A3A55
-trojan://Telegram_healer_config@www.speedtest.net:443?sni=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev&allowInsecure=1&type=ws&path=%2Ftr%2FD0RNup7f2Tt0Tna3gVu5OvfMJYJjD%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#CA 🇨🇦 | @Raydikalx | 3D05C9
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#NL 🇳🇱 | @Raydikalx | 04B0F1
+trojan://Telegram_healer_config@172.67.130.246:443?sni=3OQxS5h6kCscecND.ZMh9KCGos2cq55uh6qDYaa938a5UgB.wOrkERS.dEV&type=ws&path=%2Ftr%2FzMUJnc0O87fJR02xzGNed%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#CA 🇨🇦 | @Raydikalx | E8DC6C
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10008?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 28F538
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10009?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 51A7D5
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10012?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | BBDE1A
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | B9E64D
 trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10012?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#JP 🇯🇵 | @Raydikalx | 86CDDC
 trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 8AEF13
-trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg2.6send.com:10044?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 6DE858
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg2.6send.com:10044?sni=www.cloudflare.com&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 6DE858
 trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg2.6send.com:10045?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#SG 🇸🇬 | @Raydikalx | 0DA868
 trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?sni=z-jp2.1card.cc&allowInsecure=1&type=tcp#%F0%9F%87%B6%F0%9F%87%A6QA_1%7C2.9MB/s
 trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10009?sni=www.cloudflare.com&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%ABAF_1%7C2.4MB/s
