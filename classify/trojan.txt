@@ -351,7 +351,7 @@ trojan://MiTiVPN@199.232.78.101:443?path=---@bored_vpn&security=tls&alpn=http/1.
 trojan://MiTiVPN@199.232.78.101:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#US 🇺🇸 | @Raydikalx | B3C4FB
 trojan://MiTiVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#US 🇺🇸 | @Raydikalx | 02E45B
 trojan://MiTiVPN@199.232.78.160:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&path=@mehrosaboran#US 🇺🇸 | @Raydikalx | 37F728
-trojan://TAJhE0BC0_S1JDm9EmQxyLS64uC8ekbr@de2.x8lab.org:9433?sni=de2.x8lab.org&allowInsecure=0&type=ws&path=%2Fchatbot#%F0%9F%87%A6%F0%9F%87%B2AM_1%7C2.3MB/s
+trojan://d83a390c-33c3-4577-9258-e062f8ebdc16@172.64.41.251:443?sni=oa1.hyas.space&allowInsecure=0&type=ws&path=%2Fx7f9k2m4p8#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.1MB/s
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@fr1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
