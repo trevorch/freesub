@@ -1,5 +1,4 @@
-anytls://AOQ8R6Z8cODflQvPa6Q5pA%3D%3D@154.26.177.228:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%203.68MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
-anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.864106.xyz:19000?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS003%203.11MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
+anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.864106.xyz:19000?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS003%202.52MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 anytls://b652305a-0c63-4527-8cb3-0ea582076124@178.162.221.200:1443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=fra.freeguard.org&insecure=1&udp=1&username=b652305a-0c63-4527-8cb3-0ea582076124#DE 🇩🇪 | @Raydikalx | 1D45E0
 anytls://b652305a-0c63-4527-8cb3-0ea582076124@95.168.184.34:1443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=lon1.freeguard.org&insecure=1&udp=1&username=b652305a-0c63-4527-8cb3-0ea582076124#GB 🇬🇧 | @Raydikalx | BC8DC4
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30&insecure=1&udp=1#DE 🇩🇪 | @Raydikalx | 66E6DE
