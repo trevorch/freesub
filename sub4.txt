@@ -1,9 +1,6 @@
-hysteria2://Telegram%40vpnjey@179.61.138.145:54759?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.9MB/s
-https://37.120.156.34:443#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C1.4MB/s
-https://None:None@146.70.242.146:443#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.2MB/s
-https://None:None@149.102.245.65:443#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.6MB/s
-https://185.183.105.130:443#%F0%9F%87%AE%F0%9F%87%B9IT_1%7C1.0MB/s
-https://31.7.62.50:443#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.0MB/s
-https://149.22.86.1:443#%F0%9F%87%B5%F0%9F%87%B9PT_1%7C2.2MB/s
-vless://ec43c5d5-b6f9-4077-95cf-1450abf48441@m2-production-2516.up.railway.app:443?encryption=none&security=tls&fp=ios&type=ws&path=%2Fvless#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.6MB/s
-vless://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@213.176.17.50:443?encryption=none&security=reality&sni=sstats.vk-portal.net&fp=firefox&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=xhttp#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C1.3MB/s
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@188.72.103.3:443?encryption=none&security=tls&sni=cdnapiv2.streamru10.net&fp=qq&type=xhttp#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C1.5MB/s
+https://185.216.35.66:443#%F0%9F%87%A8%F0%9F%87%BFCZ_1%7C1.1MB/s
+https://mmgr.club:443#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.0MB/s
+https://146.70.244.2:443#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C1.0MB/s
+https://null:null@jewelscollecti.icu:443#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.4MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.144.113.215:443#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.1MB/s
