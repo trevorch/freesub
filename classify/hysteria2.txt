@@ -713,6 +713,7 @@ hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45703?sni=v
 hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45802?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=T3n2MIpDvdZn16TQ#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93008%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://9aaeb845-65ab-49dc-9906-bdc8f5ff2ce9@v10hk30.stableq.top:45902?sni=v10hk30.stableq.top&insecure=0&obfs=salamander&obfs-password=hvhFznkNqHceM7ct#%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B93009%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#TH 🇹🇭 | @Raydikalx | 2373E1
+hysteria2://18bd49994f2eea74ff62798bd75fb7d1@107.175.219.48:443?sni=107.175.219.48&insecure=1#US 🇺🇸 | @Raydikalx | 8A6FD5
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443?insecure=1&sni=replay.wwwinternetvideo.click#DE 🇩🇪 | @Raydikalx | FBA013
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?insecure=1&sni=replay.wwwinternetvideo.click#DE 🇩🇪 | @Raydikalx | 49387F
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#DE 🇩🇪 | @Raydikalx | CCB99E
@@ -732,7 +733,6 @@ hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@31.76.30.97:443?ins
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#FI 🇫🇮 | @Raydikalx | D3E813
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#RU 🇷🇺 | @Raydikalx | 6C80CF
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=nl1.sferavpn.pro#NL 🇳🇱 | @Raydikalx | 12B08E
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=1&sni=de1.sferavpn.pro#DE 🇩🇪 | @Raydikalx | EF77EA
 hysteria2://CnVfXXvMzh@72.56.92.120:443?insecure=1&sni=hys13.wba-pn.ru#NL 🇳🇱 | @Raydikalx | BB67B0
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#NL 🇳🇱 | @Raydikalx | 874A31
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#US 🇺🇸 | @Raydikalx | B50285
@@ -795,10 +795,9 @@ hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sn
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1&security=tls&sni=admin.wwwinternetvideo.click#PL 🇵🇱 | @Raydikalx | 8AB712
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#RU 🇷🇺 | @Raydikalx | 2BFDAD
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go2.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#RU 🇷🇺 | @Raydikalx | 8B711C
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https%25252525253a%25252525252f%25252525252fwww.calmloud.com#DE 🇩🇪 | @Raydikalx | A3ECD1
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https%252525253a%252525252f%252525252fwww.calmloud.com#DE 🇩🇪 | @Raydikalx | A3ECD1
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=130.61.50.75#DE 🇩🇪 | @Raydikalx | 429F7D
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#DE 🇩🇪 | @Raydikalx | C4F82A
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=www.calmloud.com#DE 🇩🇪 | @Raydikalx | 91EC3F
 hysteria2://Telegram%40vpnjey@179.61.138.145:54759?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.9MB/s
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v13fr2.stableq.top:45101?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=sAShAaLP9v98OCbd#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90201%20%7C%201%E5%80%8D%E7%8E%87
 hysteria2://ebfffbca-ab93-4061-8cee-c6a7d82da118@v13fr2.stableq.top:45201?sni=v13fr2.stableq.top&insecure=0&obfs=salamander&obfs-password=vrzX7TBJC0EhnrrS#%E6%B3%95%E5%9B%BD%E8%8A%82%E7%82%B90202%20%7C%201%E5%80%8D%E7%8E%87
