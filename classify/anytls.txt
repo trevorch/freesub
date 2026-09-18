@@ -9,5 +9,4 @@ anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn:443?securi
 anytls://fdd503fe-9cef-4c91-948a-8149a7c8a2d2@se.xiaoliyu.cyou:443?security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE001%202.27MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
 anytls://9sK2mP8xQ7vL3nZ6@6ivh.pnuqcnp.cn:443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW002%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
 anytls://fdd503fe-9cef-4c91-948a-8149a7c8a2d2@gb2.xiaoliyu.cyou:4430?security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB017%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
-anytls://9sK2mP8xQ7vL3nZ6@6ivh.pnuqcnp.cn:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&udp=1#TW 🇹🇼 | @Raydikalx | 724DF8
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30&insecure=1&udp=1#DE 🇩🇪 | @Raydikalx | 66E6DE
