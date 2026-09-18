@@ -245,7 +245,7 @@ trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&inse
 trojan://LcICDcp!jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#CA 🇨🇦 | @Raydikalx | 17A838
 trojan://skynet@cloud.lakshan.us:119?sni=cloud.lakshan.us&type=raw&fp=chrome#SG 🇸🇬 | @Raydikalx | 87128B
 trojan://Telegram_healer_config@104.21.64.165:443?security=tls&sni=3w2hk6Zj92orJcJedMI77HzC.Ny49NuZ6g33rYkoWaZQUNl-B9GuN5T.wOrkERs.DEv&alpn=http/1.1&type=ws&host=3w2hk6zj92orjcjedmi77hzc.ny49nuz6g33rykowazqunl-b9gun5t.workers.dev&path=/tr/owxywx7VjYMLyGu2JOQYjHwV67l?ed=2560#CA 🇨🇦 | @Raydikalx | 6B235C
-trojan://humanity@104.18.152.149:443?sni=www.ignitelimit.com&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1006KB/s
+trojan://sg-trojan-2026@43.173.90.202:443?sni=sg-proxy.local&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.4MB/s
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24407?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90207%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@v1in2.stableq.top:24408?allowInsecure=0#%E5%8D%B0%E5%BA%A6%E8%8A%82%E7%82%B90208%20%7C%202%E5%80%8D%E7%8E%87
 trojan://ebfffbca-ab93-4061-8cee-c6a7d82da118@fr1us9.stableq.top:24421?allowInsecure=0#%E9%98%B2%E5%A4%B1%E8%81%94%E7%BD%91%E5%9D%80https%3A%2F%2Fwww.stableproxy.net
