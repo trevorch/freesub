@@ -3,8 +3,11 @@ anytls://13f0acfa-38c1-4e82-a758-583aa31740df@svip.skycon808.com:60005?security=
 anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=apple.com&insecure=1&sub_tag=V007-260618&udp=1&username=2d7bda32-a8b5-4416-a1ea-4559ff98f86e#%F0%9F%87%BA%F0%9F%87%B8US_230%7C452KB%2Fs%7CV007-260618%2001
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%A9%F0%9F%87%AADE_33%7C1.2MB%2Fs%7CR002-260618%2001
 anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_321%7C448KB%2Fs%7CR002-260618%2001
-anytls://4262f101-0d1f-4504-95f0-2187c650d45c@asg3.jueduibupao.top:7000?security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%2010.66MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
-anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.864106.xyz:19000?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%203.17MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
-anytls://4262f101-0d1f-4504-95f0-2187c650d45c@dafeizhu.xxxyun.top:55001?security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK008%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.864106.xyz:19000?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%202.81MB%2Fs%20TG%40jcnode
+anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.864106.xyz:19000?security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS002%202.52MB%2Fs%20TG%40jcnode
+anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%202.3MB%2Fs%E7%BA%AF%E5%87%80%20TG%40jcnode
+anytls://fdd503fe-9cef-4c91-948a-8149a7c8a2d2@se.xiaoliyu.cyou:443?security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE001%202.27MB%2Fs%E4%B8%AD%E6%80%A7%20TG%40jcnode
+anytls://9sK2mP8xQ7vL3nZ6@6ivh.pnuqcnp.cn:443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW002%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+anytls://fdd503fe-9cef-4c91-948a-8149a7c8a2d2@gb2.xiaoliyu.cyou:4430?security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB017%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
 anytls://9sK2mP8xQ7vL3nZ6@6ivh.pnuqcnp.cn:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&udp=1#TW 🇹🇼 | @Raydikalx | 724DF8
 anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=cn.bing.com&fp=chrome&idle_session_check_interval=30&idle_session_timeout=30&insecure=1&udp=1#DE 🇩🇪 | @Raydikalx | 66E6DE
